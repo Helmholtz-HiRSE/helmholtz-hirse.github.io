@@ -1,0 +1,29 @@
+---
+
+---
+@charset "utf-8";
+
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "bootswatch";
+
+.navbar-expand-lg .navbar-nav .active .nav-link {
+    text-decoration: underline;
+}
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+}
+.jumbotron {    
+    background-color: #e9ecef;
+    /*border-radius: .3rem;*/
+    border-bottom: 3em solid #8bb522;
+}
+.jumbotron .container {
+    padding-bottom: 3em;
+}
+h1 {
+    margin-bottom: 1em;
+}

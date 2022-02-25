@@ -1,0 +1,10 @@
+sass:
+  sass_dir: assets/css
+
+title: HiRSE_PS
+
+collections:
+  projects:
+    output: true
+  news:
+    output: true
