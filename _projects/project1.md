@@ -1,11 +1,14 @@
 ---
 layout: project
 title: Project 1
+Topics: Lorem ipsum 
+Keywords: dolor, sit, amet, consectetur
+Project_Head: Aliquam Semper
+Members: Vivamus, Scelerisque, Neque, Ante, Pretium
+Status: gravida
 ---
 
 # Project 1
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue a dui in gravida. Integer consectetur porttitor odio, nec eleifend dolor pretium eu. Phasellus eu ullamcorper nulla. Sed consequat venenatis rhoncus. Aliquam semper velit ut metus accumsan, a lobortis urna pulvinar. Aliquam erat volutpat. Quisque iaculis porttitor leo, vitae eleifend odio tincidunt non. Nunc ut aliquet velit, quis tempus mi. Aenean tristique efficitur ligula, a maximus metus malesuada vitae. Cras porta purus id mi vulputate laoreet. Donec at nisi pharetra, sagittis magna nec, consequat nulla.
 
