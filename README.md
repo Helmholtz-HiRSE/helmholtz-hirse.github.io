@@ -1,4 +1,4 @@
-HiTEST
-------
+HiRSE_PS Website
+----------------
 
-Test for HiRSE_PS web
+
