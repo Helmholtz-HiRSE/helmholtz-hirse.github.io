@@ -1,4 +1,6 @@
 ---
-layout: post
-title:  "News and Events"
+layout: post_news
+title:  "News"
 ---
+
+# News

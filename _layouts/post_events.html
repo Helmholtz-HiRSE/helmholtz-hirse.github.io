@@ -1,0 +1,16 @@
+---
+layout: news
+---
+
+{{ content }}
+<ul>
+  {% assign all_events = site.events |  reverse %}
+  {% for post in all_events %}
+
+    <li class="news">
+      <span class="small">{{ post.date | date: '%B %d, %Y' }}</span><br>
+      <a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

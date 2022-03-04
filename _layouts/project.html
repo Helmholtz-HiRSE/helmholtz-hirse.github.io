@@ -23,44 +23,44 @@
           <p class="fs-5 fw-semibold "style="margin: 1em;">Project Profile </p>      
           <div class="list-group list-group-flush border-bottom scrollarea">
             {% if page.Topics %}
-            <a href="#" class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+            <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">Topics</strong>
               </div>
               <div class="col-12 mb-1 small">{{ page.Topics }}</div>
-            </a>
+            </span>
             {% endif %}
             {% if page.Keywords %}
-            <a href="#" class="list-group-item list-group-item-action py-3 lh-tight">
+            <span  class="list-group-item list-group-item-action py-3 lh-tight">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">Keywords</strong>
               </div>
               <div class="col-12 mb-1 small">{{ page.Keywords | join: ', ' | escape }}</div>
-            </a>
+            </span>
             {% endif %}
             {% if page.Project_Head %}
-            <a href="#" class="list-group-item list-group-item-action py-3 lh-tight">
+            <span class="list-group-item list-group-item-action py-3 lh-tight">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">Project Head</strong>
               </div>
               <div class="col-12 mb-1 small">{{ page.Project_Head }}</div>
-            </a>
+            </span>
             {% endif %}
             {% if page.Members %}
-            <a href="#" class="list-group-item list-group-item-action py-3 lh-tight">
+            <span class="list-group-item list-group-item-action py-3 lh-tight">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">Members</strong>
               </div>
               <div class="col-12 mb-1 small">{{ page.Members | join: ', ' | escape }}</div>
-            </a>
+            </span>
             {% endif %}
             {% if page.Status %}
-            <a href="#" class="list-group-item list-group-item-action py-3 lh-tight">
+            <span class="list-group-item list-group-item-action py-3 lh-tight">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">Status</strong>
               </div>
               <div class="col-12 mb-1 small">{{ page.Members }}</div>
-            </a>
+            </span>
             {% endif %}        
           </div> 
           

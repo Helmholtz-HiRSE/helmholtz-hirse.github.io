@@ -8,6 +8,8 @@ collections:
     output: true
   news:
     output: true
+  events:
+    output: true
 
 plugins:
   - jekyll-toc
