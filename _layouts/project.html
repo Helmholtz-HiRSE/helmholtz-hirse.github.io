@@ -17,9 +17,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8">
-          {{ content }}
+          {{ content | inject_anchors }}
         </div>    
-        <div class="col-6 col-md-4 sidebar">  
+        <div class="col-md-4 sidebar">  
           <p class="fs-5 fw-semibold "style="margin: 1em;">Project Profile </p>      
           <div class="list-group list-group-flush border-bottom scrollarea">
             {% if page.Topics %}
@@ -62,8 +62,15 @@
               <div class="col-12 mb-1 small">{{ page.Members }}</div>
             </a>
             {% endif %}        
-          </div>    
-        </div>
+          </div> 
+          
+          {% if page.toc == true %}
+          <p class="fs-5 fw-semibold "style="margin: 1em;">Table of Contents </p>      
+          <div class="list-group list-group-flush border-bottom scrollarea">
+            {{ content | toc_only }}
+          </div>
+        {% endif %} 
+
       </div>
     </div>
     {% include footer.html %}
