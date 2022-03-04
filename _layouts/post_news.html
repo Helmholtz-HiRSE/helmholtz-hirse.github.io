@@ -8,7 +8,7 @@ layout: news
   {% for post in all_news %}
     <li class="news">
       <span class="small">{{ post.date | date: '%B %d, %Y' }}</span><br>
-      <a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a>
+      <strong><a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a></strong>
       {{ post.excerpt }}
     </li>
   {% endfor %}

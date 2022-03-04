@@ -8,8 +8,13 @@ layout: news
   {% for post in all_events %}
 
     <li class="news">
-      <span class="small">{{ post.date | date: '%B %d, %Y' }}</span><br>
-      <a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a>
+      <span class="small">{{ post.start_date  | date: '%B %d, %Y' }}
+        {% if post.end_date %}
+        - {{ post.end_date  | date: '%B %d, %Y'}}
+        {% endif %} 
+      </span>
+      <br>
+      <strong><a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a></strong>
       {{ post.excerpt }}
     </li>
   {% endfor %}

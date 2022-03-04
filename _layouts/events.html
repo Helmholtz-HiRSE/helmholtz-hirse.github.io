@@ -12,7 +12,10 @@
     {% include navbar.html %}
     <main>
     <div class="container">
-      {{ content }}
+      {{ page.content | remove_first: page.excerpt }}
+      {% if page.link %}
+      <a href="{{ page.link }}">{{ page.link }}</a>
+      {% endif; %}
     </div>
     {% include footer.html %}
     </main> 
