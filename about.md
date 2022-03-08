@@ -5,9 +5,12 @@ title: Partners
 # About page
 
 
-<div style="float: left"> <a href="https://www.kit.edu/kit/english/index.php"><img width="300" src="assets/FZj_Logo.jpg"></a> </div><br/>
+<div> <a href="https://www.fz-juelich.de/portal/EN/AboutUs/_node.html"><img width="300" src="assets/FZj_Logo.jpg"></a> </div><br/>
 
-Maecenas sed orci nec elit faucibus ultrices vitae non lacus. Vivamus scelerisque neque in ante pretium, at iaculis dolor tincidunt. Sed at nunc vel elit molestie ultrices vel sit amet purus. Fusce nulla justo, pulvinar vel nulla nec, rhoncus lacinia justo. Etiam dignissim tempor diam ut fringilla. Praesent auctor mauris eu fringilla ultrices. Donec ultrices sem mi, et molestie est viverra quis. Aenean id dolor eget urna dignissim tincidunt congue et justo. Nullam tempor blandit nunc sit amet commodo. Ut congue est in malesuada porta.
+Forschungszentrum Jülich (FZJ) pursues cutting-edge interdisciplinary research on pressing issues facing society today. With its competence in materials science and simulation, and its expertise in physics, nanotechnology, and information technology, as well as in the biosciences and brain research, Jülich is developing the basis for the key technologies of tomorrow. In this way, Forschungszentrum Jülich helps to solve the grand challenges facing society in the fields of energy and the environment as well as information and the brain. 
+
+Forschungszentrum Jülich is also breaking new ground in the form of strategic partnerships with universities, research institutions, and industry in Germany and abroad. With more than 5,500 employees, Jülich – a member of the Helmholtz Association – is one of the large interdisciplinary research centres in Europe.
+
 
 <br/>
 
