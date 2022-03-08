@@ -1,6 +1,6 @@
 ---
-layout: project
-title: About
+layout: page
+title: Partners
 ---
 # About page
 
