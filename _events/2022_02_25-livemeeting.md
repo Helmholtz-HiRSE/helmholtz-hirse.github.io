@@ -7,7 +7,7 @@ location: test
 excerpt_separator: <!--more-->
 ---
 
-On June 1-2, we will have our first HiRSE_PS live meeting! 
+On June 1-2, we will have our first HiRSE_PS live meeting! Details will follow soon.
 
 <!--more-->
 
