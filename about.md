@@ -1,6 +1,11 @@
 ---
-layout: page
+layout: project
 title: Partners
+partners:
+  - FZJ
+  - KIT
+  - HZB
+  - HEREON
 ---
 # About page
 
