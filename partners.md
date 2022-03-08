@@ -5,7 +5,7 @@ title: Partners
 # HiRSE_PS Partners
 
 
-<div> <a href="https://www.fz-juelich.de/portal/EN/AboutUs/_node.html"><img width="300" src="assets/FZj_Logo.jpg"></a> </div><br/>
+<div> <a href="https://www.fz-juelich.de/portal/EN/AboutUs/_node.html"><img width="300" src="assets/FZj_Logo.jpg"></a> </div>
 
 Forschungszentrum Jülich (FZJ) pursues cutting-edge interdisciplinary research on pressing issues facing society today. With its competence in materials science and simulation, and its expertise in physics, nanotechnology, and information technology, as well as in the biosciences and brain research, Jülich is developing the basis for the key technologies of tomorrow. In this way, Forschungszentrum Jülich helps to solve the grand challenges facing society in the fields of energy and the environment as well as information and the brain. 
 
@@ -15,7 +15,7 @@ Forschungszentrum Jülich is also breaking new ground in the form of strategic p
 <br/>
 
 ---
-<div> <a href="https://www.kit.edu/kit/english/index.php"><img width="300" src="assets/1000px-Logo_KIT.svg.png"></a> </div><br/>
+<div> <a href="https://www.kit.edu/kit/english/index.php"><img width="300" src="assets/1000px-Logo_KIT.svg.png"></a> </div>
 
 The Karlsruhe Institute of Technology (KIT) is “The Research University in the Helmholtz Association.” As the only German university of excellence with a national large-scale research sector, we offer our students, researchers, and employees unique learning, teaching, and working conditions. The roots of the academic education institution extend all the way back to 1825. Today’s structure of KIT is the result of the merger of the Technical University of Karlsruhe and Karlsruhe Research Center in 2009.
 
@@ -24,7 +24,7 @@ Presently, more than 9000 people are working at KIT, of which more than half are
 <br/>
 
 ---
-<div> <a href="https://www.hereon.de/about_us/index.php.en"><img width="300" src="assets/hereon.png"></a> </div><br/>
+<div> <a href="https://www.hereon.de/about_us/index.php.en"><img width="300" src="assets/hereon.png"></a> </div>
 
 Helmholtz-Zentrum Hereon conducts international cutting-edge research for a changing world: approximately 1,100 employees generate knowledge and innovation to facilitate more resilience and sustainability. Hereon’s scientific spectrum encompasses high-performance materials, processes and environmentally friendly technologies for mobility and new energy systems. Furthermore, research is conducted on biomaterials for medicine and for increasing the quality of life. Through research and consulting, Hereon addresses the challenges of climate change in a solution-oriented manner and facilitates sustainable management as well as the protection of the coasts and marine environment through comprehensive scientific understanding. From basic understanding to practical applications – the interdisciplinary research center covers a unique spectrum.
 
@@ -33,7 +33,7 @@ As part of an international network and as a member of the Helmholtz Association
 <br/>
 
 ---
-<div> <a href="https://www.helmholtz-berlin.de/zentrum/index_en.html"><img width="300" src="assets/hzb-logo-a4-rgb.jpg"></a> </div><br/>
+<div> <a href="https://www.helmholtz-berlin.de/zentrum/index_en.html"><img width="300" src="assets/hzb-logo-a4-rgb.jpg"></a> </div>
 
 Materials for a sustainable energy supply and operation of the electron storage ring BESSY II – those are the cornerstones of Helmholtz-Zentrum Berlin and its research. Both of these fields complement each other, since questions arising from research continually drive the advancement of the experimental environment at BESSY II and vice versa; the possibilities that BESSY II offers accelerate energy research enormously.
 
