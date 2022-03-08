@@ -7,7 +7,7 @@ partners: FZJ, KIT, HEREON, HZB
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue a dui in gravida. Integer consectetur porttitor odio, nec eleifend dolor pretium eu. Phasellus eu ullamcorper nulla. Sed consequat venenatis rhoncus. Aliquam semper velit ut metus accumsan, a lobortis urna pulvinar. Aliquam erat volutpat. Quisque iaculis porttitor leo, vitae eleifend odio tincidunt non. Nunc ut aliquet velit, quis tempus mi. Aenean tristique efficitur ligula, a maximus metus malesuada vitae. Cras porta purus id mi vulputate laoreet. Donec at nisi pharetra, sagittis magna nec, consequat nulla.
 
-<img style="float: right;" src="assets/FZj_Logo.jpg">
+<img style="float: right" width="200" src="assets/FZj_Logo.jpg">
 
 Maecenas sed orci nec elit faucibus ultrices vitae non lacus. Vivamus scelerisque neque in ante pretium, at iaculis dolor tincidunt. Sed at nunc vel elit molestie ultrices vel sit amet purus. Fusce nulla justo, pulvinar vel nulla nec, rhoncus lacinia justo. Etiam dignissim tempor diam ut fringilla. Praesent auctor mauris eu fringilla ultrices. Donec ultrices sem mi, et molestie est viverra quis. Aenean id dolor eget urna dignissim tincidunt congue et justo. Nullam tempor blandit nunc sit amet commodo. Ut congue est in malesuada porta.
 
