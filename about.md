@@ -5,16 +5,13 @@ title: Partners
 # About page
 
 
-## Forschungszentrum Jülich
-
-<img style="float: left" width="300" src="assets/FZj_Logo.jpg">
+<div style="float: left"> <a href="https://www.kit.edu/kit/english/index.php"><img width="300" src="assets/FZj_Logo.jpg"></a> </div>
 
 Maecenas sed orci nec elit faucibus ultrices vitae non lacus. Vivamus scelerisque neque in ante pretium, at iaculis dolor tincidunt. Sed at nunc vel elit molestie ultrices vel sit amet purus. Fusce nulla justo, pulvinar vel nulla nec, rhoncus lacinia justo. Etiam dignissim tempor diam ut fringilla. Praesent auctor mauris eu fringilla ultrices. Donec ultrices sem mi, et molestie est viverra quis. Aenean id dolor eget urna dignissim tincidunt congue et justo. Nullam tempor blandit nunc sit amet commodo. Ut congue est in malesuada porta.
 
+<br/>
 
-
-## Karlsruhe Institute of Technology
-
+---
 <div style="float: left"> <a href="https://www.kit.edu/kit/english/index.php"><img width="300" src="assets/1000px-Logo_KIT.svg.png"></a> </div>
 
 The Karlsruhe Institute of Technology (KIT) is “The Research University in the Helmholtz Association.” As the only German university of excellence with a national large-scale research sector, we offer our students, researchers, and employees unique learning, teaching, and working conditions. The roots of the academic education institution extend all the way back to 1825. Today’s structure of KIT is the result of the merger of the Technical University of Karlsruhe and Karlsruhe Research Center in 2009.
@@ -23,14 +20,18 @@ Presently, more than 9000 people are working at KIT, of which more than half are
 
 <br/>
 
-## Helmholtz-Zentrum Hereon
+---
+<div style="float: left"> <a href="https://www.hereon.de/about_us/index.php.en"><img width="300" src="assets/hereon.png"></a> </div>
 
-<img style="float: left" width="300" src="assets/hereon.png">
+Helmholtz-Zentrum Hereon conducts international cutting-edge research for a changing world: approximately 1,100 employees generate knowledge and innovation to facilitate more resilience and sustainability. Hereon’s scientific spectrum encompasses high-performance materials, processes and environmentally friendly technologies for mobility and new energy systems. Furthermore, research is conducted on biomaterials for medicine and for increasing the quality of life. Through research and consulting, Hereon addresses the challenges of climate change in a solution-oriented manner and facilitates sustainable management as well as the protection of the coasts and marine environment through comprehensive scientific understanding. From basic understanding to practical applications – the interdisciplinary research center covers a unique spectrum.
 
-Integer vitae lacinia nunc. In leo augue, gravida non ultrices ut, ornare id libero. Vestibulum porta est augue, a scelerisque felis tempus et. Phasellus finibus mauris quis hendrerit lacinia. Donec aliquam molestie mi, non feugiat felis cursus eu. Donec commodo porta magna, non faucibus augue ornare ut. Nullam mollis vitae neque ut faucibus. Donec vel mi id turpis fringilla sollicitudin a non ipsum. Mauris tincidunt velit nec scelerisque placerat. Fusce at vehicula velit. Aenean pretium sed metus eget porta. Donec facilisis erat elit. Cras mauris magna, blandit in congue non, vulputate non odio.
+As part of an international network and as a member of the Helmholtz Association, Hereon supports political, economic and societal institutions in shaping the future through the transfer of its expertise. Founded in 1956, the center is the largest non-university research institution in Schleswig-Holstein. In addition to its main location in Geesthacht and its site in Teltow near Berlin, Hereon has branches in Hamburg, Kiel, Berlin and Garching bei München. The research center has an annual budget of approximately 130 million Euros.
 
-## Helmholtz-Zentrum Berlin
+<br/>
 
-<img style="float: left" width="300" src="assets/hzb-logo-a4-rgb.jpg">
+---
+<div style="float: left"> <a href="https://www.helmholtz-berlin.de/zentrum/index_en.html"><img width="300" src="assets/hzb-logo-a4-rgb.jpg"></a> </div>
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut dictum porta augue fermentum venenatis. Integer ut tempus ipsum. Curabitur egestas ex vitae auctor malesuada. Donec sit amet mollis purus. Quisque pulvinar est eu magna tristique ornare. Nulla semper tincidunt sem. 
+Materials for a sustainable energy supply and operation of the electron storage ring BESSY II – those are the cornerstones of Helmholtz-Zentrum Berlin and its research. Both of these fields complement each other, since questions arising from research continually drive the advancement of the experimental environment at BESSY II and vice versa; the possibilities that BESSY II offers accelerate energy research enormously.
+
+HZB has existed since 2009. Its roots go much further into the past, given that HZB arose from the fusion of two older research institutions, the former Hahn-Meitner-Institut (est. 1959) and BESSY GmbH (est. 1979). With approximately 1,100 employees, HZB is now one of the largest non-university research centres in Berlin, and a member of the Helmholtz Association. HZB conducts research at two locations, in Wannsee and Adlershof.
