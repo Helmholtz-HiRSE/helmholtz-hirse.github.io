@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Partners
 ---
 # HiRSE_PS Partners
