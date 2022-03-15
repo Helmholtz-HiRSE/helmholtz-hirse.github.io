@@ -7,22 +7,11 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <ul class="navbar-nav">
       {% for item in site.data.navbar %}           
-            {% if item.name == "Projects" %}
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Projects</a>
-              <div class="dropdown-menu">
-                {% for item in site.data.projects_subnav %}
-                <a class="dropdown-item" href="{{ item.link |  prepend: site.baseurl}}">{{ item.name }}</a>
-                {% endfor %}
-              </div>
-            </li>
-            {% else %}
-            <li {% if page.url == item.link %}class="nav-item active"{% else
-              %}class="nav-item"{% endif %}>
-               <a href="{{ item.link |  prepend: site.baseurl}}" class="nav-link">{{ item.name }}</a>
-             </li>
-            {% endif %}
-        {% endfor %}  
+        <li {% if page.url == item.link %}class="nav-item active"{% else
+          %}class="nav-item"{% endif %}>
+            <a href="{{ item.link |  prepend: site.baseurl}}" class="nav-link">{{ item.name }}</a>
+        </li>          
+      {% endfor %}  
     </ul>
   </div>
 </div>
