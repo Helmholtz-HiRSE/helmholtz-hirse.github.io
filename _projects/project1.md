@@ -1,33 +1,26 @@
 ---
 layout: project
-title: Project 1
-Topics: Lorem ipsum 
-Keywords: dolor, sit, amet, consectetur
-Project_Head: Aliquam Semper
-Members: Vivamus, Scelerisque, Neque, Ante, Pretium
-Status: gravida
-toc: true
+title: Heat - The Helmholtz Analytics Toolkit
+Topics: High-performance Data Analysis, Machine Learning, Distributed Tensors, Python, MPI, GPU
+Project_Head: Markus Götz
+Members: KIT-SCC, FZJ-JSC, DLR-SC
 ---
 
-# Project 1
+# Heat
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue a dui in gravida. Integer consectetur porttitor odio, nec eleifend dolor pretium eu. Phasellus eu ullamcorper nulla. Sed consequat venenatis rhoncus. Aliquam semper velit ut metus accumsan, a lobortis urna pulvinar. 
-## Aliquam erat volutpat
+Heat is a flexible and seamless open-source software for high performance data analytics and machine learning. It provides highly optimized algorithms and data structures for tensor computations using CPUs, GPUs and distributed cluster systems on top of MPI. The goal of Heat is to fill the gap between data analytics and machine learning libraries with a strong focus on single-node performance, and traditional high-performance computing (HPC). Heat's generic Python-first programming interface integrates seamlessly with the existing data science ecosystem and makes it as effortless as using numpy to write scalable scientific and data science applications.
 
-Quisque iaculis porttitor leo, vitae eleifend odio tincidunt non. Nunc ut aliquet velit, quis tempus mi. Aenean tristique efficitur ligula, a maximus metus malesuada vitae. Cras porta purus id mi vulputate laoreet. Donec at nisi pharetra, sagittis magna nec, consequat nulla.
+Heat allows you to tackle your actual Big Data challenges that go beyond the computational and memory needs of your laptop and desktop.
 
-## Maecenas sed orci nec 
+## Goals
 
-elit faucibus ultrices vitae non lacus. Vivamus scelerisque neque in ante pretium, at iaculis dolor tincidunt. Sed at nunc vel elit molestie ultrices vel sit amet purus. Fusce nulla justo, pulvinar vel nulla nec, rhoncus lacinia justo. Etiam dignissim tempor diam ut fringilla. Praesent auctor mauris eu fringilla ultrices. Donec ultrices sem mi, et molestie est viverra quis. Aenean id dolor eget urna dignissim tincidunt congue et justo. Nullam tempor blandit nunc sit amet commodo. Ut congue est in malesuada porta.
+In line with HiRSE_PS we would like to achieve at least the following objectives:
 
-## Class aptent taciti 
+* Continuous Benchmarking
+* Portation to IPUs and XPUs
+* Optimized Communication and Distribution Semantics
 
-sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean vel eleifend risus. Suspendisse lacinia nibh lectus, sed rhoncus massa viverra quis. Donec congue erat vitae libero blandit, at dapibus sapien iaculis. Etiam vitae erat sit amet magna rhoncus posuere nec sit amet lorem. Nam bibendum pulvinar feugiat. Vivamus ullamcorper facilisis nisl, eu vestibulum felis tempus sit amet. Nullam vitae congue odio, sit amet placerat ex. Vivamus vitae egestas orci.
+## Activities
 
-## Integer vitae lacinia nunc
+Currently Heat is part of the Google Summer of Code 2022. Several projects will center around additional core features and applications.
 
-In leo augue, gravida non ultrices ut, ornare id libero. Vestibulum porta est augue, a scelerisque felis tempus et. Phasellus finibus mauris quis hendrerit lacinia. Donec aliquam molestie mi, non feugiat felis cursus eu. Donec commodo porta magna, non faucibus augue ornare ut. Nullam mollis vitae neque ut faucibus. Donec vel mi id turpis fringilla sollicitudin a non ipsum. Mauris tincidunt velit nec scelerisque placerat. Fusce at vehicula velit. Aenean pretium sed metus eget porta. Donec facilisis erat elit. Cras mauris magna, blandit in congue non, vulputate non odio.
-
-## Vestibulum ante ipsum 
-
-Primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut dictum porta augue fermentum venenatis. Integer ut tempus ipsum. Curabitur egestas ex vitae auctor malesuada. Donec sit amet mollis purus. Quisque pulvinar est eu magna tristique ornare. Nulla semper tincidunt sem. 
