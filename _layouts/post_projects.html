@@ -1,0 +1,28 @@
+---
+layout: news
+---
+
+{{ content }}
+<div class="container">
+  {% assign all_projects = site.projects %}
+  {% for post in all_projects %}
+  <div class="row mb-5">
+      <h2><a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a></h2>
+      
+      {% if post.Project_Head %}
+        <div>Project_Head: {{ post.Project_Head }}</div>
+      {% endif %}
+
+      {% if post.Members %} 
+        <div>Members: {{ post.Members | join: ', ' | escape }}</div>
+      {% endif %}
+        
+      {% if post.Topics %}
+        <div>Topics: {{ post.Topics | join: ', ' | escape }}</div>
+      {% endif %}   
+    </div>
+    <hr>
+    {% endfor %}
+  
+  </div>
+
