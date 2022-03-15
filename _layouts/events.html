@@ -13,14 +13,9 @@
     <main>
     <div class="container">
       {{ page.content | remove_first: page.excerpt }}
-      {% if page.location %}
-      <a href="https://google.com/maps/search/{{ page.location | replace:' ','+' }}" target="_blank"
-         title="Event's location: {{ page.location }}. Find on Google Maps!"
-         data-toggle="tooltip" data-placement="bottom">
-      {% endif %}
-      <!-- {% if page.link %}
+      {% if page.link %}
       <a href="{{ page.link }}">{{ page.link }}</a>
-      {% endif; %} -->
+      {% endif; %}
     </div>
     {% include footer.html %}
     </main> 
