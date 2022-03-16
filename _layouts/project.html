@@ -54,12 +54,20 @@
               <div class="col-12 mb-1 small">{{ page.Members | join: ', ' | escape }}</div>
             </span>
             {% endif %}
+            {% if page.link %}
+            <span class="list-group-item list-group-item-action py-3 lh-tight">
+              <div class="d-flex w-100 align-items-center justify-content-between">
+                <strong class="mb-1">Website</strong>
+              </div>
+              <div class="col-12 mb-1 small"><a href="{{ page.link }}">{{ page.link }}</a></div>
+            </span>
+            {% endif %}
             {% if page.Status %}
             <span class="list-group-item list-group-item-action py-3 lh-tight">
               <div class="d-flex w-100 align-items-center justify-content-between">
                 <strong class="mb-1">Status</strong>
               </div>
-              <div class="col-12 mb-1 small">{{ page.Members }}</div>
+              <div class="col-12 mb-1 small">{{ page.Status }}</div>
             </span>
             {% endif %}        
           </div> 
