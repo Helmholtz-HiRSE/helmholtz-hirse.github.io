@@ -36,7 +36,7 @@
 
           {% if site.events %}
           {% assign all_events = site.events |  reverse %}
-          <p class="fs-5 fw-semibold "style="margin: 1em;">Upcoming Events</p>
+          <p class="fs-5 fw-semibold "style="margin: 1em;">Events</p>
           <ul>
             <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
             {% for post in all_events  limit:3 %}          
