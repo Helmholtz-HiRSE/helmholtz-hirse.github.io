@@ -4,7 +4,6 @@ title: PFFRG for quantum magnetic systems
 Topics: Condensed matter physics, quantum magnetism, functional renormalization group methods
 Project_Head: Johannes Reuther
 Members: Nils Niggemann, Vincent Noculak
-toc: true
 ---
 
 # PFFRG
