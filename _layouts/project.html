@@ -72,11 +72,11 @@
             {% endif %}        
           </div> 
           
-          {% if page.toc == true %}
+          {% if page.toc == true %}  
           <p class="fs-5 fw-semibold "style="margin: 1em;">Table of Contents </p>      
           <div class="list-group list-group-flush border-bottom scrollarea">
             {{ content | toc_only }}
-          </div>
+          </div>          
         {% endif %} 
 
       </div>
