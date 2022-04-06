@@ -5,6 +5,7 @@ Topics: High-performance Data Analysis, Machine Learning, Distributed Tensors, P
 Project_Head: Markus Götz
 Members: KIT-SCC, FZJ-JSC, DLR-SC
 link: https://github.com/helmholtz-analytics/heat/
+toc: true
 ---
 
 # Heat
