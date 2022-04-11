@@ -6,8 +6,6 @@ title: HiRSE_PS
 collections:
   projects:
     output: true
-  news:
-    output: true
   events:
     output: true
 

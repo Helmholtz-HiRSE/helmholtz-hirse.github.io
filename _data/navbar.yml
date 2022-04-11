@@ -4,8 +4,8 @@
   link: /partners.html
 - name: Projects
   link: /projects.html
-- name: News
-  link: /news.html
 - name: Events
   link: /events.html
+- name: Resources
+  link: /resources.html
   

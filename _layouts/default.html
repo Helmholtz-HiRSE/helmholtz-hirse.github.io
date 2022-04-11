@@ -20,21 +20,6 @@
         </div>
         <div class="col-md-4 sidebar"> 
 
-          {% if site.news %}
-          {% assign all_news = site.news |  reverse %}
-          <p class="fs-5 fw-semibold "style="margin: 1em;">News</p> 
-          <ul>
-            <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
-            {% for post in all_news limit:3 %}          
-            <li class="mb-2">
-              <span class="small">{{ post.date | date: '%B %d, %Y' }}</span><br>
-              <strong><a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a></strong>
-            </li>
-            {% endfor %} 
-          </span>
-          </ul>         
-          {% endif %} <!-- end if site.news  -->        
-
           {% if site.events %}
           {% assign all_events = site.events |  reverse %}
           <p class="fs-5 fw-semibold "style="margin: 1em;">Events</p>
