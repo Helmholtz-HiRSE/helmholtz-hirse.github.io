@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="icon" type="image/png"  href="{{ "/assets/favicon.ico" | relative_url }}">
+  </head>
+  <body>
+    {% include jumbotron_small.html %}
+    {% include navbar.html %}
+    <main>
+       
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            {{ content | inject_anchors }}
+          </div>    
+          <div class="col-md-4 sidebar">  
+            
+            {% if page.toc == true %}  
+            <p class="fs-5 fw-semibold "style="margin: 1em;">Table of Contents </p>      
+            <div class="list-group list-group-flush border-bottom scrollarea">
+              <ul id="toc"></ul>
+            </div>          
+            {% endif %} 
+          </div>
+        </div>
+      </div>
+
+    {% include footer.html %} 
+    </main>
+  </body>
+</html>
