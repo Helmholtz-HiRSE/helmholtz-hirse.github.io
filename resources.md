@@ -14,7 +14,6 @@ The following items are worth checking out to dive deeper into the realms of res
 ## Links
 
 * HIFIS' Awesome RSE lists: <https://github.com/hifis-net/awesome-rse>
-* The Good Research Code Handbook: <https://goodresearch.dev/>
 * Fun with [GitHub Actions](https://docs.github.com/en/actions):
     * How to build a CI/CD pipeline with GitHub Actions in four simple steps: <br> <https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/>
     * 7 advanced workflow automation features with GitHub Actions: <br> <https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/>
@@ -37,6 +36,7 @@ The following items are worth checking out to dive deeper into the realms of res
     * Software Engineering for Computational Science: Past, Present, Future: <br> <https://ieeexplore.ieee.org/document/8317991>
     * Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure: <br> <https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf>
     * ABC der Offenheit: <br> <https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf>
+    * The Good Research Code Handbook: <https://goodresearch.dev/>
     * Continuous Integration and Delivery for HPC: <br> <https://dl.acm.org/doi/pdf/10.1145/3219104.3219147>
 
 
