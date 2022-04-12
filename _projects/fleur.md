@@ -3,7 +3,7 @@ layout: project
 title: FLEUR
 Topics: All-electron Density Functional Theory, Materials Science, Solid State Physics
 link: https://www.flapw.de
-Project_Head: Stefan Blügel, Daniel Wortmann
+Project Head: Stefan Blügel, Daniel Wortmann
 Members: Gregor Michalicek, Uliana Alekseeva, Christian R. Gerhorst
 toc: true
 ---

@@ -2,14 +2,14 @@
 layout: project
 title: NEST Simulator – spiking neural network simulations
 Topics: neuroscience, simulation, spiking neural networks, learning, brain function
-Project_Head: https://nest-initiative.org
+Project Head: https://nest-initiative.org
 Contact: users@nest-simulator.org
 Members: https://github.com/orgs/nest/people and https://nest-initiative.org
 Link: https://nest-simulator.org
-Research_Field: Information
-Scientific_Community: Biology, Medicine, AI
+Research Field: Information
+Scientific Community: Biology, Medicine, AI
 Funding: See https://github.com/nest/nest-simulator/blob/master/ACKNOWLEDGMENTS.md
-Programming_Languages: C++, Python
+Programming Languages: C++, Python
 License: GPL-2.0-or-later
 Cite:  <a href="https://doi.org/10.5281/zenodo.5886894" alt="NEST 3.2"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5886894.svg" alt="DOI"></a>
 toc: true
