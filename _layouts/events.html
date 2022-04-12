@@ -14,12 +14,10 @@
     <div class="container">
       <h1>{{ page.title }}</h1>
       {{ page.content | remove_first: page.excerpt }}
-      {% if page.location=="virtual" %}
-        <small class="text-muted">Location: {{ page.location }}</small>
-      {% else if page.location=="" %}
-      <small class="text-muted">Location: tbd</small>
-      {% else%}
+      {% if page.location contains "://" %}
         <small class="text-muted">Location: <a href="{{ page.location }}">{{ page.location }}</a></small>
+      {% else%}
+        <small class="text-muted">Location: {{ page.location }}</small>
       {% endif; %}
     </div>
     {% include footer.html %}
