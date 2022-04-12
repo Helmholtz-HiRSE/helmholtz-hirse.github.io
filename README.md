@@ -1,6 +1,6 @@
 HiRSE_PS Website
 ----------------
 
-## Working wit live reload
+## Working with live reload
 
     jekyll serve --livereload
