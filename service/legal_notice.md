@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Legal notice
 ---
 # Legal Notice
