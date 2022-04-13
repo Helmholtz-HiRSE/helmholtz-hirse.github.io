@@ -1,6 +1,6 @@
 # HiRSE_PS Website
 
-https://www.helmholtz-hirse.de/
+<https://www.helmholtz-hirse.de/>
 
 ## Getting the code
 
@@ -59,9 +59,9 @@ Livereload is not possible.
 The main overview pages are markdown files in the main folder.
 All subpages are organized in subfolders:
 
-├── assets          --> place for images
-├── _events         --> pages for events
-├── _projects       --> pages for projects
+    ├──assets          --> place for images
+    ├──_events         --> pages for events
+    ├──_projects       --> pages for projects
 
 All other files and folders are for structure and design of the page.
 
