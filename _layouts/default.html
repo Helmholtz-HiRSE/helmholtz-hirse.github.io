@@ -25,7 +25,7 @@
           <p class="fs-5 fw-semibold "style="margin: 1em;">Events</p>
           <ul>
             <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
-            {% for post in all_events  limit:3 %}          
+            {% for post in all_events  limit:5 %}          
             <li class="mb-2">
               <span class="small">{{post.start_date | date: '%B %d, %Y'}}
                 {% if post.end_date %}
