@@ -23,7 +23,12 @@ The following items are worth checking out to dive deeper into the realms of res
     * RSE with Python: <https://merely-useful.tech/py-rse/>
     * Python Design Patterns: <https://python-patterns.guide/>
     * Production-ready Docker packaging for Python developers: <https://pythonspeed.com/docker/>
+    * Docker Best Practices for Python Developers: <https://testdriven.io/blog/docker-best-practices/>
     * Real Python Tutorials: <https://realpython.com/>
+* Newsletters
+    * de-RSE Mailinglist (DE): <https://de-rse.org/de/join.html>
+    * The Overflow: <https://stackoverflow.blog/newsletter/>
+    * PyCoder's Weekly: <https://pycoders.com/>
 
 
 ## Training
@@ -42,6 +47,8 @@ The following items are worth checking out to dive deeper into the realms of res
 * ABC der Offenheit: <br> <https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf>
 * The Good Research Code Handbook: <https://goodresearch.dev/>
 * Continuous Integration and Delivery for HPC: <br> <https://dl.acm.org/doi/pdf/10.1145/3219104.3219147>
+* FAIR Principles for Research Software (FAIR4RS Principles): <https://doi.org/10.15497/RDA00065>
+* A Guide for Publishing, Using, and Licensing Research Software in Germany: <https://doi.org/10.5281/zenodo.4327148>
 
 
 ## RSE initiatives
