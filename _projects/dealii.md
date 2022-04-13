@@ -1,7 +1,7 @@
 ---
 layout: project
 title: deal.II - an open source finite element library
-Project_Head: Peter Munch (Hereon) is one of the principal developers mostly involved in the HPC and linear algebra aspects of the library
+Project Head: Peter Munch (Hereon) is one of the principal developers mostly involved in the HPC and linear algebra aspects of the library
 Members: World-wide team of developers
 Link: https://www.dealii.org/
 toc: true

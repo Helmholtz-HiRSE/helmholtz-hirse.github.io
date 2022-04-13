@@ -21,55 +21,48 @@
         </div>    
         <div class="col-md-4 sidebar">  
           <p class="fs-5 fw-semibold "style="margin: 1em;">Project Profile </p>      
-          <div class="list-group list-group-flush border-bottom scrollarea">
-            {% if page.Topics %}
-            <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">Topics</strong>
-              </div>
-              <div class="col-12 mb-1 small">{{ page.Topics }}</div>
-            </span>
+          <div class="list-group list-group-flush border-bottom scrollarea">        
+            {% for var in page %}
+            {% if var != "next" and 
+                  var != "path" and
+                  var != "id" and
+                  var != "tags" and
+                  var != "content" and
+                  var != "previous" and
+                  var != "output" and
+                  var != "url" and
+                  var != "relative_path" and
+                  var != "title" and
+                  var != "categories" and
+                  var != "date" and
+                  var != "excerpt" and
+                  var != "draft" and
+                  var != "layout" and
+                  var != "toc" and
+                  var != "slug" and
+                  var != "ext" and
+                  var != "collection"                   
+                  %}
+              {% if var == "Link" %}
+                <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+                  <div class="d-flex w-100 align-items-center justify-content-between">
+                    <strong class="mb-1">{{ var }}</strong>
+                  </div>
+                  <div class="col-12 mb-1 small"><a href="{{ page[var] }}">{{ page[var] }}</a></div>
+                </span> 
+               
+              {% else %}
+                <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
+                  <div class="d-flex w-100 align-items-center justify-content-between">
+                    <strong class="mb-1">{{ var }}</strong>
+                  </div>
+                  <div class="col-12 mb-1 small">{{ page[var] }}</div>
+                </span> 
+              {% endif %}
             {% endif %}
-            {% if page.Keywords %}
-            <span  class="list-group-item list-group-item-action py-3 lh-tight">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">Keywords</strong>
-              </div>
-              <div class="col-12 mb-1 small">{{ page.Keywords | join: ', ' | escape }}</div>
-            </span>
-            {% endif %}
-            {% if page.Project_Head %}
-            <span class="list-group-item list-group-item-action py-3 lh-tight">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">Project Head</strong>
-              </div>
-              <div class="col-12 mb-1 small">{{ page.Project_Head }}</div>
-            </span>
-            {% endif %}
-            {% if page.Members %}
-            <span class="list-group-item list-group-item-action py-3 lh-tight">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">Members</strong>
-              </div>
-              <div class="col-12 mb-1 small">{{ page.Members | join: ', ' | escape }}</div>
-            </span>
-            {% endif %}
-            {% if page.link %}
-            <span class="list-group-item list-group-item-action py-3 lh-tight">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">Website</strong>
-              </div>
-              <div class="col-12 mb-1 small"><a href="{{ page.link }}">{{ page.link }}</a></div>
-            </span>
-            {% endif %}
-            {% if page.Status %}
-            <span class="list-group-item list-group-item-action py-3 lh-tight">
-              <div class="d-flex w-100 align-items-center justify-content-between">
-                <strong class="mb-1">Status</strong>
-              </div>
-              <div class="col-12 mb-1 small">{{ page.Status }}</div>
-            </span>
-            {% endif %}        
+            {% endfor %}
+            
+           
           </div> 
           
           {% if page.toc == true %}  
