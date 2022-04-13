@@ -6,8 +6,8 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel="icon" type="image/png"  href="{{ "/assets/favicon.ico" | relative_url }}">
-    {% if page.Keywords %}
-      <meta name="Keywords" content="{{ page.Keywords | join: ', ' | escape }}">
+    {% if page.Topics %}
+      <meta name="Keywords" content="{{ page.Topics | join: ', ' | escape }}">
     {% endif %}
   </head>
   <body>
