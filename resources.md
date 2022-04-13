@@ -16,6 +16,10 @@ The following items are worth checking out to dive deeper into the realms of res
 
 * HIFIS' Awesome RSE lists: <br> <https://github.com/hifis-net/awesome-rse>
 * A not-so-brief history of Research Software Engineers: <br> <https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0>
+* Newsletters
+    * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
+    * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
+    * PyCoder's Weekly: <br> <https://pycoders.com/>
 * Fun with [GitHub Actions](https://docs.github.com/en/actions):
     * How to build a CI/CD pipeline with GitHub Actions in four simple steps: <br> <https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/>
     * 7 advanced workflow automation features with GitHub Actions: <br> <https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/>
@@ -26,13 +30,9 @@ The following items are worth checking out to dive deeper into the realms of res
     * Production-ready Docker packaging for Python developers: <br> <https://pythonspeed.com/docker/>
     * Docker Best Practices for Python Developers: <br> <https://testdriven.io/blog/docker-best-practices/>
     * Real Python Tutorials: <br> <https://realpython.com/>
-* Newsletters
-    * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
-    * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
-    * PyCoder's Weekly: <br> <https://pycoders.com/>
 
 
-## Training
+## Trainings
 
 * HIFIS: <br> <https://www.hifis.net/services/software/training>
 * NHR@KIT: <br> <https://www.nhr.kit.edu/english/66.php>
