@@ -26,7 +26,7 @@ After the installation of jekyll some other things are needed. In the repository
 
     bundle install
 
-As an alternative of installing dependencies on your system you can use the jekyll docker image
+As an alternative of installing dependencies on your system, you can use the jekyll docker image
 
     docker pull jekyll/jekyll
 
@@ -56,7 +56,7 @@ Livereload is not possible.
 
 ### What to find where
 
-The main overview pages are markdown files in the main folder.
+The overview pages are markdown files in the main folder.
 All subpages are organized in subfolders:
 
     ├──assets          --> place for images
@@ -67,7 +67,7 @@ All other files and folders are for structure and design of the page.
 
 ### Create a pull request
 
-After you are happy with your changes push the changes into your fork
+After you are happy with your changes, push the changes into your fork
 
     git push origin <YOUR_BRANCH> 
 
