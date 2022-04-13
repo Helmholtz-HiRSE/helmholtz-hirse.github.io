@@ -18,6 +18,11 @@ The following items are worth checking out to dive deeper into the realms of res
     * How to build a CI/CD pipeline with GitHub Actions in four simple steps: <br> <https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/>
     * 7 advanced workflow automation features with GitHub Actions: <br> <https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/>
     * 10 GitHub Actions resources to bookmark from the basics to CI/CD: <br> <https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/>
+* Python
+    * RSE with Python: <https://merely-useful.tech/py-rse/>
+    * Python Design Patterns: <https://python-patterns.guide/>
+    * Production-ready Docker packaging for Python developers: <https://pythonspeed.com/docker/>
+    * Real Python Tutorials: <https://realpython.com/>
 
 
 ## Training
