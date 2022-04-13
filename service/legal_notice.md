@@ -16,7 +16,7 @@ Email address: <hirse@fz-juelich.de>
 
 ## Responsible in the sense of § 18, Abs. 2, Medienstaatsvertrag (MStV)
 
-Dr. Robert Speck <br>
+Dr. Robert Speck (Content) and Steffen Graber (Technology)<br>
 Forschungszentrum Jülich GmbH <br>
 Wilhelm-Johnen-Str. 1 <br>
 D-52428 Jülich
