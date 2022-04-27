@@ -16,6 +16,7 @@ The following items are worth checking out to dive deeper into the realms of res
 
 * HIFIS' Awesome RSE lists: <br> <https://github.com/hifis-net/awesome-rse>
 * A not-so-brief history of Research Software Engineers: <br> <https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0>
+* In which journals should I publish my software: <br> <https://www.software.ac.uk/which-journals-should-i-publish-my-software>
 * Newsletters
     * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
     * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
