@@ -4,13 +4,13 @@ layout: news
 
 {{ content }}
 <div class="container">
-  {% assign all_projects = site.projects %}
-  {% for post in all_projects %}
+  {% assign all_codes = site.codes %}
+  {% for post in all_codes %}
   <div class="row mb-5">
       <h2><a href="{{ post.url |  prepend: site.baseurl}}">{{ post.title }}</a></h2>
       
-      {% if post.Project_Head %}
-        <div>Project_Head: {{ post.Project_Head }}</div>
+      {% if post.Code_Head %}
+        <div>Code_Head: {{ post.Code_Head }}</div>
       {% endif %}
 
       {% if post.Members %} 

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: code
 title: FLEUR
 Topics: All-electron Density Functional Theory, Materials Science, Solid State Physics
 link: https://www.flapw.de
