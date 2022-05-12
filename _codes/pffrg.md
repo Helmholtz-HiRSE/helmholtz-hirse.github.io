@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: code
 title: PFFRG for quantum magnetic systems
 Topics: Condensed matter physics, quantum magnetism, functional renormalization group methods
 Project Head: Johannes Reuther

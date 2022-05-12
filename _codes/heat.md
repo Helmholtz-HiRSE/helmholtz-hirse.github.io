@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: code
 title: Heat - The Helmholtz Analytics Toolkit
 Topics: High-performance Data Analysis, Machine Learning, Distributed Tensors, Python, MPI, GPU
 Project Head: Markus Götz

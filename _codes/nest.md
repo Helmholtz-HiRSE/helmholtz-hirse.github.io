@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: code
 title: NEST Simulator – spiking neural network simulations
 Topics: neuroscience, simulation, spiking neural networks, learning, brain function
 Project Head: https://nest-initiative.org

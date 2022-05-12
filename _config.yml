@@ -4,7 +4,7 @@ sass:
 title: HiRSE_PS
 
 collections:
-  projects:
+  codes:
     output: true
   events:
     output: true
