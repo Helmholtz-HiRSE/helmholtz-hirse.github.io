@@ -61,7 +61,7 @@ All subpages are organized in subfolders:
 
     ├──assets          --> place for images
     ├──_events         --> pages for events
-    ├──_projects       --> pages for projects
+    ├──_codes       --> pages for codes
 
 All other files and folders are for structure and design of the page.
 
