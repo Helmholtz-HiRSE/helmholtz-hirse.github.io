@@ -14,10 +14,12 @@ The following items are worth checking out to dive deeper into the realms of res
 
 ## Links
 
-* HIFIS' Awesome RSE lists: <br> <https://github.com/hifis-net/awesome-rse>
-* A not-so-brief history of Research Software Engineers: <br> <https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0>
-* In which journals should I publish my software: <br> <https://www.software.ac.uk/which-journals-should-i-publish-my-software>
-* Building a community of open-source documentation contributors: <br> <https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/>
+* General RSE topics
+   * HIFIS' Awesome RSE lists: <br> <https://github.com/hifis-net/awesome-rse>
+   * A not-so-brief history of Research Software Engineers: <br> <https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0>
+   * In which journals should I publish my software: <br> <https://www.software.ac.uk/which-journals-should-i-publish-my-software>
+   * Building a community of open-source documentation contributors: <br> <https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/>
+   * Keep a changelog: <br> <https://keepachangelog.com>
 * Newsletters
     * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
     * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
