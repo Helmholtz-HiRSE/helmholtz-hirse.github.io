@@ -17,4 +17,6 @@ In the first live meeting at [Burg Obbendorf](https://goo.gl/maps/966SQ17KG9U6JC
 
 The goal of this meeting is not to show off awesome results the codes can or did produce, but to take the time and focus on software engineering aspects of the codes we nourish and cherish. This is what this meeting will be about, this is what HiRSE_PS is about.
 
+The agenda can be found [here](../assets/data/InPersonMeeting_HiRSE_PS_2022_agenda_draft.pdf).
+
 
