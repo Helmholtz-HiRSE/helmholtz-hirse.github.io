@@ -17,4 +17,4 @@ In the first live meeting at [Burg Obbendorf](https://goo.gl/maps/966SQ17KG9U6JC
 
 The goal of this meeting is not to show off awesome results the codes can or did produce, but to take the time and focus on software engineering aspects of the codes we nourish and cherish. This is what this meeting will be about, this is what HiRSE_PS is about.
 
-Register by May 11, 2022, here: <https://events.hifis.net/event/402/registrations/386/>
+
