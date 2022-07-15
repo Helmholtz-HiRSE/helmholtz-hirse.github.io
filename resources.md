@@ -20,6 +20,8 @@ The following items are worth checking out to dive deeper into the realms of res
    * In which journals should I publish my software: <br> <https://www.software.ac.uk/which-journals-should-i-publish-my-software>
    * Building a community of open-source documentation contributors: <br> <https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/>
    * Keep a changelog: <br> <https://keepachangelog.com>
+   * A collection of (mostly) technical things every software developer should know:
+   <br> <https://github.com/mtdvio/every-programmer-should-know>
 * Newsletters
     * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
     * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
