@@ -24,6 +24,7 @@ The following items are worth checking out to dive deeper into the realms of res
    <br> <https://github.com/mtdvio/every-programmer-should-know>
 * Newsletters
     * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
+    * The HIFIS newsletter: <br> <https://hifis.net/newsletter>
     * Heidi Seibold's newsletter on Open and Reproducible Data Science: <br> <https://heidiseibold.substack.com/>
     * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
     * PyCoder's Weekly: <br> <https://pycoders.com/>
