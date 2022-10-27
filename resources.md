@@ -63,6 +63,7 @@ The following items are worth checking out to dive deeper into the realms of res
 * FAIR Principles for Research Software (FAIR4RS Principles): <br> <https://doi.org/10.15497/RDA00065>
 * A Guide for Publishing, Using, and Licensing Research Software in Germany: <br> <https://doi.org/10.5281/zenodo.4327148>
 * A great list of programming books, from beginner to expert, from low- to high-level wisdom: <br> <https://www.programmingbooks.dev>
+* The Turing Way handbook to reproducible, ethical and collaborative data science: <br> <https://the-turing-way.netlify.app/welcome>
 
 
 ## RSE initiatives
