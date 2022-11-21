@@ -48,6 +48,7 @@ The following items are worth checking out to dive deeper into the realms of res
 
 * HIFIS: <br> <https://www.hifis.net/services/software/training>
 * Netherlands eScience Center: <br> <https://www.esciencecenter.nl/training-materials/>
+* CodeRefinery: <br> <https://coderefinery.org/lessons/>
 * NHR@KIT: <br> <https://www.nhr.kit.edu/english/66.php>
 * FZJ/JSC: <br> <https://www.fz-juelich.de/en/ias/jsc/education/training-courses>
 * PRACE: <br> <https://training.prace-ri.eu/>
