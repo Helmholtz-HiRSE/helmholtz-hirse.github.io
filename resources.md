@@ -44,11 +44,12 @@ The following items are worth checking out to dive deeper into the realms of res
     * Real Python Tutorials: <br> <https://realpython.com/>
 
 
-## Trainings
+## Trainings and Learning
 
 * HIFIS: <br> <https://www.hifis.net/services/software/training>
+* Netherlands eScience Center: <br> https://www.esciencecenter.nl/training-materials/
 * NHR@KIT: <br> <https://www.nhr.kit.edu/english/66.php>
-* FZJ/JSC: <br> <https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Courses/courses_node.html>
+* FZJ/JSC: <br> <https://www.fz-juelich.de/en/ias/jsc/education/training-courses>
 * PRACE: <br> <https://training.prace-ri.eu/>
 
 
