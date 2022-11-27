@@ -41,7 +41,7 @@ HZB has existed since 2009. Its roots go much further into the past, given that 
 <br/>
 
 ---
-# HiRSE_PS Allies
+# HiRSE_PS Ally
 
 <div> <a href="https://www.hifis.net/"><img width="300" src="assets/HIFIS_Logo_short_RGB_cropped.svg"></a> </div>
 <br/>
