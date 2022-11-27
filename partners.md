@@ -38,3 +38,20 @@ As part of an international network and as a member of the Helmholtz Association
 Materials for a sustainable energy supply and operation of the electron storage ring BESSY II – those are the cornerstones of Helmholtz-Zentrum Berlin and its research. Both of these fields complement each other, since questions arising from research continually drive the advancement of the experimental environment at BESSY II and vice versa; the possibilities that BESSY II offers accelerate energy research enormously.
 
 HZB has existed since 2009. Its roots go much further into the past, given that HZB arose from the fusion of two older research institutions, the former Hahn-Meitner-Institut (est. 1959) and BESSY GmbH (est. 1979). With approximately 1,100 employees, HZB is now one of the largest non-university research centres in Berlin, and a member of the Helmholtz Association. HZB conducts research at two locations, in Wannsee and Adlershof.
+<br/>
+
+---
+# HiRSE_PS Allies
+
+<div> <a href="https://www.hifis.net/"><img width="300" src="assets/HIFIS_Logo_short_RGB_cropped"></a> </div>
+
+The top position of Helmholtz research is increasingly based on cross-centre and international cooperation and common access to data treasure and -services. At the same time, the significance of a sustainable software development for the research process is recognised.
+
+**HIFIS builds and sustains an excellent IT infrastructure connecting all Helmholtz research fields and centres.**
+
+This includes the Helmholtz Cloud, where members of the Helmholtz Association of German Research Centres provide selected IT-Services for joint use. HIFIS further supports Research Software Engineering (RSE) with a high level of quality, visibility and sustainability.
+
+The HIFIS clusters develop technologies, processes and policy frameworks for harmonized access to fundamental backbone services, such as Helmholtz AAI, and Helmholtz Cloud services. HIFIS Software also provides education, technology, consulting and community services.
+
+**Helmholtz Digital Services for Science — Collaboration made easy.**
+
