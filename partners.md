@@ -43,7 +43,7 @@ HZB has existed since 2009. Its roots go much further into the past, given that 
 ---
 # HiRSE_PS Allies
 
-<div> <a href="https://www.hifis.net/"><img width="300" src="assets/HIFIS_Logo_short_RGB_cropped"></a> </div>
+<div> <a href="https://www.hifis.net/"><img width="300" src="assets/HIFIS_Logo_short_RGB_cropped.svg"></a> </div>
 
 The top position of Helmholtz research is increasingly based on cross-centre and international cooperation and common access to data treasure and -services. At the same time, the significance of a sustainable software development for the research process is recognised.
 
