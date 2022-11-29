@@ -2,7 +2,7 @@
 layout: partners
 title: Partners
 ---
-# HiRSE_PS Partners
+# [HiRSE_PS Partners](#section-partners)
 
 
 <div> <a href="https://www.fz-juelich.de/portal/EN/AboutUs/_node.html"><img width="300" src="assets/FZj_Logo.jpg"></a> </div>
@@ -41,7 +41,7 @@ HZB has existed since 2009. Its roots go much further into the past, given that 
 <br/>
 
 ---
-# HiRSE_PS Ally
+# [HiRSE_PS Ally](#section-allies)
 
 <div> <a href="https://www.hifis.net/"><img width="300" src="assets/HIFIS_Logo_short_RGB_cropped.svg"></a> </div>
 <br/>
