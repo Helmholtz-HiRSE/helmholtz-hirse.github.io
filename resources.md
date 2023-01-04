@@ -57,6 +57,7 @@ The following items are worth checking out to dive deeper into the realms of res
 ## Literature
 
 * The Pragmatic Programmer, 20th Anniversary Edition: <br> <https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/>
+* The Clean Coder: <br> <https://www.oreilly.com/library/view/clean-coder-the/9780132542913/>
 * Software Engineering for Computational Science: Past, Present, Future: <br> <https://ieeexplore.ieee.org/document/8317991>
 * Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure: <br> <https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf>
 * ABC der Offenheit: <br> <https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf>
