@@ -58,7 +58,6 @@ The HIFIS clusters develop technologies, processes and policy frameworks for har
 
 ---
 <div> <a href="https://de-rse.org/"><img width="300" src="assets/de-RSE-logo-text-colour-en.png"></a> </div>
-<br/>
 
 Software development is an essential, integral part of research activity. Research software increasingly supports the acquisition, processing and analysis of empirical data, but also the modeling and the simulation of complex processes. Thus, software has a significant influence on the quality of research results. The British Software Sustainability Institute (SSI) has coined the slogan “Better Software - Better Research”.
 
