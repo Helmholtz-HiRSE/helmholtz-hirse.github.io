@@ -42,6 +42,7 @@ The following items are worth checking out to dive deeper into the realms of res
     * Production-ready Docker packaging for Python developers: <br> <https://pythonspeed.com/docker/>
     * Docker Best Practices for Python Developers: <br> <https://testdriven.io/blog/docker-best-practices/>
     * Real Python Tutorials: <br> <https://realpython.com/>
+    * An open source Python project CI pipeline: <br> <https://brntn.me/blog/open-source-python-ci/>
 
 
 ## Trainings and Learning
