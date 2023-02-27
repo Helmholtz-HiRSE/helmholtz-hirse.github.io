@@ -62,3 +62,10 @@ The HIFIS clusters develop technologies, processes and policy frameworks for har
 Software development is an essential, integral part of research activity. Research software increasingly supports the acquisition, processing and analysis of empirical data, but also the modeling and the simulation of complex processes. Thus, software has a significant influence on the quality of research results. The British Software Sustainability Institute (SSI) has coined the slogan “Better Software - Better Research”.
 
 However, the current approaches to research software as well as the recognition of research software engineering do not adequately reflect the importance of this work in and for the research process. Researchers, scientists and others developing software in and for research within the German scientific landscape have come together in the de-RSE community in order to considerably boost the visibility of these issues, and to decisively improve the current situation. de-RSE aims at constituting a wider initiative for acting jointly on shared objectives, and being the collective spokesperson for RSEs within the German scientific landscape.
+
+---
+<div> <a href="https://os.helmholtz.de/en"><img width="300" src="assets/HGF-OS.jpg"></a> </div>
+
+Guided by the motto "Enabling open science practices in Helmholtz!" the Helmholtz Open Science Office works within the Association and promotes the visibility of Helmholtz on a national as well as international level within the context of Open Science in the spirit of the Helmholtz mission.
+
+The mission of the Helmholtz Open Science Office is to promote the cultural change towards open science. The office, established by the Helmholtz Association in 2005, sees itself as a service provider that supports the community in shaping the cultural change towards open science. The Helmholtz Open Science Office is a partner of all stakeholders involved in this process within Helmholtz.
