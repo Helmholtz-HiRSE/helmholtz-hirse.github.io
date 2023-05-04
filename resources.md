@@ -22,12 +22,13 @@ The following items are worth checking out to dive deeper into the realms of res
    * Keep a changelog: <br> <https://keepachangelog.com>
    * A collection of (mostly) technical things every software developer should know:
    <br> <https://github.com/mtdvio/every-programmer-should-know>
-* Newsletters
+* Newsletters/Podcasts
     * de-RSE Mailinglist (DE): <br> <https://de-rse.org/de/join.html>
     * The HIFIS newsletter: <br> <https://hifis.net/newsletter>
     * Heidi Seibold's newsletter on Open and Reproducible Data Science: <br> <https://heidiseibold.substack.com/>
     * The Overflow: <br> <https://stackoverflow.blog/newsletter/>
     * PyCoder's Weekly: <br> <https://pycoders.com/>
+    * Code for Thought Podcast on RSE: <br> <https://codeforthought.buzzsprout.com/>
 * Build your own website
     * Quickstart for GitHub Pages: <br> <https://docs.github.com/en/pages/quickstart>
     * Intoduction to Gitlab Pages: <br> <https://docs.gitlab.com/ee/user/project/pages/>
