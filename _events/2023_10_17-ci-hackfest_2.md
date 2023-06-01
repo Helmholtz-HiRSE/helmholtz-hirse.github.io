@@ -3,7 +3,7 @@ layout: events
 title:  "HiRSE_PS CB Hackfest"
 start_date: 17.10.2023
 end_date: 18.10.2023
-location: https://goo.gl/maps/FCaCuNwx4NhUFiRLA
+location: https://goo.gl/maps/RmPLrdMrbK3TSqwg8
 excerpt_separator: <!--more-->
 ---
 
