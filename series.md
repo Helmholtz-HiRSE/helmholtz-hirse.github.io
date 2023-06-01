@@ -5,7 +5,7 @@ title:  "HiRSE Seminar Series"
 
 # The HiRSE Seminar Series
 
-The HiRSE Seminar Series is a series of talks revolving around topics relevant for and to RSE.
+The HiRSE Seminar Series is a series of talks revolving around topics relevant for and to Research Software Engineering.
 The seminars cover a broad range of topics from political to technical ones, take place every 2 to 4 weeks.
 The events are open to everyone interested and held online.
 
@@ -22,10 +22,9 @@ The announcement and connection details are posted here:
 - RSE mailing lists of the HiRSE partners (if any).
 
 # Your host
-
 <img width="200" src="assets/claire.png">
 
-The HiRSE Seminar Series is hosted by [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl), RSE Community Manager at Forschungszentrum Jülich. 
+The HiRSE Seminar Series is hosted by [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl), Community Manager for Research Software Engineering at Forschungszentrum Jülich. 
 
 
 # Events
