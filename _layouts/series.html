@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="icon" type="image/png"  href="{{ "/assets/favicon.ico" | relative_url }}">
+  </head>
+  <body>
+    {% include jumbotron_small.html %}
+    {% include navbar.html %}
+    <main>
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+      {{ page.content | remove_first: page.excerpt }}
+      {% if page.location contains "://" %}
+        <small class="text-muted">Location: <a href="{{ page.location }}">{{ page.location }}</a></small>
+      {% else%}
+        <small class="text-muted">Location: {{ page.location }}</small>
+      {% endif; %}
+    </div>
+    {% include footer.html %}
+    </main> 
+  </body>
+</html>

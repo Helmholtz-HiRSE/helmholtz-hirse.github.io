@@ -8,5 +8,7 @@ collections:
     output: true
   events:
     output: true
+  series:
+    output: true
 
 markdown: kramdown
