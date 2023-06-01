@@ -25,7 +25,7 @@ The announcement and connection details are posted here:
 
 <img width="200" src="assets/claire.png">
 
-The HiRSE Seminar Series is hosted by [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl), RSE Community Manager at FZJ. 
+The HiRSE Seminar Series is hosted by [Claire Wyatt](https://www.fz-juelich.de/profile/wyatt_cl), RSE Community Manager at Forschungszentrum Jülich. 
 
 
 # Events
