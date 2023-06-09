@@ -1,8 +1,8 @@
 ---
 layout: events
 title:  "1st HiRSE_PS CI Hackfest"
-start_date: 22.09.2022
-end_date: 23.09.2022
+start_date: 2022-09-22
+end_date: 2022-09-23
 location: https://goo.gl/maps/iWnxuUWEPinQoHh28
 excerpt_separator: <!--more-->
 ---

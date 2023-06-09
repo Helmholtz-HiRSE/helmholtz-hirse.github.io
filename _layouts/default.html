@@ -21,7 +21,11 @@
         <div class="col-md-4 sidebar"> 
 
           {% if site.events %}
-          {% assign all_events = site.events |  reverse %}
+          {% if site.series %}
+            {% assign all_events = site.events | concat: site.series |  sort: "start_date" | reverse %}
+          {% else %}
+            {% assign all_events = site.events |  sort: "start_date" | reverse %}
+          {% endif %}
           <p class="fs-5 fw-semibold "style="margin: 1em;">Events</p>
           <ul>
             <span class="list-group-item list-group-item-action py-3 lh-tight" aria-current="true">
