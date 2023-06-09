@@ -1,8 +1,8 @@
 ---
 layout: events
 title:  "2nd HiRSE_PS Live Meeting"
-start_date: 19.04.2023
-end_date: 20.04.2023
+start_date: 2023-04-19
+end_date: 2023-04-20
 link: 
 location: https://goo.gl/maps/Ndf22uS6XKwQcP9s7
 excerpt_separator: <!--more-->

@@ -1,8 +1,8 @@
 ---
 layout: events
 title:  "HiRSE_PS Live Meeting"
-start_date: 01.06.2022
-end_date: 02.06.2022
+start_date: 2022-06-01
+end_date: 2022-06-02
 link: 
 location: https://goo.gl/maps/AyDXUQWHTyQJzJPC7
 excerpt_separator: <!--more-->
