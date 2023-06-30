@@ -9,6 +9,8 @@ The HiRSE Seminar Series is a series of talks revolving around topics relevant f
 The seminars cover a broad range of topics from political to technical ones, take place every 2 to 4 weeks.
 The events are open to everyone interested and held online.
 
+**Recordings** of the seminar series are uploaded to the [HiRSE YouTube channel](https://www.youtube.com/@Helmholtz_Platform_for_RSE) after each seminar.
+
 You can use our [feedback form](https://forms.gle/XH2fMa3MEikjB9pt5) to tell us what you think about the seminar series and what other topics we should cover.
 
 The announcement and connection details are posted here:
