@@ -58,6 +58,7 @@ The following items are worth checking out to dive deeper into the realms of res
 
 ## Literature
 
+* Zotero RSE Group Library: <br> <https://www.zotero.org/groups/2295543/rse/library> 
 * The Pragmatic Programmer, 20th Anniversary Edition: <br> <https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/>
 * The Clean Coder: <br> <https://www.oreilly.com/library/view/clean-coder-the/9780132542913/>
 * The Missing README: <br> <https://nostarch.com/missing-readme>
