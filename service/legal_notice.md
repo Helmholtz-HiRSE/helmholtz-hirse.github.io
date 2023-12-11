@@ -8,7 +8,7 @@ Helmholtz Platform for Research Software Engineering - Preparatory Study (HiRSE_
 
 Lead-PIs: Markus Diesmann (FZJ/INM-6) and Achim Streit (KIT/SCC)
 
-Funded by the Innovation Fund of the Research Field Information of the Helmholtz Association as well as by the four participating partners.
+Funded by the Innovation Fund of Helmholtz Information of the Helmholtz Association as well as by the four participating partners.
 
 Internet: <https://helmholtz-hirse.github.io/><br>
 Email address: <hirse@fz-juelich.de>

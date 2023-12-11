@@ -6,7 +6,7 @@ Link: https://nest-simulator.org
 Project Head: https://nest-initiative.org
 Contact: users@nest-simulator.org
 Members: https://github.com/orgs/nest/people and https://nest-initiative.org
-Research Field: Information
+Research Field: Helmholtz Information
 Scientific Community: Biology, Medicine, AI
 Funding: See https://github.com/nest/nest-simulator/blob/master/ACKNOWLEDGMENTS.md
 Programming Languages: C++, Python
