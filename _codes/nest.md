@@ -2,10 +2,10 @@
 layout: code
 title: NEST Simulator – spiking neural network simulations
 Topics: neuroscience, simulation, spiking neural networks, learning, brain function
+Link: https://nest-simulator.org
 Project Head: https://nest-initiative.org
 Contact: users@nest-simulator.org
 Members: https://github.com/orgs/nest/people and https://nest-initiative.org
-Link: https://nest-simulator.org
 Research Field: Information
 Scientific Community: Biology, Medicine, AI
 Funding: See https://github.com/nest/nest-simulator/blob/master/ACKNOWLEDGMENTS.md

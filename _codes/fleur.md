@@ -2,7 +2,7 @@
 layout: code
 title: FLEUR
 Topics: All-electron Density Functional Theory, Materials Science, Solid State Physics
-link: https://www.flapw.de
+Link: https://www.flapw.de
 Project Head: Stefan Blügel, Daniel Wortmann
 Members: Gregor Michalicek, Uliana Alekseeva, Christian-R. Gerhorst
 toc: true
@@ -22,7 +22,7 @@ The main goals within HIRSE_PS are dealing with the extension and consolidation 
 - Modularization and refactoring of OpenACC and OpenMPI implementations.
 
 
-## Acitivties
+## Activities
 
 Generation of a set of performance tests suitable for automatic execution.
 
