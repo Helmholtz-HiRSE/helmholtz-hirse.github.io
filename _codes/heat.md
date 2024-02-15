@@ -1,9 +1,9 @@
 ---
 layout: code
 title: Heat - The Helmholtz Analytics Toolkit
-Topics: High-performance Data Analysis, Machine Learning, Distributed Tensors, Python, MPI, GPU
+Topics: High-performance Computing, Data Analysis, Data Science, Machine Learning, Distributed Tensors, Python, MPI, GPU, CUDA, ROCm
 Link: https://github.com/helmholtz-analytics/heat/
-Project Head: Markus Götz
+Project Head: Claudia Comito
 Members: KIT-SCC, FZJ-JSC, DLR-SC
 toc: true
 ---
@@ -13,19 +13,27 @@ toc: true
 
 # Heat
 
-Heat is a flexible and seamless open-source software for high performance data analytics and machine learning. It provides highly optimized algorithms and data structures for tensor computations using CPUs, GPUs and distributed cluster systems on top of MPI. The goal of Heat is to fill the gap between data analytics and machine learning libraries with a strong focus on single-node performance, and traditional high-performance computing (HPC). Heat's generic Python-first programming interface integrates seamlessly with the existing data science ecosystem and makes it as effortless as using numpy to write scalable scientific and data science applications.
+Heat builds on [PyTorch](https://pytorch.org/) and [mpi4py](https://mpi4py.readthedocs.io) to provide high-performance computing infrastructure for memory-intensive applications within the NumPy/SciPy ecosystem.
 
-Heat allows you to tackle your actual Big Data challenges that go beyond the computational and memory needs of your laptop and desktop.
+
+With Heat you can:
+- port existing NumPy/SciPy code from single-CPU to multi-node clusters with minimal coding effort;
+- exploit the entire, cumulative RAM of your many nodes for memory-intensive operations and algorithms;
+- run your NumPy/SciPy code on GPUs (CUDA, ROCm, coming up: Apple MPS).
 
 ## Goals
 
-In line with HiRSE_PS we would like to achieve at least the following objectives:
+Within HiRSE_PS we would like to achieve at least the following objectives:
 
-* Continuous Benchmarking
-* Portation to IPUs and XPUs
+* Continuous Benchmarking (:white_check_mark:)
+* Portation to IPUs and XPUs (CUDA, ROCm: :white_check_mark:)
 * Optimized Communication and Distribution Semantics
 
 ## Activities
 
-Currently Heat is part of the Google Summer of Code 2022. Several projects will center around additional core features and applications.
+* Continuous Benchmarking via the [perun](https://pypi.org/project/perun/) tool including measurement of energy consumption for MPI applications.
+* v1.3.1 supports PyTorch 2.0
+* Usage on HPC systems simplified via spack and Docker containers (upcoming: Easybuild)
+* New features include support for memory distributed truncated SVD.
+* Upcoming in v1.4: distributed FFTS, optimized QR decomposition, batch-parallel clustering, fully distributed advanced indexing, and more.
 
