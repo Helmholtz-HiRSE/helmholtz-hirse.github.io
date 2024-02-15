@@ -23,11 +23,11 @@ jobs:
           DESCRIPTION="_codes/${{ matrix.tool }}.md"
           echo "Scanning $DESCRIPTION..."
           grep 'Repository: .*github.com/' $DESCRIPTION   # check if repository is on github (required for API calls)
-          REPO="$(grep -o 'Repository: .*github.com/([^ ]+)' $DESCRIPTION)"
+          REPO="$(grep 'Repository:' $DESCRIPTION | sed -e 's%Repository.*https://github.com/%%')"
           echo "Checking repository $REPO on GitHub..."
-          RELEASE="$(curl -sL https://api.github.com/repos/nest/nest-simulator/releases/latest | jq ".tag_name")"
+          RELEASE="$(curl -sL https://api.github.com/repos/$REPO/releases/latest | jq ".tag_name")"
           echo "Found latest release: $RELEASE"
-          DOI="https://$(curl -sL https://api.github.com/repos/nest/nest-simulator/releases/latest | jq ".body" | grep -o 'doi.org/[^)]*zenodo[^)]\+' | head -n1)"
+          DOI="https://$(curl -sL https://api.github.com/repos/$REPO/releases/latest | jq ".body" | grep -o 'doi.org/[^)]*zenodo[^)]\+' | head -n1)"
           echo "Found latest DOI: $DOI"
           grep $RELEASE $DESCRIPTION    # check latest release is mentioned
           grep $DOI $DESCRIPTION        # check latest DOI is mentioned
