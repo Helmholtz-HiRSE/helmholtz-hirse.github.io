@@ -25,7 +25,7 @@ With Heat you can:
 
 Within HiRSE_PS we would like to achieve at least the following objectives:
 
-* Continuous Benchmarking (:white_check_mark:)
+* Continuous Benchmarking ( :white_check_mark: )
 * Portation to IPUs and XPUs (CUDA, ROCm: :white_check_mark:)
 * Optimized Communication and Distribution Semantics
 
