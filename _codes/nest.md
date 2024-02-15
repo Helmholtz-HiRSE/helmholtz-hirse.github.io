@@ -11,7 +11,7 @@ Scientific Community: Biology, Medicine, AI
 Funding: See https://github.com/nest/nest-simulator/blob/master/ACKNOWLEDGMENTS.md
 Programming Languages: C++, Python
 License: GPL-2.0-or-later
-Cite:  <a href="https://doi.org/10.5281/zenodo.5886894" alt="NEST 3.2"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5886894.svg" alt="DOI"></a>
+Cite:  <a href="https://doi.org/10.5281/zenodo.8344932" alt="NEST 3.6"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8344932.svg" alt="DOI"></a>
 toc: true
 ---
 
@@ -20,7 +20,7 @@ toc: true
 
 # NEST Simulator
 
-<a href="https://doi.org/10.5281/zenodo.5886894"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5886894.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.8344932" alt="NEST 3.6"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8344932.svg" alt="DOI"></a>
 
 <!-- what is nest? what is it for? -->
 NEST is a simulator for spiking neuronal networks. It is used mostly in computational neuroscience to model and study <!-- phenomenons in the functional --> behaviour of large networks of neurons. The models describe single neuron and synapse behaviour and their connections. Different mechanisms of plasticity can be used to investigate artificial learning and help to shed light on the fundamental principles of how the brain works.
@@ -48,4 +48,6 @@ With the combination of AI and neuromorphic computing, both sides can advance fr
 
 ## Activities
 
-None yet.
+* Participated in continuous benchmarking hackathon
+* Presented documentation related talk to HiRSE Seminar Series
+* Improved CI chain with new RSE best practice tools
