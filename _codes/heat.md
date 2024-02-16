@@ -3,7 +3,7 @@ layout: code
 title: Heat - The Helmholtz Analytics Toolkit
 Topics: High-performance Computing, Data Analysis, Data Science, Machine Learning, Distributed Tensors, Python, MPI, GPU, CUDA, ROCm
 Link: https://github.com/helmholtz-analytics/heat/
-Project Head: Claudia Comito
+Project Head: Markus Götz
 Members: KIT-SCC, FZJ-JSC, DLR-SC
 toc: true
 ---
