@@ -36,6 +36,7 @@ This only needs to be done once on every machine. Then, `PMFRG.jl`, its dependen
 (v1.10) pkg> add PMFRG
 ```
 For further usage instructions, see https://github.com/NilsNiggemann/PMFRG.jl.
+
 ## Activities
 In the scope of HiRSE_PS, `PMFRG.jl`, formerly a private repository, has since become a public open-source software package.
 In this context, the package now features
