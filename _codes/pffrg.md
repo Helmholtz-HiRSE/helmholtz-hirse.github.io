@@ -20,11 +20,11 @@ Our activities in developing, implementing and applying the PFFRG code are relat
 As a quite new software project and with our main contributors being physicists with only secondary software development experience, our group benefits in particular from the counseling opportunities offered by HiRSE.
 
 ## Codes
-`PMFRG.jl` (**P**seudo-**M**ajorana **F**unctional **R**enormalization **G**roup) is a package written in the [Julia language](https://julialang.org/). It is used to compute observables for spin- $1/2$ Heisenberg models of the form
+`PMFRG.jl` (**P**seudo-**M**ajorana **F**unctional **R**enormalization **G**roup) is a package written in the [Julia language](https://julialang.org/). It is used to compute observables for spin- \\(1/2\\) Heisenberg models of the form
 
-$$
+\\[
 H = \sum_{ij} J_{ij} \vec{S}_i \cdot \vec{S}_j
-$$
+\\]
 ### Installation
 - First, a working installation of Julia is required. We recommend an installation via [juliaup](https://github.com/JuliaLang/juliaup).
 Subsequently, `PMFRG.jl` and its dependencies are best installed via first installing the private registry "JuliaPMFRG". Type `]` in the shell to enter the package mode:
