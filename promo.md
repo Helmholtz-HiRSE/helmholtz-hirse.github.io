@@ -46,6 +46,8 @@ please download the <a
 href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.pdf">.pdf</a>
 </div>
 
+<br>
+
 ## The Research Software Directory
 
 Since this is about visibility, awareness and promotion of reseach software, we would also like to
