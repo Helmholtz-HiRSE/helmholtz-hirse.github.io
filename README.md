@@ -54,13 +54,22 @@ Jekyll will recognize them and rebuild the site.
 Check your results by reloading <http://localhost:4000/>.
 Livereload is not possible.
 
+Should you prefer the root-less approach via podman, try
+
+    podman run --rm \
+    --volume="$PWD:/srv/jekyll:Z" \
+    --publish [::1]:4000:4000 \
+    -e JEKYLL_ROOTLESS=1 \
+    docker.io/jekyll/jekyll \
+    jekyll serve
+
 ### What to find where
 
 The overview pages are markdown files in the main folder.
 All subpages are organized in subfolders:
 
-    ├──assets          --> place for images
-    ├──_events         --> pages for events
+    ├──assets       --> place for images
+    ├──_events      --> pages for events
     ├──_codes       --> pages for codes
 
 All other files and folders are for structure and design of the page.
