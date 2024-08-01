@@ -17,7 +17,7 @@ Germany.
 ## Quick overview
 
 Following the start of this HiRSE initiative right at the beginning of summer
-2024, by now we have heard back from almost 50 developers or teams of
+2024, only 4 weeks later we have heard back from almost 50 developers or teams of
 developers, eager to present their work. The replies come from a rather diverse
 set of codes spawning multiple scientific disciplines and range from frontends
 to existing codes over codes providing services to simulation codes running at
