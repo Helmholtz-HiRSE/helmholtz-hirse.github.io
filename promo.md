@@ -14,6 +14,10 @@ not meant exclusively, we of course welcome also software written by
 international teams, as long as there is a substantial contribution coming from
 Germany.
 
+Provide us with the details of your software using 
+our <a href="https://go.fzj.de/research_software_promotion">form</a> and we will create your promo 
+slide that will be shown ahead of a HiRSE Seminar and during HiRSE event breaks. 
+
 ## Quick overview
 
 Following the start of this HiRSE initiative right at the beginning of summer
