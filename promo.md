@@ -39,10 +39,18 @@ width="600"
 src="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.gif"></a>
 </div>
 
----
+
 <div>
 For more details (e.g. links to the codes) and to view it in your own time,
 please download the <a
 href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.pdf">.pdf</a>
 </div>
 
+## The Research Software Directory
+
+Since this is about visibility, awareness and promotion of reseach software, we would also like to
+highlight the <a href="https://helmholtz.software/">Helmholtz Research Software Directory</a>. If
+the software is at least co-developed at a Helmholtz centre, this is the place to put it.
+It is tailored to Research Software Engineers and Researchers from Helmholtz that want to promote 
+or discover research software. 
+The Helmholtz Research Software Directory is an adaption of the eScience Center's <a href="https://research-software-directory.org/">Research Software Directory</a>.
