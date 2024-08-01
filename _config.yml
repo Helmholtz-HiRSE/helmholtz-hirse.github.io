@@ -10,5 +10,7 @@ collections:
     output: true
   series:
     output: true
+  promo:
+    output: true
 
 markdown: kramdown
