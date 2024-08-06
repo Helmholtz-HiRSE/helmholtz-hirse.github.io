@@ -22,10 +22,9 @@ slide that will be shown ahead of a HiRSE Seminar and during HiRSE event breaks.
 
 Following the start of this HiRSE initiative right at the beginning of summer
 2024, only 4 weeks later we have heard back from almost 50 developers or teams of
-developers, eager to present their work. The replies come from a rather diverse
-set of codes spawning multiple scientific disciplines and range from frontends
-to existing codes over codes providing services to simulation codes running at
-the largest supercomputers.
+developers, eager to present their work. The replies have come from a rather diverse 
+set of codes spanning multiple scientific disciplines and range from frontends to 
+existing codes to codes providing services to simulation codes running at the largest supercomputers.
 
 A common theme for many of them: the wish for sustainable funding not only for
 lighthouse projects and new developments, but also for established codes. Of
