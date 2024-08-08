@@ -31,7 +31,7 @@ of their codes, otherwise they would not be here.
 <div>
 <a
 href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.pdf"><img
-width="600"
+width="90%" style="max-width: 600px;"
 src="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.gif"></a>
 </div>
 
