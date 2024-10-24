@@ -19,7 +19,7 @@ FLEUR is one of the lighthouse codes of the MaX-Centre of Excellence.
 
 ## Goals
 
-The main goals within HIRSE_PS are dealing with the extension and consolidation of our development process:
+The main goals within HIRSE are dealing with the extension and consolidation of our development process:
 - Extension of the CI testing to performance testing.
 - Clearer developed path to integrate large scale developments without breaking the code base.
 - Modularization and refactoring of OpenACC and OpenMP implementations.

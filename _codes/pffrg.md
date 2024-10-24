@@ -37,13 +37,13 @@ This only needs to be done once on every machine. Then, `PMFRG.jl`, its dependen
 ```
 For further usage instructions, see https://github.com/NilsNiggemann/PMFRG.jl.
 ## Activities
-In the scope of HiRSE_PS, `PMFRG.jl`, formerly a private repository, has since become a public open-source software package.
+In the scope of HiRSE, `PMFRG.jl`, formerly a private repository, has since become a public open-source software package.
 In this context, the package now features
 - Continuous integration
 - Installation instructions
 - Usage documentation.
 
-In a very successful collaboration with Michele Mesiti, enabled by HiRSE_PS, a working implementation of a new hybrid parallelization scheme employing julia threads as well as MPI for inter-node communication was developed. 
+In a very successful collaboration with Michele Mesiti, enabled by HiRSE, a working implementation of a new hybrid parallelization scheme employing julia threads as well as MPI for inter-node communication was developed. 
 
 ## Relevant publications
 The following is a list of selected publications, which outline the background and methodology of the PMFRG method.
