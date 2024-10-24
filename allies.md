@@ -3,7 +3,7 @@ layout: allies
 title: Allies
 ---
 
-# HiRSE_PS Allies
+# HiRSE Allies
 
 <div> <a href="https://www.hifis.net/"><img width="300" src="assets/HIFIS_Logo_short_RGB_cropped.svg"></a> </div>
 <br/>

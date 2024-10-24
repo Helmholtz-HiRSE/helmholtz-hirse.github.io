@@ -2,7 +2,7 @@
 layout: partners
 title: Partners
 ---
-# HiRSE_PS Partners
+# HiRSE Partners
 
 
 <div> <a href="https://www.fz-juelich.de/portal/EN/AboutUs/_node.html"><img width="300" src="assets/FZj_Logo.jpg"></a> </div>
