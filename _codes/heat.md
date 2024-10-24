@@ -23,7 +23,7 @@ With Heat you can:
 
 ## Goals
 
-Within HiRSE_PS we would like to achieve at least the following objectives:
+Within HiRSE we would like to achieve at least the following objectives:
 
 * Continuous Benchmarking ( ✅ )
 * Portation to IPUs and XPUs (CUDA, ROCm: ✅)

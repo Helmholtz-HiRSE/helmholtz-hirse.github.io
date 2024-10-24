@@ -17,7 +17,7 @@ You can use our [feedback form](https://forms.gle/XH2fMa3MEikjB9pt5) to tell us 
 
 The announcement and connection details are posted here:
 
-- HiRSE_PS-internal HiRSE Mattermost channel,
+- HiRSE-internal HiRSE Mattermost channel,
 - HIFIS Mattermost channel,
 - Helmholtz Open Science Mattermost Channel
 - FZJ-internal #rse Rocket.Chat channel,

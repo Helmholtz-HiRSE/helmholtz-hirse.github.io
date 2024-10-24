@@ -4,7 +4,7 @@ title: Legal notice
 ---
 # Legal Notice
 
-Helmholtz Platform for Research Software Engineering - Preparatory Study (HiRSE_PS)
+Joint Lab Helmholtz Information - Research Software Engineering (HiRSE)
 
 Lead-PIs: Markus Diesmann (FZJ/INM-6) and Achim Streit (KIT/SCC)
 
@@ -23,7 +23,7 @@ D-52428 Jülich
 
 ## Copyright
 
-Copyright and all other rights concerning the website of HiRSE_PS are held by HiRSE_PS. Use of the information contained on the website, including excerpts, is permitted for educational, scientific or private purposes, provided the source is quoted (unless otherwise expressly stated on the respective website). Use for commercial purposes is not permitted unless explicit permission has been granted by HiRSE_PS.
+Copyright and all other rights concerning the website of HiRSE are held by HiRSE. Use of the information contained on the website, including excerpts, is permitted for educational, scientific or private purposes, provided the source is quoted (unless otherwise expressly stated on the respective website). Use for commercial purposes is not permitted unless explicit permission has been granted by HiRSE.
 
 For further information, contact: <hirse@fz-juelich.de>.
 

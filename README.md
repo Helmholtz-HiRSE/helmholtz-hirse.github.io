@@ -1,4 +1,4 @@
-# HiRSE_PS Website
+# HiRSE Website
 
 <https://www.helmholtz-hirse.de/>
 
