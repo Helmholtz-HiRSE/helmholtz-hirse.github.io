@@ -33,16 +33,16 @@ of their codes, otherwise they would not be here.
 
 <div>
 <a
-href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.pdf"><img
+href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-code-promotion/public/HiRSE_Code_Promo_Slideshow.pdf"><img
 width="90%" style="max-width: 600px;"
-src="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.gif"></a>
+src="https://rg-rse.pages.jsc.fz-juelich.de/hirse-code-promotion/public/HiRSE_Code_Promo_Slideshow.gif"></a>
 </div>
 
 
 <div>
 For more details (e.g. links to the codes) and to view it in your own time,
 please download the <a
-href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-prom-rs_public/hirse_code_promo_slideshow.pdf">.pdf</a>
+href="https://rg-rse.pages.jsc.fz-juelich.de/hirse-code-promotion/public/HiRSE_Code_Promo_Slideshow.pdf">.pdf</a>
 </div>
 
 <br>
