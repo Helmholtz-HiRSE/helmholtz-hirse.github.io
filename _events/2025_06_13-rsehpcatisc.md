@@ -27,22 +27,24 @@ In this workshop, participants will be able to exchange ideas, approaches, good 
 In addition, we foresee a part where open questions to the audience will be posed, helping everyone to add their thoughts to this event.
 
 Topics include, but are not limited to:
--​ User’s perspective: How do users experience the existing solutions? Is there
+- User’s perspective: How do users experience the existing solutions? Is there
 something missing, from technological solutions to convenience?
--​ Operations’ perspective: What does it take for hosting sites to start and to maintain
+- Operations’ perspective: What does it take for hosting sites to start and to maintain
 an CI/CB infrastructure? What are benefits, what are burdens?
--​ Success stories and scary tales: where did CI/CB help to identify problems? Where
+- Success stories and scary tales: where did CI/CB help to identify problems? Where
 could it have helped? And what did hinder the adaptation of CI/CB?
--​ Past, present, future: what are lessons learned and what does a wishlist look like?
+- Past, present, future: what are lessons learned and what does a wishlist look like?
 
 The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
 
 ### Contribution submissions:
-To present a lightning talks at RSEHPC@ISC25 use the form below. RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
+To present a lightning talks at RSEHPC@ISC25 use this [submission form](https://forms.gle/4QP9GNPU2jncTuHa9).  
+RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
 The deadline for submissions is 28 Feb 2025.
 
 ### Organising committee:
+
 - René Caspart (Karlsruhe Institute of Technology)
 - Robert Speck (Forschungszentrum Juelich)
 - Stefanie Reuter (ECMWF)
@@ -52,12 +54,6 @@ The deadline for submissions is 28 Feb 2025.
 - Jayesh Badwaik (Jülich Supercomputing Centre at Forschungszentrum Jülich)
 - Weronika Filinger (EPCC, University of Edinburgh)
 - Sarah Neuwirth (Johannes Gutenberg University of Mainz)
-
-
-
-<!-- Claire Wyatt (Forschungszentrum Juelich and former community manager RSE UK)
-Neil Chue Hong (EPCC and Software Sustainability Institute) -->
-
 
 ### Code of conduct:
 As an ISC co-located workshop we follow ISC’s code of conduct, which can be found  [here](https://isc-hpc.com/contact-code-of-conduct/)
