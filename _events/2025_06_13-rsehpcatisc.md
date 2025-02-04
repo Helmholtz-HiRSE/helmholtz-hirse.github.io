@@ -12,7 +12,7 @@ It has long been understood that there is a strong overlap between the fields of
 For the second time an RSEHPC workshop will be held at ISC.
 In this workshop, the focus will be placed on discussing the impact, usages, and implementations of continuous integration and benchmarking for heterogeneous, extreme-scale HPC systems.
 
-Submission for lightning talks contributions will open soon.
+Submission for lightning talk contributions is open.
 
 <!--more-->
 
