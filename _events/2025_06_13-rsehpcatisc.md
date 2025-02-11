@@ -37,6 +37,55 @@ could it have helped? And what did hinder the adaptation of CI/CB?
 
 The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
 
+### Keynotes
+
+#### Cx in production
+
+Speaker: [Michele Mesiti](https://www.scc.kit.edu/en/staff/16297.php), Scientific Computing Centre, Karlsruhe Institute of Technology, Germany
+
+Abstract:
+TBA
+
+#### The Impact of CI/CD/CB during JUPITER’s Ascension
+
+
+Speaker: [Jayesh Badwaik](https://www.fz-juelich.de/profile/badwaik_j), Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany
+
+Abstract: 
+Ensuring performance consistency and early regression detection is critical in 
+high-performance computing (HPC) operations. Traditional benchmarking methods 
+rely on manual execution, leading to inconsistencies and delayed issue 
+detection. During the JUREAP program, we integrated Continuous Benchmarking 
+(CB) using exacb to standardize performance evaluation across 50 applications. 
+This automation improved reproducibility, streamlined reporting, and enabled 
+early detection of system anomalies, such as faulty Slurm updates and workflow 
+execution issues on the JEDI machine. Even without a fully operational 
+exascale supercomputer, exacb facilitated systematic performance comparisons, 
+providing valuable insights into application scalability.
+
+Beyond JUREAP, CI/CD/CB enhances research software development and HPC system 
+management. Our framework simplifies benchmarking, ensuring efficient performance 
+tracking and optimization at scale—key for the upcoming JUPITER exascale 
+supercomputer. Automating benchmarking reduces manual overhead, improves 
+system stability, and aids in troubleshooting by providing structured 
+performance insights. In this talk, we share our experience implementing CB in 
+JUREAP, key findings from benchmarking 50 applications, and the broader impact 
+of CI/CD/CB on research software, system administration, and future exascale 
+computing.
+
+#### Utilization of Cx in Fugaku and FugakuNEXT
+
+Speaker: [Hitoshi Murai](https://www.r-ccs.riken.jp/en/research/octd/sdt/), RIKEN Center for Computational Science, Japan
+
+Abstract:
+RIKEN R-CCS starts the FugakuNEXT project from April, 2025. FugakuNEXT is a 
+project for developing Japanese next-generation supercomputer. Unlike its 
+predecessor, Supercomputer Fugaku, it is equipped with GPUs and targets both HPC 
+and AI workloads; therefore it is crucial to develop and/or optimize applications 
+for such a system. For this goal, we are planning to utilize Cx technologies.
+In this talk, we will explain briefly our plan of utilizing Cx in the FugakuNEXT 
+project along with that in Fugaku.
+
 ### Contribution submissions:
 To present a lightning talks at RSEHPC@ISC25 use this [submission form](https://forms.gle/4QP9GNPU2jncTuHa9).  
 RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
