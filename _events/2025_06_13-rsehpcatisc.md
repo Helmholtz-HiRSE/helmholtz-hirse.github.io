@@ -39,14 +39,15 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
 
 ### Keynotes
 
-* Cx in production
+
+#### Cx in production
 
 Speaker: [Michele Mesiti](https://www.scc.kit.edu/en/staff/16297.php), Scientific Computing Centre, Karlsruhe Institute of Technology, Germany
 
 Abstract:
 TBA
 
-*  The Impact of CI/CD/CB during JUPITER's Ascension
+#### The Impact of CI/CD/CB during JUPITER's Ascension
 
 Speaker: [Jayesh Badwaik](https://www.fz-juelich.de/profile/badwaik_j), Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany
 
@@ -70,7 +71,7 @@ JUREAP, key findings from benchmarking 50 applications, and the broader impact
 of CI/CD/CB on research software, system administration, and future exascale 
 computing.
 
-* Utilization of Cx in Fugaku and FugakuNEXT
+#### Utilization of Cx in Fugaku and FugakuNEXT
 
 Speaker: [Hitoshi Murai](https://www.r-ccs.riken.jp/en/research/octd/sdt/), RIKEN Center for Computational Science, Japan
 
