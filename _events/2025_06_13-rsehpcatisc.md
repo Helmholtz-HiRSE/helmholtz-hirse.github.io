@@ -18,6 +18,11 @@ Submission for lightning talk contributions is open.
 
 <img width="500" src="../assets/ISC2025_Logo_web_date_rgb.png">
 
+- [Keynote](#keynotes)
+- [Call for Contributions](#submission)
+- [Organising committee](#orga)
+
+
 It has long been understood that there is a strong overlap between the fields of HPC and RSE. Although the two are not entirely congruent, the techniques used and the communities are closely interlinked.
 For the second time an RSEHPC workshop will be held at ISC.
 
@@ -38,6 +43,7 @@ could it have helped? And what did hinder the adaptation of CI/CB?
 The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
 
 ### Keynotes
+{: #keynotes}
 
 The three keynotes will set the stage for the workshop, showing was has been achieved so far and how Cx plays a vital role for running, procuring and planning HPC machines.
 
@@ -86,12 +92,14 @@ In this talk, we will explain briefly our plan of utilizing Cx in the FugakuNEXT
 project along with that in Fugaku.
 
 ### Contribution submissions:
+{: #submission}
 To present a lightning talks at RSEHPC@ISC25 use this [submission form](https://forms.gle/4QP9GNPU2jncTuHa9).  
 RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
 The deadline for submissions is 28 Feb 2025.
 
 ### Organising committee:
+{: #orga}
 
 - René Caspart (Karlsruhe Institute of Technology)
 - Robert Speck (Forschungszentrum Juelich)
