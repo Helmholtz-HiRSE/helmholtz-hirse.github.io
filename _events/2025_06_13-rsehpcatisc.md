@@ -23,7 +23,7 @@ For the second time an RSEHPC workshop will be held at ISC.
 
 When developing research software, it is often relevant to track its performance over time. It is even vital when targeting HPC architectures. Changes to the software itself, the used toolchains, or the system setup should not compromise how fast users obtain their results. Ideally, performance or scalability should only ever increase. Hence benchmarking should be an integral part of testing, in particular for HPC codes. At the same time, up-to-date benchmarks that are publicly available can advertise the code and the machines running them, informing users how to set-up the software in the most ideal way or whether they are achieving the expected performance. To limit the burden on developers, the aforementioned steps should be automated within continuous integration (CI) practices, introducing continuous benchmarking (CB) to it. For HPC, an added complexity is the requirement of more than the usual CI backends, with access to longer running steps, more resources than available on a single node, and a diverse range of architectures that the software needs to be tested on.
 
-In this workshop, participants will be able to exchange ideas, approaches, good practices, but also obstacles on the way to continuous benchmarking on HPC systems. Driven by three keynote talks which will set the stage, participants are encouraged to share their own experiences, both from a users and from an operations perspective. To foster this exchange, we foresee the second part of the workshop to provide a stage for participants to contribute their expertise, and experience with lightning talks. For the lightning talks a light-weight submission will be set up and reviewed by well known international RSE and HPC experts.
+In this workshop, participants will be able to exchange ideas, approaches, good practices, but also obstacles on the way to continuous benchmarking on HPC systems. Driven by three keynote talks which will set the stage (see below), participants are encouraged to share their own experiences, both from a users and from an operations perspective. To foster this exchange, we foresee the second part of the workshop to provide a stage for participants to contribute their expertise, and experience with lightning talks. For the lightning talks a light-weight submission will be set up and reviewed by well known international RSE and HPC experts.
 In addition, we foresee a part where open questions to the audience will be posed, helping everyone to add their thoughts to this event.
 
 Topics include, but are not limited to:
@@ -39,6 +39,7 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
 
 ### Keynotes
 
+The three keynotes will set the stage for the workshop, showing was has been achieved so far and how Cx plays a vital role for running, procuring and planning HPC machines.
 
 #### Cx in production
 
