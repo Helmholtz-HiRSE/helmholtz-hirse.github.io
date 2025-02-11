@@ -18,10 +18,13 @@ Submission for lightning talk contributions is open.
 
 <img width="500" src="../assets/ISC2025_Logo_web_date_rgb.png">
 
+- [Motivation](#motivation)
 - [Keynote](#keynotes)
 - [Call for Contributions](#submission)
 - [Organising committee](#orga)
 
+### Motivation
+{: #motivation}
 
 It has long been understood that there is a strong overlap between the fields of HPC and RSE. Although the two are not entirely congruent, the techniques used and the communities are closely interlinked.
 For the second time an RSEHPC workshop will be held at ISC.
