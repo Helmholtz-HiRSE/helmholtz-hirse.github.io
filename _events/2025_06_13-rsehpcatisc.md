@@ -1,6 +1,6 @@
 ---
 layout: events
-title:  "RSEHPC@ISC25 Workshop"
+title:  "RSEHPC@ISC25 Workshop: Tools and Techniques for Continuous Integration and Benchmarking"
 start_date: 2025-06-13
 location: https://maps.app.goo.gl/9wCj7aRcMUeJ5PL87
 excerpt_separator: <!--more-->
