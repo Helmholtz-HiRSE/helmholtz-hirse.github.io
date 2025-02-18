@@ -50,12 +50,19 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
 
 The three keynotes will set the stage for the workshop, showing was has been achieved so far and how Cx plays a vital role for running, procuring and planning HPC machines.
 
-#### Cx in production
-
+#### The past, the present and the future of Cx at NHR@KIT and KIT
 Speaker: [Michele Mesiti](https://www.scc.kit.edu/en/staff/16297.php), Scientific Computing Centre, Karlsruhe Institute of Technology, Germany
 
 Abstract:
-TBA
+Since 2021 the German National High Performance Computing Center at Karlsruhe Institute of Technology (NHR@KIT)
+has been offering and advertising the possibility of running Cx workloads, including the possibility for
+containerised workflows, on our diverse HPC infrastructure, leveraging the customizability of the GitLab
+CI/CD ecosystem.
+In this talk we will discuss the evolution of our Cx service offer, both from the technical and user adaption
+point-of-view, its current status, including current and planned in-house developments to suite the demands
+for this service, and compare it with alternatives.
+We will also describe the challenges and opportunities observed by us in user engagements, which is being
+offered through courses, support tickets and ad-hoc collaborations and outline our plans for the future.
 
 #### The Impact of CI/CD/CB during JUPITER's Ascension
 
