@@ -1,12 +1,10 @@
 ---
 layout: events
-title:  "RSEHPC@ISC25 Workshop: Tools and Techniques for Continuous Integration and Benchmarking"
+title:  "RSEHPC@ISC25 Workshop: Tools and Techniques for Continuous Integration and Benchmarking, 13th June 2025, ISC, Hamburg"
 start_date: 2025-06-13
 location: https://maps.app.goo.gl/9wCj7aRcMUeJ5PL87
 excerpt_separator: <!--more-->
 ---
-
-Tools and Techniques for Continuous Integration and Benchmarking, 13th June 2025, ISC, Hamburg
 
 It has long been understood that there is a strong overlap between the fields of HPC and RSE. Although the two are not entirely congruent, the techniques used and the communities are closely interlinked.
 For the second time an RSEHPC workshop will be held at ISC.
