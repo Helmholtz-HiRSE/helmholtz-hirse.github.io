@@ -41,7 +41,7 @@ an CI/CB infrastructure? What are benefits, what are burdens?
 could it have helped? And what did hinder the adaptation of CI/CB?
 - Past, present, future: what are lessons learned and what does a wishlist look like?
 
-The RSEHPC@ISC25 will be held in-person on 13th June 2025 in Hamburg.
+The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 
 ### Keynotes
 {: #keynotes}
