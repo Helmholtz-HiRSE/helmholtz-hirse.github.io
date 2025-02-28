@@ -104,7 +104,7 @@ project along with that in Fugaku.
 To present a lightning talks at RSEHPC@ISC25 use this [submission form](https://forms.gle/4QP9GNPU2jncTuHa9).  
 RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
-The deadline for submissions is 28 Feb 2025.
+The deadline for submissions is March 7, 2025.
 
 ### Organising committee:
 {: #orga}
