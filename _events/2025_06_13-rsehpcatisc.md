@@ -10,7 +10,7 @@ It has long been understood that there is a strong overlap between the fields of
 For the second time an RSEHPC workshop will be held at ISC.
 In this workshop, the focus will be placed on discussing the impact, usages, and implementations of continuous integration and benchmarking for heterogeneous, extreme-scale HPC systems.
 
-Submission for lightning talk contributions is open.
+Submission for lightning talk contributions is now closed. Program will follow soon.
 
 <!--more-->
 
@@ -101,10 +101,9 @@ project along with that in Fugaku.
 
 ### Contribution submissions:
 {: #submission}
-To present a lightning talks at RSEHPC@ISC25 use this [submission form](https://forms.gle/4QP9GNPU2jncTuHa9).  
+The submission for lightning talks at RSEHPC@ISC25 is now closed.
+The program for the workshop will be published soon.
 RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
-
-The deadline for submissions is March 7, 2025.
 
 ### Organising committee:
 {: #orga}
