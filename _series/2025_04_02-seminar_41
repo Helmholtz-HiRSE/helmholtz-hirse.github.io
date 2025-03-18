@@ -1,0 +1,34 @@
+---
+layout: series
+title:  "41st HiRSE Seminar"
+start_date: 2025-04-02
+location: virtual
+excerpt_separator: <!--more-->
+---
+
+On April 2nd, 2025, 2pm CEST, **Mascha Schmidt, Victor Haguet and Fritz Niesel** from the [Applied Machine Learning Group](https://www.fz-juelich.de/en/ias/jsc/about-us/structure/simulation-and-data-labs/sdl-applied-machine-learning) from Jülich Supercomputing Centre will join us at the HiRSE Seminar Series with their talk about **Bridging the Gap Between Private Data and AI: A Beginner’s Guide to Retrieval Augmented Generation (RAG)**
+<!--more-->
+
+**Abstract**:
+
+AI is transforming administrative and scientific workflows by automating tedious cognitive tasks. However, one of our most valuable resources - private and sensitive documents - often remains inaccessible to AI solutions.
+Retrieval Augmented Generation (RAG) offers a way to bridge this gap. It enables AI models to efficiently process and search large private data sources while maintaining control over data access and security.
+
+In this talk, we’ll guide you through the process of building a RAG system, from understanding its core components to integrating it into real-world applications.We’ll begin by introducing RAG and demonstrating how it enhances knowledge retrieval where standard LLMs fall short.
+Then, we’ll break down key concepts such as chunking, embedding, vector storage and retrieval. Finally, we’ll explore how to tailor RAG for advanced use cases and integrate it into data-driven applications.
+
+Whether you're a developer, researcher, or AI enthusiast, this session will provide a clear roadmap for using RAG effectively. Join us to learn when to use RAG, what to expect, and how to take your LLM applications to the next level.
+***
+
+The talk will be held online. The connection details will be posted here:
+
+* HiRSE_PS-internal [HiRSE Mattermost channel](https://mattermost.hzdr.de/hirse),
+* [HIFIS Mattermost channel](https://mattermost.hzdr.de/hifis), 
+* [Helmholtz Open Science Mattermost Channel](https://mattermost.hzdr.de/open-science)
+* FZJ-internal [#rse Rocket.Chat channel](https://chat.fz-juelich.de/channel/rse),
+* [de-RSE mailing list](https://de-rse.org/de/join.html) and [de-RSE Mattermost channel](https://chat.gwdg.de/channel/derse),
+* [FG RSE mailing list](https://fg-rse.gi.de/weiteres/mailingliste)
+* Helmholtz Open Science Pro [Mailinglist](https://os.helmholtz.de/en/newsroom/mailing-list/)
+* RSE mailing lists of the HiRSE partners (if any).
+
+If you would like to attend, but think you may not get the connection details through these channels, please write to [hirse@fz-juelich.de](mailto:hirse@fz-juelich.de). Slides will be published at the [HiRSE Zenodo Community](https://zenodo.org/communities/hirse/).
