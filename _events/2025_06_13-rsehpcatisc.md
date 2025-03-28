@@ -17,7 +17,6 @@ In this workshop, the focus will be placed on discussing the impact, usages, and
 - [Motivation](#motivation)
 - [Keynote](#keynotes)
 - [Timetable](#timetable)
-- [Call for Contributions](#submission)
 - [Organising committee](#orga)
 
 ### Motivation
@@ -63,15 +62,15 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 | 4:00 pm |  Coffee Break | |
 |---|---|---|
 | 4:00 pm - 4:45 pm |  4 Lightning talks | | 
-|  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch (KIT) |
-|  | Enhancing HPC Operations: Linking JUBE, LLview, and GitLab for Continuous Insight into System Health | Thomas Breuer (Forschungszentrum Juelich)
-|  | Development Containers for HPC | Tobias Ribizel (TUM) |
-|  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam (HZDR) |
+|  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch, Karlsruhe Institute of Technology, Germany |
+|  | Enhancing HPC Operations: Linking JUBE, LLview, and GitLab for Continuous Insight into System Health | Thomas Breuer, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany 
+|  | Development Containers for HPC | Tobias Ribizel, TU Munich, Germany|
+|  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |---|---|---|
 | 4:45 pm - 5:30 pm | 4 Lightning talks | |
-|  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads (JSC) |
+|  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
 |  | Smarter testing in the CI - How-to get great coverage but skip thousands of build configurations | Simeon Ehrig (CASUS) |
-|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel (HZDR) |
+|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone (LRZ) |
 |---|---|---|
 | 5:30 pm - 6:00 pm | Open Floor and Discussion | |
