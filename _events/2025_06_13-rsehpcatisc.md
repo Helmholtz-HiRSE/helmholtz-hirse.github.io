@@ -10,8 +10,6 @@ It has long been understood that there is a strong overlap between the fields of
 For the second time an RSEHPC workshop will be held at ISC.
 In this workshop, the focus will be placed on discussing the impact, usages, and implementations of continuous integration and benchmarking for heterogeneous, extreme-scale HPC systems.
 
-Submission for lightning talk contributions is now closed. Program will follow soon.
-
 <!--more-->
 
 <img width="500" src="../assets/ISC2025_Logo_web_date_rgb.png">
@@ -135,12 +133,6 @@ and AI workloads; therefore it is crucial to develop and/or optimize application
 for such a system. For this goal, we are planning to utilize Cx technologies.
 In this talk, we will explain briefly our plan of utilizing Cx in the FugakuNEXT 
 project along with that in Fugaku.
-
-### Contribution submissions:
-{: #submission}
-The submission for lightning talks at RSEHPC@ISC25 is now closed.
-The program for the workshop will be published soon.
-RSEHPC@ISC25 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
 ### Organising committee:
 {: #orga}
