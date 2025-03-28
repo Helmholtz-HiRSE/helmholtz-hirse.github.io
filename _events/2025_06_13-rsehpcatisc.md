@@ -18,6 +18,7 @@ Submission for lightning talk contributions is now closed. Program will follow s
 
 - [Motivation](#motivation)
 - [Keynote](#keynotes)
+- [Timetable](#timetable)
 - [Call for Contributions](#submission)
 - [Organising committee](#orga)
 
@@ -42,6 +43,42 @@ could it have helped? And what did hinder the adaptation of CI/CB?
 - Past, present, future: what are lessons learned and what does a wishlist look like?
 
 The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
+
+### Timetable
+{: #timetable}
+
+
+| <span style="display: inline-block; width:150px">Time</span> | Topic | Speaker |
+|---|---|---|
+| 2:00 pm | Welcome and introductions | René Caspart and Robert Speck |
+|---|---|---|
+| 2:05 pm | The past, the present and the future of Cx at NHR@KIT and KIT | Michele Mesiti, Scientific Computing Centre, Karlsruhe Institute of Technology, Germany | 
+|---|---|---|
+| 2:35 pm | The Impact of CI/CD/CB during JUPITER’s Ascension | Jayesh Badwaik, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
+|---|---|---|
+| 3:05 pm | Utilization of Cx in Fugaku and FugakuNEXT | Hitoshi Murai, RIKEN Center for Computational Science, Japan |
+|---|---|---|
+| 3:40 pm - 4:00 pm | 2 Lightning Talks | |
+|  | UK Living Benchmarks | Andy Turner (EPCC, University of Edinburgh) |
+|  | Collaborative benchmarking | Olga Pearce (LLNL) |
+|---|---|---|
+| 4:00 pm |  Coffee Break | |
+|---|---|---|
+| 4:00 pm - 4:45 pm |  4 Lightning talks | | 
+|  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch (KIT) |
+|  | Enhancing HPC Operations: Linking JUBE, LLview, and GitLab for Continuous Insight into System Health | Thomas Breuer (Forschungszentrum Juelich)
+|  | Development Containers for HPC | Tobias Ribizel (TUM) |
+|  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam (HZDR) |
+|---|---|---|
+| 4:45 pm - 5:30 pm | 4 Lightning talks | |
+|  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads (JSC) |
+|  | Smarter testing in the CI - How-to get great coverage but skip thousands of build configurations | Simeon Ehrig (CASUS) |
+|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel (HZDR) |
+|  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone (LRZ) |
+|---|---|---|
+| 5:30 pm - 6:00 pm | Open Floor and Discussion | |
+|---|---|---|
+
 
 ### Keynotes
 {: #keynotes}
