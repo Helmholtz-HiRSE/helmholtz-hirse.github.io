@@ -51,29 +51,27 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 |---|---|---|
 | 2:05 pm | The past, the present and the future of Cx at NHR@KIT and KIT | Michele Mesiti, Scientific Computing Centre, Karlsruhe Institute of Technology, Germany | 
 |---|---|---|
-| 2:35 pm | The Impact of CI/CD/CB during JUPITER’s Ascension | Jayesh Badwaik, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
+| 2:25 pm | The Impact of CI/CD/CB during JUPITER’s Ascension | Jayesh Badwaik, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
 |---|---|---|
-| 3:05 pm | Utilization of Cx in Fugaku and FugakuNEXT | Hitoshi Murai, RIKEN Center for Computational Science, Japan |
+| 2:45 pm | Utilization of Cx in Fugaku and FugakuNEXT | Hitoshi Murai, RIKEN Center for Computational Science, Japan |
 |---|---|---|
-| 3:40 pm - 4:00 pm | 2 Lightning Talks | |
-|  | UK Living Benchmarks | Andy Turner (EPCC, University of Edinburgh) |
-|  | Collaborative benchmarking | Olga Pearce (LLNL) |
+| 3:05 pm - 4:00 pm | 5 Lightning Talks | |
+|  | UK Living Benchmarks | Andy Turner, EPCC - The University of Edinburgh, United Kingdom |
+|  | Collaborative benchmarking | Olga Pearce, Lawrence Livermore National Laboratory, USA |
+|  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
+|  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone, Leibniz Supercomputing Centre, Germany |
+|  | Enhancing HPC Operations: Linking JUBE, LLview, and GitLab for Continuous Insight into System Health | Thomas Breuer, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany 
 |---|---|---|
 | 4:00 pm |  Coffee Break | |
 |---|---|---|
-| 4:00 pm - 4:45 pm |  4 Lightning talks | | 
+| 4:30 pm - 5:25 pm |  5 Lightning talks | | 
 |  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch, Karlsruhe Institute of Technology, Germany |
-|  | Enhancing HPC Operations: Linking JUBE, LLview, and GitLab for Continuous Insight into System Health | Thomas Breuer, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany 
 |  | Development Containers for HPC | Tobias Ribizel, TU Munich, Germany|
 |  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
-|---|---|---|
-| 4:45 pm - 5:30 pm | 4 Lightning talks | |
-|  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
-|  | Smarter testing in the CI - How-to get great coverage but skip thousands of build configurations | Simeon Ehrig (CASUS) |
+|  | Smarter testing in the CI - How-to get great coverage but skip thousands of build configurations | Simeon Ehrig, Center for Advanced Systems Understanding, Germany |
 |  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
-|  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone (LRZ) |
 |---|---|---|
-| 5:30 pm - 6:00 pm | Open Floor and Discussion | |
+| 5:25 pm - 6:00 pm | Open Floor and Discussion | |
 |---|---|---|
 
 
