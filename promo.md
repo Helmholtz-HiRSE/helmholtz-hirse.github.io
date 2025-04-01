@@ -8,7 +8,7 @@ title:  "HiRSE Code Promotion"
 Researchers, postdocs, and students at German universities and research centres
 write great research software. The HiRSE team wants to make that more visible
 by bringing your software to the attention of the RSE Community and beyond.
-We're looking for research software created, extended and/or maintained by
+We're looking for research software currently created, extended and/or maintained by
 people working at German institutions to join our latest initiative. This is
 not meant exclusively, we of course welcome also software written by
 international teams, as long as there is a substantial contribution coming from
