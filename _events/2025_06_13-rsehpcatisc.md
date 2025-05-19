@@ -65,11 +65,11 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 | 4:00 pm |  Coffee Break | |
 |---|---|---|
 | 4:30 pm - 5:25 pm |  5 Lightning talks | | 
+|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch, Karlsruhe Institute of Technology, Germany |
 |  | Development Containers for HPC | Tobias Ribizel, TU Munich, Germany|
 |  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |  | Smarter testing in the CI - How-to get great coverage but skip thousands of build configurations | Simeon Ehrig, Center for Advanced Systems Understanding, Germany |
-|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |---|---|---|
 | 5:25 pm - 6:00 pm | Open Floor and Discussion | |
 |---|---|---|
