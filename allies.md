@@ -34,6 +34,7 @@ The mission of the Helmholtz Open Science Office is to promote the cultural chan
 
 ---
 <div> <a href="https://gamm-ag-rse-rdm.github.io/"><img width="300" src="assets/gamm_fa.png"></a> </div>
+<br/>
 
 The development of research software and the handling of research data has been essential for many areas within the fields of the [GAMM](https://www.gamm.org/en/) for decades and ranges from simulation scripts and data to accompany publications to extensive software libraries and petabytes of data for specific application areas.
 
