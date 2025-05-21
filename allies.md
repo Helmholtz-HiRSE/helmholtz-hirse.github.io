@@ -31,3 +31,10 @@ However, the current approaches to research software as well as the recognition 
 Guided by the motto "Enabling open science practices in Helmholtz!" the Helmholtz Open Science Office works within the Association and promotes the visibility of Helmholtz on a national as well as international level within the context of Open Science in the spirit of the Helmholtz mission.
 
 The mission of the Helmholtz Open Science Office is to promote the cultural change towards open science. The office, established by the Helmholtz Association in 2005, sees itself as a service provider that supports the community in shaping the cultural change towards open science. The Helmholtz Open Science Office is a partner of all stakeholders involved in this process within Helmholtz.
+
+---
+<div> <a href="https://gamm-ag-rse-rdm.github.io/"><img width="300" src="assets/gamm_fa.png"></a> </div>
+
+The development of research software and the handling of research data has been essential for many areas within the fields of the [GAMM](https://www.gamm.org/en/) for decades and ranges from simulation scripts and data to accompany publications to extensive software libraries and petabytes of data for specific application areas.
+
+The GAMM Activity Group on Research Software Engineering and Research Data Management in Mathematics & Mechanics (GAMM FA RSE&RDM) aims at making a contribution here by providing impetus from the perspective of computer-driven sciences. They want to give the GAMM activities in the areas of research data and research software a visible home and promote synergies in the scientific exchange between the activities groups and identify GAMM-specific infrastructure requirements and fields of action.
