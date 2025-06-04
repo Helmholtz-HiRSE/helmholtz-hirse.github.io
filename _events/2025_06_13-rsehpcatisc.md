@@ -56,7 +56,7 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 | 2:45 pm | Utilization of Cx in Fugaku and FugakuNEXT | Hitoshi Murai, RIKEN Center for Computational Science, Japan |
 |---|---|---|
 | 3:05 pm - 4:00 pm | 5 Lightning Talks | |
-|  | UK Living Benchmarks | Andy Turner, EPCC - The University of Edinburgh, United Kingdom |
+|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |  | Collaborative benchmarking | Olga Pearce, Lawrence Livermore National Laboratory, USA |
 |  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
 |  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone, Leibniz Supercomputing Centre, Germany |
@@ -65,7 +65,7 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 | 4:00 pm |  Coffee Break | |
 |---|---|---|
 | 4:30 pm - 5:25 pm |  5 Lightning talks | | 
-|  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
+|  | UK Living Benchmarks | Andy Turner, EPCC - The University of Edinburgh, United Kingdom |
 |  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch, Karlsruhe Institute of Technology, Germany |
 |  | Development Containers for HPC | Tobias Ribizel, TU Munich, Germany|
 |  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
