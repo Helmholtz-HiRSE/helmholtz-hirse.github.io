@@ -67,7 +67,6 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 | 4:30 pm - 5:25 pm |  5 Lightning talks | | 
 |  | UK Living Benchmarks | Andy Turner, EPCC - The University of Edinburgh, United Kingdom |
 |  | bwRSE4HPC - Regional RSE Support for HPC Users | Marcel Koch, Karlsruhe Institute of Technology, Germany |
-|  | Development Containers for HPC | Tobias Ribizel, TU Munich, Germany|
 |  | Continuous evaluation of Performance-Portabilty tradeoff in Containerized applications using Jacamar CI | Varun Sudharshnam, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |  | Smarter testing in the CI - How-to get great coverage but skip thousands of build configurations | Simeon Ehrig, Center for Advanced Systems Understanding, Germany |
 |---|---|---|
