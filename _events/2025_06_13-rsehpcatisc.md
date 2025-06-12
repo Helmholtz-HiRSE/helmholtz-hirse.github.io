@@ -59,7 +59,7 @@ The RSEHPC@ISC25 will be held in-person on 13th June 2025, 2pm-6pm in Hamburg.
 |  | Experience from continuous validation for a open-source CFD software | Fabian Schlegel, Helmholtz-Zentrum Dresden-Rossendorf, Germany |
 |  | Collaborative benchmarking | Olga Pearce, Lawrence Livermore National Laboratory, USA |
 |  | A CI/CB Setup for a Quantum Transport Code | Christoph Conrads, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany |
-|  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone, Leibniz Supercomputing Centre, Germany |
+|  | Continuous Transpilation with Coccinelle and AutoBench | Michele Martone, Arjun Parab, Amir Raoofy, Leibniz Supercomputing Centre, Germany |
 |  | Enhancing HPC Operations: Linking JUBE, LLview, and GitLab for Continuous Insight into System Health | Thomas Breuer, Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH, Germany 
 |---|---|---|
 | 4:00 pm |  Coffee Break | |
