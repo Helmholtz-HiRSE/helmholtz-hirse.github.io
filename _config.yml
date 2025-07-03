@@ -1,5 +1,8 @@
 sass:
   sass_dir: assets/css
+  # Include the project root ('.') in load_paths so that Sass can resolve imports from the root directory.
+  load_paths:
+    - .
 
 title: HiRSE
 
