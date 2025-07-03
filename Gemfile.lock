@@ -83,6 +83,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (>= 4.3.2)
+  jekyll-sass-converter
   liquid (>= 4.0.4)
   webrick
 
