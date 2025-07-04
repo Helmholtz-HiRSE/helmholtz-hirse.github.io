@@ -1,20 +1,21 @@
-<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js" integrity="sha512-LW9+kKj/cBGHqnI4ok24dUWNR/e8sUD8RLzak1mNw5Ja2JYCmTXJTF5VpgFSw+VoBfpMvPScCo2DnKTIUjrzYw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <script type="text/javascript">
   var mardown_toc_exist = document.getElementById("markdown-toc");
   if(typeof(mardown_toc_exist) != 'undefined' && mardown_toc_exist != null){
     document.getElementById('markdown-toc').style.display='none';
-  };
+  }
   var toc_exist = document.getElementById("toc");
-  if(typeof(toc_exist) != 'undefined' && toc_exist != null){
-    document.getElementById('toc').innerHTML=document.getElementById('markdown-toc').innerHTML
-  };  
-  </script>
-  
+  if(typeof(toc_exist) != 'undefined' && toc_exist != null && document.getElementById('markdown-toc')){
+    document.getElementById('toc').innerHTML = document.getElementById('markdown-toc').innerHTML;
+  }
+</script>
+
 <footer class="pt-3 mt-4 text-muted border-top">
   <div class="container">
-    &copy; 2024 &nbsp;&nbsp;&nbsp;<a href="{{ "/service/legal_notice.html" | relative_url }}">Legal Notice</a> &nbsp;&nbsp;&nbsp;<a href="https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement">Data protection</a>
+    &copy; {{ "now" | date: "%Y" }} &nbsp;&nbsp;&nbsp;
+    <a href="{{ "/service/legal_notice.html" | relative_url }}">Legal Notice</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement">Data protection</a>
   </div>
-  </footer>
+</footer>

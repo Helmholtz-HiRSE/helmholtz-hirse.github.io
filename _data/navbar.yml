@@ -8,6 +8,13 @@
   link: /codes.html
 - name: Seminar Series
   link: /series.html
+  subnav:
+    - name: Seminar
+      link: /series/seminar/
+    - name: Summer of Testing
+      link: /series/summer_of_testing/
+    - name: Summer of Languages
+      link: /series/summer_of_languages/
 - name: Events
   link: /events.html
 - name: Resources
