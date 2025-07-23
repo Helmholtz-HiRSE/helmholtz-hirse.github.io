@@ -5,31 +5,24 @@ title:  "HiRSE Code Promotion"
 
 # The HiRSE Code Promotion - shining a light on your work
 
-Researchers, postdocs, and students at German universities and research centres
-write great research software. The HiRSE team wants to make that more visible
-by bringing your software to the attention of the RSE Community and beyond.
-We're looking for research software currently created, extended and/or maintained by
-people working at German institutions to join our latest initiative. This is
-not meant exclusively, we of course welcome also software written by
-international teams, as long as there is a substantial contribution coming from
-Germany.
+Software and code developed by researchers, postdocs, and students at German universities and research centres help power scientific research and discovery, yet the code developed is not always visible or recognised. That's why in summer 2024, HiRSE launched the Code Promotion initiative to give research software the visibility it deserves.
 
-Provide us with the details of your software using 
-our <a href="https://go.fzj.de/research_software_promotion">form</a> and we will create your promo 
-slide that will be shown ahead of a HiRSE Seminar and during HiRSE event breaks. 
+The HiRSE team wants to bring your software to the attention of the RSE community and beyond. We're looking for research software currently being created, extended, and/or maintained by people working at German institutions to join our latest initiative. This is not meant exclusively — we of course welcome also software written by international teams, as long as there is a substantial contribution coming from Germany.
+
+To participate, provide us with the details of your software using our [form](https://apps.fz-juelich.de/umfragen/index.php/463758?newtest=Y&lang=en), and we will create your promo slide that will be shown ahead of a HiRSE seminar and during HiRSE event breaks.
+
+
+
+
 
 ## Quick overview
 
-Following the start of this HiRSE initiative right at the beginning of summer
-2024, only 4 weeks later we have heard back from almost 50 developers or teams of
-developers, eager to present their work. The replies have come from a rather diverse 
-set of codes spanning multiple scientific disciplines and range from frontends to 
-existing codes to codes providing services to simulation codes running at the largest supercomputers.
+In 2024, within the first four weeks of launch, nearly 50 developers and teams submitted their code. The diversity of submissions is particularly notable. The contributions span multiple scientific disciplines and range from frontends to existing codes, to codes providing services, to simulation codes running on the largest supercomputers.
 
-A common theme for many of them: the wish for sustainable funding not only for
-lighthouse projects and new developments, but also for established codes. Of
-course, they also want to increase their community and look for widespread use
-of their codes, otherwise they would not be here.
+In July 2025, we hit an exciting milestone: 100 codes featured through the HiRSE Code Promotion initiative! This means over 100 researchers, postdocs, and students from German universities and research centres have showcased their software and research contributions to the broader Research Software Engineering community.
+
+A common theme for many of them: the wish for sustainable funding not only for lighthouse projects and new developments, but also for maintaining established codes. Of course, they also want to grow their community and seek widespread use of their codes — otherwise they would not be here.
+
 
 <div>
 <a
