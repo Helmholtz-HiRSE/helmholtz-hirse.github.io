@@ -1,5 +1,8 @@
 sass:
   sass_dir: assets/css
+  # Include the project root ('.') in load_paths so that Sass can resolve imports from the root directory.
+  load_paths:
+    - .
 
 title: HiRSE
 
@@ -10,6 +13,15 @@ collections:
     output: true
   series:
     output: true
+  seminar:
+    output: true
+    permalink: /series/seminar/:name/
+  summer_of_testing:
+    output: true
+    permalink: /series/summer_of_testing/:name/
+  summer_of_languages:
+    output: true
+    permalink: /series/summer_of_languages/:name/
   promo:
     output: true
 
