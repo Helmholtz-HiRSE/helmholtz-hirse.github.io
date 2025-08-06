@@ -2,11 +2,6 @@
 layout: post_series
 title:  "HiRSE Seminar Series"
 ---
-<div class="series-subnav" style="display: flex; gap: 1em; margin-bottom: 2em;">
-  <a href="/series/seminar/" class="btn btn-outline-primary">Seminar</a>
-  <a href="/series/summer_of_testing/" class="btn btn-outline-primary">Summer of Testing</a>
-  <a href="/series/summer_of_languages/" class="btn btn-outline-primary">Summer of Languages</a>
-</div>
 
 # The HiRSE Seminar Series
 

@@ -6,10 +6,23 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <ul class="navbar-nav">
       {% for item in site.data.navbar %}           
+        {% if item.link == "/series.html" %}
+        <li {% if page.url == item.link %}class="nav-item dropdown active"{% else
+          %}class="nav-item dropdown"{% endif %} >
+          <a class="nav-link dropdown-toggle" href="{{ item.link |  prepend: site.baseurl}}" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ item.name }}</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+            <li><a href="/series.html" class="dropdown-item{% if page.url == '/series.html' %} active{% endif %}">Seminar</a></li>
+            <li><a href="/series/seminar/" class="dropdown-item{% if page.url == '/series/seminar/' %} active{% endif %}">Seminar</a></li>
+            <li><a href="/series/summer_of_testing/" class="dropdown-item{% if page.url == '/series/summer_of_testing/' %} active{% endif %}">Summer of Testing</a></li>
+            <li><a href="/series/summer_of_languages/" class="dropdown-item{% if page.url == '/series/summer_of_languages/' %} active{% endif %}">Summer of Languages</a></li>
+          </ul>
+        </li>
+        {% else %}
         <li {% if page.url == item.link %}class="nav-item active"{% else
           %}class="nav-item"{% endif %}>
             <a href="{{ item.link |  prepend: site.baseurl}}" class="nav-link">{{ item.name }}</a>
         </li>          
+        {% endif %}
       {% endfor %}  
     </ul>
   </div>
