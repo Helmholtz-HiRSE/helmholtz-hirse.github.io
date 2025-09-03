@@ -15,17 +15,17 @@ We have launched this seminar series to provide some examples to help answer the
 **Featured Languages**
 Our expert presenters cover seven essential programming languages. All videos can be found on the [HiRSE YouTube Channel](https://www.youtube.com/@Helmholtz_Platform_for_RSE) or at the links below:
 
-* [Rust](https://www.youtube.com/watch?v=cQKt8ur5kwI&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=6&t=33s)
+* ["Rust" by Timo Betcke](https://www.youtube.com/watch?v=cQKt8ur5kwI&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=6&t=33s)
 
-* [R](https://www.youtube.com/watch?v=92Sixju0qYQ&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=5&t=726s)
+* ["R" by Heather Turner](https://www.youtube.com/watch?v=92Sixju0qYQ&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=5&t=726s)
 
-* [Julia](https://www.youtube.com/watch?v=tShA102zIwk&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=4&t=5s) 
+* ["Julia" by Valentin Churavy and Mosè Giordano](https://www.youtube.com/watch?v=tShA102zIwk&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=4&t=5s) 
 
-* [Python](https://www.youtube.com/watch?v=nGpRvzGyM20&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=2)
+* ["Python" by  Magnus Hagdorn](https://www.youtube.com/watch?v=nGpRvzGyM20&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=2)
 
-* [Fortran](https://www.youtube.com/watch?v=Gv5IjWMLvcQ&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=3)
+* ["Fortran" by Damian Rouson](https://www.youtube.com/watch?v=Gv5IjWMLvcQ&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=3)
   
-* [C++](https://www.youtube.com/watch?v=CwzLqCA7XoU&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=1)
+* ["C++" by Ivo Kabadshow ](https://www.youtube.com/watch?v=CwzLqCA7XoU&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=1)
   
-* Chapel - Coming soon 
+* ["Chapel" by Brad Chamberlain](https://www.youtube.com/watch?v=_YzeDzTblGE)
 
