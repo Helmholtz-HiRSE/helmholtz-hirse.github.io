@@ -27,5 +27,5 @@ Our expert presenters cover seven essential programming languages. All videos ca
   
 * ["C++" by Ivo Kabadshow ](https://www.youtube.com/watch?v=CwzLqCA7XoU&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=1)
   
-* ["Chapel" by Brad Chamberlain](https://www.youtube.com/watch?v=_YzeDzTblGE)
+* ["Chapel" by Brad Chamberlain](https://www.youtube.com/watch?v=Au6dZB-ud8o)
 
