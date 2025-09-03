@@ -21,5 +21,5 @@ We suggest that you start with the “Introduction to Continuous Testing’ epis
 * ["Testing with Python" by Jakob Fritz](https://www.youtube.com/watch?v=nxfJn94c1us&list=PLzCxBiTw83uil4uoIhi3wlR3qiiulmKJ0&index=4)
 * ["I have tests, now what?" by Jakob Fritz](https://www.youtube.com/watch?v=HTnY46KuoN4&list=PLzCxBiTw83uil4uoIhi3wlR3qiiulmKJ0&index=5)
 * ["Testing in Production" by Christian Feld](https://www.youtube.com/watch?v=DoTe1lcIAME&list=PLzCxBiTw83uil4uoIhi3wlR3qiiulmKJ0&index=6)
-* ['Building Robust Research Software MATLAB Testing Strategies' Mihaela Jarema](https://www.youtube.com/watch?v=Td3MILjl30Q&list=PLzCxBiTw83uil4uoIhi3wlR3qiiulmKJ0&index=7)
+* ['Building Robust Research Software MATLAB Testing Strategies' by Mihaela Jarema](https://www.youtube.com/watch?v=Td3MILjl30Q&list=PLzCxBiTw83uil4uoIhi3wlR3qiiulmKJ0&index=7)
   
