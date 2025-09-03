@@ -13,7 +13,7 @@ Ever wondered "Am I using a suitable programming language for this task?" or "â€
 We have launched this seminar series to provide some examples to help answer the question of which language can be used for what purpose, focusing on concrete examples and tips for the creation of Research Software. The series is designed to be a resource of concise online talks on the HiRSE YouTube channel that the RSE community can use at any time. Our presenters showcase a language, presenting what they feel are the important aspects of the language, the environment and tools around it, as well as the advantages and disadvantages for people who create research software. 
 
 **Featured Languages**
-Our expert presenters cover seven essential programming languages. All videos can be found on the [HiRSE YouTube Channel](https://www.youtube.com/@Helmholtz_Platform_for_RSE) or at the link below:
+Our expert presenters cover seven essential programming languages. All videos can be found on the [HiRSE YouTube Channel](https://www.youtube.com/@Helmholtz_Platform_for_RSE) or at the links below:
 
 * [Rust](https://www.youtube.com/watch?v=cQKt8ur5kwI&list=PLzCxBiTw83ujLTspm2lP6fMMHQkJaz7kc&index=6&t=33s)
 
