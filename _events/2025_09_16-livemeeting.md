@@ -1,6 +1,6 @@
 ---
 layout: events
-title:  "5th HiRSE_PS Live Meeting"
+title:  "5th HiRSE Live Meeting"
 start_date: 2025-09-16
 end_date: 2025-09-17
 link: https://events.hifis.net/event/2688/
