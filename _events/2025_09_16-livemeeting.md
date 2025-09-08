@@ -8,7 +8,7 @@ location: https://maps.app.goo.gl/VMUCevXWG7PvzXNK7
 excerpt_separator: <!--more-->
 ---
 
-On September 16-17, 2025, we will have our fifth HiRSE_PS live meeting, at the [Tagungszentrum Haus Overbach]([https://www.seminaris.de/hotels/tagungshotel-berlin-dahlem/](https://www.overbach.de/hotel-und-tagungscenter/)), live, in person! Registration is open now: <[https://events.hifis.net/event/1737](https://events.hifis.net/event/2688/)>
+On September 16-17, 2025, we will have our fifth HiRSE live meeting, at the [Tagungszentrum Haus Overbach]([https://www.seminaris.de/hotels/tagungshotel-berlin-dahlem/](https://www.overbach.de/hotel-und-tagungscenter/)), live, in person! Registration is open now: <[https://events.hifis.net/event/1737](https://events.hifis.net/event/2688/)>
 <!--more-->
 
 With the HiRSE project now a full-fledged Joint Lab, it is time to meet in person again and talk in detail about what happened, what will happen, what is good and what is bad.
