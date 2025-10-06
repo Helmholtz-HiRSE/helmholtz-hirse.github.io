@@ -25,7 +25,7 @@ The announcement and connection details are posted here:
 - Helmholtz Open Science Pro Mailinglist
 - RSE mailing lists of the HiRSE partners (if any).
 
-If you are unable to join via one of these channels please email hirse@fz-juelich.de.
+If you are unable to join via one of these channels please email [hirse@fz-juelich.de](hirse@fz-juelich.de).
 
 # Your host
 <img width="200" src="assets/claire.png">
