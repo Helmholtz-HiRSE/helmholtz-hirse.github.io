@@ -39,7 +39,6 @@ The following items are worth checking out to dive deeper into the realms of res
     * 7 advanced workflow automation features with GitHub Actions: <br> <https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/>
     * 10 GitHub Actions resources to bookmark from the basics to CI/CD: <br> <https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/>
 * Python
-    * RSE with Python: <br> <https://merely-useful.tech/py-rse/>
     * Python Design Patterns:<br>  <https://python-patterns.guide/>
     * Production-ready Docker packaging for Python developers: <br> <https://pythonspeed.com/docker/>
     * Docker Best Practices for Python Developers: <br> <https://testdriven.io/blog/docker-best-practices/>
@@ -72,7 +71,7 @@ The following items are worth checking out to dive deeper into the realms of res
 * FAIR Principles for Research Software (FAIR4RS Principles): <br> <https://doi.org/10.15497/RDA00065>
 * A Guide for Publishing, Using, and Licensing Research Software in Germany: <br> <https://doi.org/10.5281/zenodo.4327148>
 * A great list of programming books, from beginner to expert, from low- to high-level wisdom: <br> <https://www.programmingbooks.dev>
-* The Turing Way handbook to reproducible, ethical and collaborative data science: <br> <https://the-turing-way.netlify.app/welcome>
+* The Turing Way handbook to reproducible, ethical and collaborative data science: <br> <https://book.the-turing-way.org/>
 * "A" Reading List for Research Software Engineers: <https://bssw.io/blog_posts/my-reading-list-for-research-software-engineers>
 
 
