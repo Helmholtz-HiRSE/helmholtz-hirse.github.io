@@ -1,0 +1,33 @@
+
+on:
+  schedule:
+    - cron: '30 12 * * 3'   # every Wednesday at 12:30
+  workflow_dispatch: {}     # when manually started via "Actions" tab.
+
+jobs:
+  check_code_versions:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        tool: [4c, fleur, heat, nest, pffrg]
+    steps:
+
+      - name: "Checkout repository content"
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+        with:
+          fetch-depth: 0
+
+      - name: "Fetch latest repository versions"
+        run: |
+          DESCRIPTION="_codes/${{ matrix.tool }}.md"
+          echo "Scanning $DESCRIPTION..."
+          grep 'Repository: .*github.com/' $DESCRIPTION   # check if repository is on github (required for API calls)
+          REPO="$(grep 'Repository:' $DESCRIPTION | sed -e 's%Repository.*https://github.com/%%')"
+          echo "Checking repository $REPO on GitHub..."
+          RELEASE="$(curl -sL https://api.github.com/repos/$REPO/releases/latest | jq ".tag_name")"
+          echo "Found latest release: $RELEASE"
+          DOI="https://$(curl -sL https://api.github.com/repos/$REPO/releases/latest | jq ".body" | grep -o 'doi.org/[^)]*zenodo[^)]\+' | head -n1)"
+          echo "Found latest DOI: $DOI"
+          grep $RELEASE $DESCRIPTION    # check latest release is mentioned
+          grep $DOI $DESCRIPTION        # check latest DOI is mentioned
