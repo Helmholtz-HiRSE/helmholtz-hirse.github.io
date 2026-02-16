@@ -101,6 +101,7 @@ tba
 - Andy Turner (EPCC)
 - Daniel S. Katz (National Center for Supercomputing Applications, University of Illinois Urbana-Champaign)
 - Guido Juckeland (Helmholtz-Zentrum Dresden-Rossendorf)
+- Alfio Lazzaro (Hewlett Packard Enterprise)
 
 ### Code of conduct:
 As an ISC co-located workshop we follow ISC’s code of conduct, which can be found  [here](https://isc-hpc.com/contact-code-of-conduct/)
