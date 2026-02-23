@@ -10,6 +10,8 @@ It has long been understood that there is a strong overlap between the fields of
 To leverage these synergies, the 3rd RSEHPC workshop will be held at ISC 2026.
 This iteration of the workshop will focus on discussing and exchanging on the topic of applying AI techniques and tools for research software development in the HPC context.
 
+Submission for lightning talk contributions is open.
+
 <!--more-->
 
 <img width="500" src="../assets/ISC2026_Logo_Motto_Datum_RGB-scaled.png">
@@ -17,6 +19,7 @@ This iteration of the workshop will focus on discussing and exchanging on the to
 - [Motivation](#motivation)
 - [Keynote](#keynotes)
 - [Timetable](#timetable)
+- [Call for Contributions](#submission)
 - [Organising committee](#orga)
 
 ### Motivation
@@ -89,6 +92,14 @@ Speaker: [Giuditta Parolini](https://www.museumfuernaturkunde.berlin/de/museum/h
 
 Abstract:
 tba
+
+### Contribution submissions:
+{: #submission}
+To present a lightning talks at RSEHPC@ISC26 use this [submission form](https://forms.gle/kBs1GYvf4njf3CvRA). 
+
+RSEHPC@ISC26 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
+
+The deadline for submissions is March 13, 2026.
 
 ### Organising committee:
 {: #orga}
