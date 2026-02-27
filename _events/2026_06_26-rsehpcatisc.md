@@ -40,7 +40,7 @@ Topics include, but are not limited to:
 - Past, present and future: how are AI tools evolving? What might be (near-term) future opportunities and challenges?
 
 
-The RSEHPC@ISC26 will be held in-person on 26th June 2026, 2pm-6pm in Hamburg.
+The RSEHPC@ISC26 will be held in-person on 26th June 2026, 9am-1pm in Hamburg.
 
 ### Timetable
 {: #timetable}
@@ -48,23 +48,23 @@ The RSEHPC@ISC26 will be held in-person on 26th June 2026, 2pm-6pm in Hamburg.
 
 | <span style="display: inline-block; width:150px">Time</span> | Topic | Speaker |
 |---|---|---|
-| 2:00 pm | Welcome and introductions | René Caspart and Robert Speck |
+| 9:00 am | Welcome and introductions | René Caspart and Robert Speck |
 |---|---|---|
-| 2:05 pm | LLMs for HPC coding | Amirreza Rastegari, Microsoft Research | 
+| 9:05 am | LLMs for HPC coding | Amirreza Rastegari, Microsoft Research | 
 |---|---|---|
-| 2:25 pm | GenAI for (Research) Software Engineering: Opportunities and Pitfalls | Sunita Chandrasekaran, University of Delaware |
+| 9:25 am | GenAI for (Research) Software Engineering: Opportunities and Pitfalls | Sunita Chandrasekaran, University of Delaware |
 |---|---|---|
-| 2:45 pm | Legal aspects of AI in software development | Giuditta Parolini, Museum für Naturkunde – Leibniz Institute for Evolution and Biodiversity Science |
+| 9:45 am | Legal aspects of AI in software development | Giuditta Parolini, Museum für Naturkunde – Leibniz Institute for Evolution and Biodiversity Science |
 |---|---|---|
-| 3:05 pm - 4:00 pm | 5 Lightning Talks | |
+| 10:05 am - 11:00 am | 5 Lightning Talks | |
 |  |  
 |---|---|---|
-| 4:00 pm |  Coffee Break | |
+| 11:00 am |  Coffee Break | |
 |---|---|---|
-| 4:30 pm - 5:25 pm |  5 Lightning talks | | 
+| 11:30 am - 12:25 am |  5 Lightning talks | | 
 |  | 
 |---|---|---|
-| 5:25 pm - 6:00 pm | Open Floor and Discussion | |
+| 12:25 pm - 1:00 pm | Open Floor and Discussion | |
 |---|---|---|
 
 
