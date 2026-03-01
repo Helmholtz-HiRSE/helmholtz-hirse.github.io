@@ -1,0 +1,43 @@
+name: Site Preview
+
+on:
+  push:
+    branches: [ 'feature/**', 'copilot/**' ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r bin/requirements.txt
+
+      - name: Generate references YAML
+        run: python bin/generate_references.py
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --future
+
+      - name: Upload site preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
