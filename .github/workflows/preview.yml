@@ -29,7 +29,7 @@ jobs:
         run: pip install -r bin/requirements.txt
 
       - name: Tidy BibTeX file
-        run: npx --yes bibtex-tidy@1.14.0 --modify _bibliography/rse_publications.bib
+        run: npx --yes bibtex-tidy@1.14.0 _bibliography/rse_publications.bib
 
       - name: Generate references YAML
         run: python bin/generate_references.py
