@@ -28,6 +28,9 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r bin/requirements.txt
 
+      - name: Tidy BibTeX file
+        run: npx --yes bibtex-tidy@1.14.0 --write _bibliography/rse_publications.bib
+
       - name: Generate references YAML
         run: python bin/generate_references.py
 
