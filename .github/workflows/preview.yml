@@ -6,6 +6,10 @@ on:
   pull_request:
     branches: [ main ]
 
+concurrency:
+  group: site-preview-${{ github.event.pull_request.number || github.ref_name }}
+  cancel-in-progress: true
+
 jobs:
   preview:
     runs-on: ubuntu-latest
@@ -35,6 +39,25 @@ jobs:
 
       - name: Build Jekyll site
         run: bundle exec jekyll build --future
+
+      - name: Add preview instructions
+        run: |
+          cat > _site/PREVIEW_README.txt << 'EOF'
+          HOW TO VIEW THIS PREVIEW
+          ========================
+          This site uses root-relative URLs (/assets/css/...) and cannot be
+          opened directly by double-clicking index.html. You must serve it
+          with a local HTTP server.
+
+          Quick start (Python 3):
+            cd _site
+            python -m http.server 4000
+          Then open http://localhost:4000 in your browser.
+
+          Quick start (Node.js):
+            npx serve _site
+          Then open the URL shown in the terminal.
+          EOF
 
       - name: Upload site preview artifact
         uses: actions/upload-artifact@v4
