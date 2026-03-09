@@ -42,7 +42,7 @@ def clean_latex(text):
     # Step 2: Strip remaining braces used for case protection (e.g. {Germany} -> Germany).
     text = re.sub(r'\{([^}]*)\}', r'\1', text)
 
-    # Step 3: Handle malformed ordinal patterns that lost their braces.
+    # Step 3: Handle malformed ordinal patterns that lost their braces after encoding.
     # e.g. N{\textbackslash}textbackslashtextsuperscriptth -> N\textbackslashtextsuperscriptth
     text = re.sub(
         r'\\textbackslashtextsuperscript(st|nd|rd|th)\b',
@@ -54,20 +54,19 @@ def clean_latex(text):
         r'<sup>\1</sup>', text, flags=re.IGNORECASE,
     )
 
-    # Step 4: Handle display commands without a braced argument (malformed BibTeX).
-    # \emphWORD -> <em>WORD</em>  (e.g. \emphnpm, \emphThe)
+    # Step 4: Handle display commands without a braced argument.
+    # bibtexparser strips {arg} braces, making \emph{word} appear as \emphword.
+    # Italicise the immediately-adjacent word token.
     text = re.sub(r'\\(?:emph|textit|textsl)(\w+)', r'<em>\1</em>', text)
-    # \textbfWORD -> <strong>WORD</strong>
     text = re.sub(r'\\textbf(\w+)', r'<strong>\1</strong>', text)
 
     # Step 5: Remove remaining LaTeX commands.
     text = re.sub(r'\\textbackslash\b', '', text)
+    text = re.sub(r'\\@', '', text)  # \@ (inter-word spacing in LaTeX)
     # \command{text} -> text (any remaining braced command)
     text = re.sub(r'\\[a-zA-Z]+\{([^}]*)\}', r'\1', text)
     # \command -> remove (standalone commands without argument)
-    text = re.sub(r'\\[a-zA-Z@]+\b', '', text)
-    # Stray backslash sequences (e.g. \\ or \160)
-    text = re.sub(r'\\+\S*', '', text)
+    text = re.sub(r'\\[a-zA-Z@]+(?![0-9])\b', '', text)
 
     # Step 6: Normalize whitespace.
     text = re.sub(r'\s+', ' ', text).strip()

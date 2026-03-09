@@ -1502,7 +1502,7 @@
   - Adam M. Wilson
   title: Better incentives are needed to reward academic software development
   year: 2023
-  journal: Nature Ecology Evolution
+  journal: Nature Ecology & Evolution
   doi: 10.1038/s41559-023-02008-w
 - id: bouquin_advancing_2023
   type: article
@@ -3312,8 +3312,8 @@
 - id: del_pico_fairsoft-practical_2022
   type: article
   authors:
-  - Eva Martı del Pico
-  - ́ Josep Lluı ́and Capella-Gutiérrez, Salvador Gelpı
+  - Eva Martı\ŉ del Pico
+  - ́ Josep Lluı\ ́and Capella-Gutiérrez, Salvador Gelpı
   title: FAIRsoft-A practical implementation of FAIR principles for research software
   year: 2022
   journal: bioRxiv
@@ -5294,7 +5294,7 @@
     You can view and download all of the CSCCE Community Profiles, including those
     in the first collection that was published in 2020, here. If you would like CSCCE
     to create a profile for your scientific community or organization, please contact
-    us: info.org. CSCCE/strong The Center for Scientific Collaboration and Community
+    us: infocscce.org. CSCCE/strong The Center for Scientific Collaboration and Community
     Engagement (CSCCE) champions the importance of human infrastructure for effective
     collaboration in STEM. We provide training and support for the people who make
     scientific collaborations succeed at scale - and we also research the impact of
@@ -5584,7 +5584,7 @@
   title: Advancing the Workforce That Supports Computationally and Data Intensive
     Research
   year: 2021
-  journal: Computing in Science &amp̌hantom Engineering
+  journal: Computing in Science & Engineering
   volume: '23'
   number: '5'
   pages: 19--27
@@ -6829,7 +6829,7 @@
   pages: 7--17
   doi: 10.1515/itit-2019-0028
   url: https://www.degruyter.com/view/journals/itit/62/1/article-p7.xml
-  abstract: class="abstract" class="abstractTitle text-title my-1" id="d705e2"/h2
+  abstract: class="abstract"\textlessh2 class="abstractTitle text-title my-1" id="d705e2"/h2
     this article, we analyze the state of research data in mathematics. We find that
     while the mathematical community embraces the notion of open data, the FAIR principles
     are not yet sufficiently realized. Indeed, we claim that the case of mathematical
@@ -8533,6 +8533,20 @@
   year: 2019
   journal: IEEE Software
   doi: 10.1109/ms.2019.2899838
+- id: martinez-lopez_which_2019
+  type: article
+  authors:
+  - J. Israel Martı\ŉez-López
+  - Samantha Barrón-González
+  - Alejandro Martı\ŉez López
+  title: Which Are the Tools Available for Scholars? A Review of Assisting Software
+    for Authors during Peer Reviewing Process
+  year: 2019
+  journal: Publications
+  volume: '7'
+  number: '3'
+  pages: 59--59
+  doi: 10/ggcmcq
 - id: kullaslahti_professional_2019
   type: article
   authors:
@@ -8832,20 +8846,6 @@
   volume: '6'
   number: '1'
   doi: 10.1038/s41597-019-0009-6
-- id: martinez-lopez_which_2019
-  type: article
-  authors:
-  - Martı J. Israel
-  - Samantha Barrón-González
-  - Alejandro Martı López
-  title: Which Are the Tools Available for Scholars? A Review of Assisting Software
-    for Authors during Peer Reviewing Process
-  year: 2019
-  journal: Publications
-  volume: '7'
-  number: '3'
-  pages: 59--59
-  doi: 10/ggcmcq
 - id: lee_happy_2019
   type: article
   authors:
@@ -9947,9 +9947,9 @@
     and needs. This survey is different insofar as it addresses institutional and
     collective data practice. The respondents did not report on their own data behaviours
     and attitudes but were asked to provide information about their laboratory. The
-    response rate was high ( per cent), and the results provide good insight into
-    the real support and uptake of RDM by senior research managers who provide both
-    models (examples for good practice) and opinion leadership.
+    response rate was high (\textgreater30 per cent), and the results provide good
+    insight into the real support and uptake of RDM by senior research managers who
+    provide both models (examples for good practice) and opinion leadership.
 - id: facey-shaw_digital_2018
   type: inproceedings
   authors:
@@ -10085,10 +10085,16 @@
     Recommandations pour FAIRiser vos données" (https://doi.org/10.5281/zenodo.3463521)
     German: "PARTHENOS Leitfaden zur "FAIRifizierung" des Datenmanagements und der
     Ermöglichung der Nachnutzung von Daten" (https://doi.org/10.5281/zenodo.3363078)
-    Greek: "PARTHENOS Ο FAIR (https://doi.org/10.5281/zenodo.3363386) Hungarian: "PARTHENOS
-    A tudományos adatok újrafelhasználhatóságának és FAIR kezelésének irányelveii"
-    (https://doi.org/10.5281/zenodo.3363355) Italian: "PARTHENOS Linee guida per l''applicazione
-    dei principi FAIR alla gestione e al riuso dei dati" (https://doi.org/10.5281/zenodo.3363243)'
+    Greek: "PARTHENOS Ο\ensuremathδ\ensuremathη\ensuremathγ\acuteıota\ensuremathε\ensuremathǎrsigma
+    \ensuremathγ\ensuremathıota\ensuremathα \ensuremathτ\ensuremathη\ensuremathν \ensuremathε\řphi\ensuremathα̊o\ensuremathμο\ensuremathγή
+    \ensuremathτ\ensuremathømega\ensuremathν \ensuremathα̊\ensuremathχ\acuteømega\ensuremathν
+    FAIR \ensuremathσ\ensuremathτ\ensuremathη \ensuremathδ\ensuremathıota\ensuremathα\ensuremathχ\ensuremathε\acuteıotå\ensuremathıota\ensuremathσ\ensuremathη
+    \ensuremathąppa\ensuremathα\ensuremathıota \ensuremathε\ensuremathπ\ensuremathα\ensuremathνά\ensuremathχ\̊ensuremathη\ensuremathσ\ensuremathη
+    \ensuremathδ\ensuremathε\ensuremathδο\ensuremathμέ\ensuremathν\ensuremathømega\ensuremathν"
+    (https://doi.org/10.5281/zenodo.3363386) Hungarian: "PARTHENOS A tudományos adatok
+    újrafelhasználhatóságának és FAIR kezelésének irányelveii" (https://doi.org/10.5281/zenodo.3363355)
+    Italian: "PARTHENOS Linee guida per l''applicazione dei principi FAIR alla gestione
+    e al riuso dei dati" (https://doi.org/10.5281/zenodo.3363243)'
 - id: russell_large-scale_2018
   type: article
   authors:
@@ -10601,7 +10607,7 @@
   title: On the Unhappiness of Software Developers
   year: 2017
   booktitle: Proceedings of the 21<sup>st</sup> International Conference on Evaluation
-    and Assessment in Software Engineering - EASE
+    and Assessment in Software Engineering - EASE'17
   doi: 10/gfvpqv
   publisher: ACM Press
 - id: katz_software_2017
@@ -13301,7 +13307,7 @@
   - Juan I. Asensio-Pérez
   - Eduardo Gómez-Sánchez
   - Yannis A. Dimitriadis
-  - Jorrı Iván M.
+  - Iván M. Jorrı\ŉ-Abellán
   title: Semantic search of tools for collaborative learning with the Ontoolsearch
     system
   year: 2010
@@ -13794,7 +13800,7 @@
   - Eduardo Gómez-Sánchez
   - Juan I. Asensio-Pérez
   - Yannis A. Dimitriadis
-  - Jorrı Iván M.
+  - Iván M. Jorrı\ŉ-Abellán
   title: 'Ontoolcole: An Ontology for the Semantic Search of CSCL Services'
   year: 2006
   booktitle: 'Groupware: Design, Implementation, and Use'
