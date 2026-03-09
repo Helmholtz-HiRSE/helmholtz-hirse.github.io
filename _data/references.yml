@@ -48,8 +48,8 @@
   - Jr., Edson Oliveira
   title: Reviewing reproducibility in software engineering research
   year: 2025
-  booktitle: 'Proceedings of the 27\textsuperscriptth International Conference on
-    Enterprise Information Systems – Volume 2: ICEIS'
+  booktitle: 'Proceedings of the 27<sup>th</sup> International Conference on Enterprise
+    Information Systems – Volume 2: ICEIS'
   pages: 364--371
   doi: 10.5220/0013456000003929
   publisher: SciTePress
@@ -488,7 +488,7 @@
   - Zhendong Su
   title: What can computer science educators learn from the failures of top-down pedagogy?
   year: 2025
-  booktitle: Proceedings of the 56\textsuperscriptth ACM technical symposium on computer
+  booktitle: Proceedings of the 56<sup>th</sup> ACM technical symposium on computer
     science education (SIGCSETS 2025), volume 1
   pages: 1127--1133
   doi: 10.1145/3641554.3701873
@@ -730,7 +730,7 @@
   title: A Vision on Open Science for the Evolution of Software Engineering Research
     and Practice
   year: 2024
-  booktitle: Companion proceedings of the 32\textsuperscriptnd ACM international conference
+  booktitle: Companion proceedings of the 32<sup>nd</sup> ACM international conference
     on the Foundations of Software Engineering (FSE 2024)
   pages: 512--516
   doi: 10.1145/3663529.3663788
@@ -852,7 +852,7 @@
   title: 'A large-scale survey on the usability of AI programming assistants: Successes
     and challenges'
   year: 2024
-  booktitle: Proceedings of the IEEE/ACM 46\textsuperscriptth International Conference
+  booktitle: Proceedings of the IEEE/ACM 46<sup>th</sup> International Conference
     on Software Engineering
   pages: 1--13
   doi: 10.1145/3597503.3608128
@@ -865,8 +865,8 @@
   title: 'Sustaining Scientific Open-Source Software Ecosystems: Challenges, Practices,
     and Opportunities'
   year: 2024
-  booktitle: 'Proceedings of the 2024 IEEE/ACM 46\textbackslashtextsuperscriptth International
-    Conference on Software Engineering: Companion Proceedings'
+  booktitle: 'Proceedings of the 2024 IEEE/ACM 46<sup>th</sup> International Conference
+    on Software Engineering: Companion Proceedings'
   doi: 10.1145/3639478.3639805
   publisher: ACM
 - id: sun_how_2024
@@ -1042,8 +1042,8 @@
   - Carolyn Jane Anderson
   title: Non-expert programmers in the generative AI future
   year: 2024
-  booktitle: Proceedings of the 3\textsuperscriptrd Annual Meeting of the Symposium
-    on Human-Computer Interaction for Work (CHIWORK '24)
+  booktitle: Proceedings of the 3<sup>rd</sup> Annual Meeting of the Symposium on
+    Human-Computer Interaction for Work (CHIWORK '24)
   pages: 1--19
   doi: 10.1145/3663384.3663393
   publisher: Association for Computing Machinery
@@ -1272,7 +1272,7 @@
   - Thomas J. Marlowe
   title: Software engineering education must adapt and evolve for an LLM environment
   year: 2024
-  booktitle: Proceedings of the 55\textsuperscriptth ACM technical symposium on computer
+  booktitle: Proceedings of the 55<sup>th</sup> ACM technical symposium on computer
     science education (SIGCSE 2024), volume 1
   pages: 666--672
   doi: 10.1145/3626252.3630927
@@ -1502,8 +1502,7 @@
   - Adam M. Wilson
   title: Better incentives are needed to reward academic software development
   year: 2023
-  journal: Nature Ecology \\textbackslash&\amp\p̌hantom\\textbackslashmathsemicolon\
-    Evolution
+  journal: Nature Ecology Evolution
   doi: 10.1038/s41559-023-02008-w
 - id: bouquin_advancing_2023
   type: article
@@ -1551,8 +1550,7 @@
   - Simon Hettrick
   title: Research Software Engineering in 2030
   year: 2023
-  booktitle: 2023 IEEE 19\textbackslashtextsuperscriptth International Conference
-    on e-Science (e-Science)
+  booktitle: 2023 IEEE 19<sup>th</sup> International Conference on e-Science (e-Science)
   doi: 10.1109/e-science58273.2023.10254813
   abstract: This position paper for an invited talk on the "Future of eScience" discusses
     the Research Software Engineering Movement and where it might be in 2030. Because
@@ -1669,8 +1667,7 @@
   - Slinger Jansen
   title: 'FAIRSECO: An Extensible Framework for Impact Measurement of Research Software'
   year: 2023
-  booktitle: 2023 IEEE 19\textbackslashtextsuperscriptth International Conference
-    on e-Science (e-Science)
+  booktitle: 2023 IEEE 19<sup>th</sup> International Conference on e-Science (e-Science)
   doi: 10.1109/e-science58273.2023.10254664
   publisher: IEEE
 - id: von_suchdoletz_sicherstellung_2023
@@ -1986,7 +1983,7 @@
   - Jason Y. Cain
   - Jessica S. Yu
   - Neda Bagheri
-  title: 'The \emphin silico lab: Improving academic code using lessons from biology'
+  title: 'The <em>in</em> silico lab: Improving academic code using lessons from biology'
   year: 2023
   journal: Cell Systems
   volume: '14'
@@ -2874,7 +2871,7 @@
   - Sridhar Chimalakonda
   title: GitQ- towards using badges as visual cues for GitHub projects
   year: 2022
-  booktitle: Proceedings of the 30\textsuperscriptth IEEE/ACM International Conference
+  booktitle: Proceedings of the 30<sup>th</sup> IEEE/ACM International Conference
     on Program Comprehension (ICPC 2022)
   pages: 157--161
   doi: 10.1145/3524610.3527876
@@ -3284,8 +3281,8 @@
   - Vladimir Kovalenko
   title: Bus factor in practice
   year: 2022
-  booktitle: 'Proceedings of the 44\textsuperscriptth International Conference on
-    Software Engineering: Software Engineering in Practice (ICSE-SEIP ''22)'
+  booktitle: 'Proceedings of the 44<sup>th</sup> International Conference on Software
+    Engineering: Software Engineering in Practice (ICSE-SEIP ''22)'
   pages: 97--106
   doi: 10.1145/3510457.3513082
   publisher: Association for Computing Machinery
@@ -3315,8 +3312,8 @@
 - id: del_pico_fairsoft-practical_2022
   type: article
   authors:
-  - Eva Martı\ŉ del Pico
-  - ́ Josep Lluı\ ́and Capella-Gutiérrez, Salvador Gelpı
+  - Eva Martı del Pico
+  - ́ Josep Lluı ́and Capella-Gutiérrez, Salvador Gelpı
   title: FAIRsoft-A practical implementation of FAIR principles for research software
   year: 2022
   journal: bioRxiv
@@ -4180,7 +4177,7 @@
   title: 'Digital Badges in Higher Education: The Perspective of Employers in Upper
     Austria'
   year: 2022
-  booktitle: 2022 20\textsuperscriptth International Conference on Information Technology
+  booktitle: 2022 20<sup>th</sup> International Conference on Information Technology
     Based Higher Education and Training (ITHET)
   doi: 10.1109/ithet56107.2022.10031743
   publisher: IEEE
@@ -4195,7 +4192,7 @@
   - Thomas Cheatham
   - Ewa Deelman
   title: 'Building the Research Innovation Workforce: Challenges and Recommendations
-    from a Virtual Workshop to Advance the Research Computing Community\\textbackslashding\81\\'
+    from a Virtual Workshop to Advance the Research Computing Community'
   year: 2022
   doi: 10.1145/3491418.3530288
   publisher: ACM
@@ -5179,8 +5176,8 @@
   title: 'Bringing Green Software to Computer Science Curriculum: Perspectives from
     Researchers and Educators'
   year: 2021
-  booktitle: Proceedings of the 26\textsuperscriptth ACM Conference on Innovation
-    and Technology in Computer Science Education
+  booktitle: Proceedings of the 26<sup>th</sup> ACM Conference on Innovation and Technology
+    in Computer Science Education
   volume: '1'
   pages: 498--504
   doi: 10.1145/3430665.3456386
@@ -5289,20 +5286,19 @@
   year: 2021
   doi: 10.5281/ZENODO.5019939
   url: https://zenodo.org/record/5019939
-  abstract: '\textlessstrong\textgreaterContext for this profile\textless/strong\textgreater
-    CSCCE Community Profiles provide a snapshot of scientific communities. The data
-    for these profiles were collected by surveying scientific community managers as
-    part of a research project conducted by CSCCE staff. This profile showcases the
-    FAIR for Research Software (FAIR4RS) Working Group, and is part of a second collection
-    of profiles published in July 2021. You can view and download all of the CSCCE
-    Community Profiles, including those in the first collection that was published
-    in 2020, here. If you would like CSCCE to create a profile for your scientific
-    community or organization, please contact us: info\@cscce.org. \textlessstrong\textgreaterAbout
-    CSCCE\textless/strong\textgreater The Center for Scientific Collaboration and
-    Community Engagement (CSCCE) champions the importance of human infrastructure
-    for effective collaboration in STEM. We provide training and support for the people
-    who make scientific collaborations succeed at scale - and we also research the
-    impact of these emerging roles. Find out more about us on our website: CSCCE.org'
+  abstract: 'for this profile/strong CSCCE Community Profiles provide a snapshot of
+    scientific communities. The data for these profiles were collected by surveying
+    scientific community managers as part of a research project conducted by CSCCE
+    staff. This profile showcases the FAIR for Research Software (FAIR4RS) Working
+    Group, and is part of a second collection of profiles published in July 2021.
+    You can view and download all of the CSCCE Community Profiles, including those
+    in the first collection that was published in 2020, here. If you would like CSCCE
+    to create a profile for your scientific community or organization, please contact
+    us: info.org. CSCCE/strong The Center for Scientific Collaboration and Community
+    Engagement (CSCCE) champions the importance of human infrastructure for effective
+    collaboration in STEM. We provide training and support for the people who make
+    scientific collaborations succeed at scale - and we also research the impact of
+    these emerging roles. Find out more about us on our website: CSCCE.org'
 - id: lannelongue_green_2021
   type: article
   authors:
@@ -5347,8 +5343,8 @@
   - Matthias Hauswirth
   title: A Curated Inventory of Programming Language Misconceptions
   year: 2021
-  booktitle: Proceedings of the 26\textsuperscriptth ACM Conference on Innovation
-    and Technology in Computer Science Education
+  booktitle: Proceedings of the 26<sup>th</sup> ACM Conference on Innovation and Technology
+    in Computer Science Education
   volume: '1'
   pages: 380--386
   doi: 10.1145/3430665.3456343
@@ -5363,7 +5359,7 @@
   title: 'How Gamification Affects Software Developers: Cautionary Evidence from a
     Natural Experiment on GitHub'
   year: 2021
-  booktitle: Proceedings of the 2021 IEEE/ACM 43\textsuperscriptrd International Conference
+  booktitle: Proceedings of the 2021 IEEE/ACM 43<sup>rd</sup> International Conference
     on Software Engineering (ICSE)
   doi: 10.1109/icse43902.2021.00058
   publisher: IEEE
@@ -5440,8 +5436,8 @@
   - Mirela Gutica
   title: Fostering High School Girls' Interest and Attainment in Computer Science
   year: 2021
-  booktitle: Proceedings of the 26\textsuperscriptth ACM Conference on Innovation
-    and Technology in Computer Science Education
+  booktitle: Proceedings of the 26<sup>th</sup> ACM Conference on Innovation and Technology
+    in Computer Science Education
   volume: '1'
   pages: 471--477
   doi: 10.1145/3430665.3456353
@@ -5588,7 +5584,7 @@
   title: Advancing the Workforce That Supports Computationally and Data Intensive
     Research
   year: 2021
-  journal: Computing in Science &amp\p̌hantom\\textbackslashmathsemicolon\ Engineering
+  journal: Computing in Science &amp̌hantom Engineering
   volume: '23'
   number: '5'
   pages: 19--27
@@ -5709,7 +5705,7 @@
   - Tim Trautmann
   - Thorsten Wagener
   - Katja Schüler
-  title: A Community Perspective on Research Software in the Hydrological Sciences\\textbackslash&\\\textbackslash#\160\p̌hantom\\textbackslashmathsemicolon\
+  title: A Community Perspective on Research Software in the Hydrological Sciences
   year: 2021
   doi: 10.5194/egusphere-egu21-801
 - id: liu_humanities_2021
@@ -5750,7 +5746,7 @@
   title: 'Open Source Community Health: Analytical Metrics and Their Corresponding
     Narratives'
   year: 2021
-  booktitle: Proceedings of the 2021 IEEE/ACM 4\textsuperscriptth International Workshop
+  booktitle: Proceedings of the 2021 IEEE/ACM 4<sup>th</sup> International Workshop
     on Software Health in Projects, Ecosystems and Communities (SoHeal)
   pages: 25--33
   doi: 10.1109/soheal52568.2021.00010
@@ -6243,7 +6239,7 @@
   - Tom Mens
   title: On the Usage of Badges in Open Source Packages on GitHub
   year: 2020
-  booktitle: Proceedings of the 18\textsuperscriptth Edition of the Belgian-Netherlands
+  booktitle: Proceedings of the 18<sup>th</sup> Edition of the Belgian-Netherlands
     Software Evolution Symposium (BENEVOL 2019)
   url: https://ceur-ws.org/Vol-2605/9.pdf
   publisher: CEUR
@@ -6491,28 +6487,27 @@
   doi: 10.5281/ZENODO.3688762
   url: https://zenodo.org/record/3688762
   abstract: 'To realise the full potential of a FAIR ecosystem in which research can
-    be easily shared and optimally reused, as put forward in the \textlessem\textgreaterTurning
-    FAIR into reality\textless/em\textgreater report, we must look beyond `just''
-    research data: on the one hand we should include research software and other digital
-    objects, and on the other hand we should lay out a vision and a roadmap for services
-    and supporting infrastructure that fosters an optimal interplay between digital
-    objects and services. The latter calls for an assessment framework for service
-    owners which can be used to gauge where change is needed, together with actionable
-    recommendations to drive incremental improvements. However, while the development
-    of various FAIR assessment frameworks for data and other digital objects has enjoyed
-    substantial activity over the last few years, a FAIR assessment framework for
-    data services is still lacking -- a fact that was recently underlined again in
-    the interim recommendations from the EOSC FAIR Working Group. FAIRsFAIR task 2.4,
-    entitled `FAIR services'', aims to close this gap by developing a FAIR assessment
-    framework for data services (alongside a similar framework for research software).
-    This report marks the first milestone of the task. It presents a survey of existing
-    FAIR assessment frameworks, a proposed set of guiding principles and desiderata
-    for the FAIR assessment framework that will be constructed, and three `FAIR service
-    assessment'' case studies. We are seeking wide feedback on this report to inform
-    subsequent work and, ultimately, feed into a FAIR assessment framework for data
-    services that delivers clear direction and value to service owners and the community
-    at large. \textlessem\textgreaterFeedback and suggestions will be most welcome
-    as comments on the public Google Doc version of this report: https://docs.google.com/document/d/1VO8T8mpsp4qt-XSbcdUBTMVgOVwEf9na81Ccv56NPg4/edit\textless/em\textgreater'
+    be easily shared and optimally reused, as put forward in the FAIR into reality/em
+    report, we must look beyond `just'' research data: on the one hand we should include
+    research software and other digital objects, and on the other hand we should lay
+    out a vision and a roadmap for services and supporting infrastructure that fosters
+    an optimal interplay between digital objects and services. The latter calls for
+    an assessment framework for service owners which can be used to gauge where change
+    is needed, together with actionable recommendations to drive incremental improvements.
+    However, while the development of various FAIR assessment frameworks for data
+    and other digital objects has enjoyed substantial activity over the last few years,
+    a FAIR assessment framework for data services is still lacking -- a fact that
+    was recently underlined again in the interim recommendations from the EOSC FAIR
+    Working Group. FAIRsFAIR task 2.4, entitled `FAIR services'', aims to close this
+    gap by developing a FAIR assessment framework for data services (alongside a similar
+    framework for research software). This report marks the first milestone of the
+    task. It presents a survey of existing FAIR assessment frameworks, a proposed
+    set of guiding principles and desiderata for the FAIR assessment framework that
+    will be constructed, and three `FAIR service assessment'' case studies. We are
+    seeking wide feedback on this report to inform subsequent work and, ultimately,
+    feed into a FAIR assessment framework for data services that delivers clear direction
+    and value to service owners and the community at large. and suggestions will be
+    most welcome as comments on the public Google Doc version of this report: https://docs.google.com/document/d/1VO8T8mpsp4qt-XSbcdUBTMVgOVwEf9na81Ccv56NPg4/edit/em'
 - id: bird_software_2020
   type: inproceedings
   authors:
@@ -6834,8 +6829,7 @@
   pages: 7--17
   doi: 10.1515/itit-2019-0028
   url: https://www.degruyter.com/view/journals/itit/62/1/article-p7.xml
-  abstract: \textlesssection class="abstract"\textgreater\textlessh2 class="abstractTitle
-    text-title my-1" id="d705e2"\textgreaterAbstract\textless/h2\textgreater\textlessp\textgreaterIn
+  abstract: class="abstract" class="abstractTitle text-title my-1" id="d705e2"/h2
     this article, we analyze the state of research data in mathematics. We find that
     while the mathematical community embraces the notion of open data, the FAIR principles
     are not yet sufficiently realized. Indeed, we claim that the case of mathematical
@@ -6843,9 +6837,9 @@
     be known) and complex (they have a rich inner structure that must be represented).
     We present a novel classification of mathematical data and derive an extended
     set of FAIR requirements, which accomodate the special needs of math datasets.
-    We summarize these as \textlessstrong\textgreaterdeep FAIR\textless/strong\textgreater.
-    Finally, we show a prototypical system infrastructure, which can realize deep
-    FAIRness for one category (tabular data) of mathematical datasets.\textless/p\textgreater\textless/section\textgreater
+    We summarize these as FAIR/strong. Finally, we show a prototypical system infrastructure,
+    which can realize deep FAIRness for one category (tabular data) of mathematical
+    datasets./p/section
 - id: gurwitz_framework_2020
   type: article
   authors:
@@ -6994,8 +6988,8 @@
   abstract: 'This paper aims to bridge Digital Humanities (DH) and Research Software
     Engineering (RSE) communities. It argues that the production of models is the
     core contribution of RSE to the epistemology of DH. We adopt an inclusive definition
-    of models and modelling (Ciula et al. 2018) which spans the whole range from \textbackslashtextquoteleftdeformative\textbackslashtextquoteright
-    to empirical modelling (Smithies 2017: 168), including formal or predictive modelling
+    of models and modelling (Ciula et al. 2018) which spans the whole range from to
+    empirical modelling (Smithies 2017: 168), including formal or predictive modelling
     (Joslyn and Turchin 1993), and the technical solutions produced in the process
     as well as the know-how, languages and documentation which accompany this production.
     From this wide perspective, models are also artefacts which can be studied across
@@ -7006,15 +7000,15 @@
     and situatedness of modelling practices and artefacts while devising methods to
     expose the scalability of the underlying workflows and modelling processes. We
     reflect on the epistemology of DH from the practical perspective of our RSE lab
-    - King\textbackslashtextquoterights Digital Lab (KDL) - and the research processes
-    embedded in our Software Development Lifecycle. The human element is at the core
-    of the technical ecosystem we research and operate in. We acknowledge that KDL
-    models and modelling are co-constitutive of human expertise, technical systems
-    and operational methods, all aspiring to an environment conducive of open knowledge.
-    We use project-specific examples, including data modelling and knowledge representation
-    practices, to demonstrate how some of our research into model-making processes
-    challenge the perception of the technical work of RSE within DH as a stale, mechanistic
-    and uncritical procedural activity.'
+    - King Digital Lab (KDL) - and the research processes embedded in our Software
+    Development Lifecycle. The human element is at the core of the technical ecosystem
+    we research and operate in. We acknowledge that KDL models and modelling are co-constitutive
+    of human expertise, technical systems and operational methods, all aspiring to
+    an environment conducive of open knowledge. We use project-specific examples,
+    including data modelling and knowledge representation practices, to demonstrate
+    how some of our research into model-making processes challenge the perception
+    of the technical work of RSE within DH as a stale, mechanistic and uncritical
+    procedural activity.'
 - id: behroozi_does_2020
   type: inproceedings
   authors:
@@ -7024,8 +7018,8 @@
   - Chris Parnin
   title: Does stress impact technical interview performance?
   year: 2020
-  booktitle: Proceedings of the 28\textsuperscriptth ACM joint meeting on European
-    Software Engineering Conference and symposium on the Foundations of Software Engineering
+  booktitle: Proceedings of the 28<sup>th</sup> ACM joint meeting on European Software
+    Engineering Conference and symposium on the Foundations of Software Engineering
     (ESEC/FSE 2020)
   pages: 481--492
   doi: 10.1145/3368089.3409712
@@ -7055,7 +7049,7 @@
   - Rui Pereira
   title: 'On Energy Debt: Managing Consumption on Evolving Software'
   year: 2020
-  booktitle: Proceedings of the 3\textsuperscriptrd International Conference on Technical
+  booktitle: Proceedings of the 3<sup>rd</sup> International Conference on Technical
     Debt
   pages: 62--66
   doi: 10.1145/3387906.3388628
@@ -7762,7 +7756,7 @@
   title: 'The Use of Metadata in Open Educational Resources Repositories: An Exploratory
     Study'
   year: 2020
-  booktitle: Proceedings of the 2020 IEEE 44\textsuperscriptth Annual Computers, Software,
+  booktitle: Proceedings of the 2020 IEEE 44<sup>th</sup> Annual Computers, Software,
     and Applications Conference (COMPSAC)
   doi: 10.1109/compsac48688.2020.00025
   publisher: IEEE
@@ -7970,7 +7964,7 @@
   - Maria José Afanador-Llach
   - Brandon Walsh
   title: 'Diversity and inclusion in digital scholarship and pedagogy: the case of
-    \emphThe Programming Historian'
+    <em>The</em> Programming Historian'
   year: 2019
   journal: 'Insights: the UKSG journal'
   volume: '32'
@@ -8389,8 +8383,8 @@
   - Jesus M. Gonzalez-Barahona
   title: 'SortingHat: Wizardry on Software Project Members'
   year: 2019
-  booktitle: 'Proceedings of the 2019 IEEE/ACM 41\textsuperscriptst International
-    Conference on Software Engineering: Companion Proceedings (ICSE-Companion)'
+  booktitle: 'Proceedings of the 2019 IEEE/ACM 41<sup>st</sup> International Conference
+    on Software Engineering: Companion Proceedings (ICSE-Companion)'
   pages: 51--54
   doi: 10.1109/icse-companion.2019.00036
   publisher: IEEE
@@ -8539,20 +8533,6 @@
   year: 2019
   journal: IEEE Software
   doi: 10.1109/ms.2019.2899838
-- id: martinez-lopez_which_2019
-  type: article
-  authors:
-  - J. Israel Martı\ŉez-López
-  - Samantha Barrón-González
-  - Alejandro Martı\ŉez López
-  title: Which Are the Tools Available for Scholars? A Review of Assisting Software
-    for Authors during Peer Reviewing Process
-  year: 2019
-  journal: Publications
-  volume: '7'
-  number: '3'
-  pages: 59--59
-  doi: 10/ggcmcq
 - id: kullaslahti_professional_2019
   type: article
   authors:
@@ -8852,6 +8832,20 @@
   volume: '6'
   number: '1'
   doi: 10.1038/s41597-019-0009-6
+- id: martinez-lopez_which_2019
+  type: article
+  authors:
+  - Martı J. Israel
+  - Samantha Barrón-González
+  - Alejandro Martı López
+  title: Which Are the Tools Available for Scholars? A Review of Assisting Software
+    for Authors during Peer Reviewing Process
+  year: 2019
+  journal: Publications
+  volume: '7'
+  number: '3'
+  pages: 59--59
+  doi: 10/ggcmcq
 - id: lee_happy_2019
   type: article
   authors:
@@ -9003,7 +8997,7 @@
   title: 'Position Paper: Towards Usability as a First-Class Quality of HPC Scientific
     Software'
   year: 2019
-  booktitle: Proceedings of the 2019 IEEE/ACM 14\textsuperscriptth International Workshop
+  booktitle: Proceedings of the 2019 IEEE/ACM 14<sup>th</sup> International Workshop
     on Software Engineering for Science (SE4Science)
   doi: 10.1109/se4science.2019.00012
   publisher: IEEE
@@ -9085,7 +9079,7 @@
   - Alexander Struck
   - Robert Strøtgen
   - Christian Pietsch
-  title: 'Workshop \@ deRSE19: Libraries for Research Software & Engineers'
+  title: 'Workshop deRSE19: Libraries for Research Software & Engineers'
   year: 2019
   journal: LIBREAS. Library Ideas
   volume: '36'
@@ -9190,7 +9184,7 @@
   doi: 10.6084/M9.FIGSHARE.10565717
   url: https://figshare.com/articles/Dare%5Fto%5Fbe%5Fmair%5Fthan%5Fjust%5FFAIR%5F-%5FFAIR%5FPLAY%5Fto%5Fresearch%5Fsoftware%5Fcourtesy%5Fof%5FRSEs/10565717
   abstract: Slides for a keynote given at the FAIR Software session, National eScience
-    Symposium 2019 on 2019-11-21 at the Johan Cruijff ArenA, Amsterdam, The Netherlands.\textlessbr\textgreater
+    Symposium 2019 on 2019-11-21 at the Johan Cruijff ArenA, Amsterdam, The Netherlands.
 - id: van_de_sandt_practice_2019
   type: article
   authors:
@@ -9526,9 +9520,9 @@
   - Christian Kästner
   - Bogdan Vasilescu
   title: 'Adding sparkle to social coding: an empirical study of repository badges
-    in the \emphnpm ecosystem'
+    in the <em>npm</em> ecosystem'
   year: 2018
-  booktitle: Proceedings of the 40\textsuperscriptth International Conference on Software
+  booktitle: Proceedings of the 40<sup>th</sup> International Conference on Software
     Engineering (ICSE 2018)
   pages: 511--522
   doi: 10.1145/3180155.3180209
@@ -9635,8 +9629,8 @@
   - Michael Meinel
   title: The software engineering initiative of DLR
   year: 2018
-  booktitle: 'Proceedings of the SE4Science ''18: 2018 IEEE/ACM 13\textsuperscriptth
-    International Workshop on Software Engineering for Science'
+  booktitle: 'Proceedings of the SE4Science ''18: 2018 IEEE/ACM 13<sup>th</sup> International
+    Workshop on Software Engineering for Science'
   pages: 16--19
   doi: 10.1145/3194747.3194749
   publisher: ACM
@@ -9900,8 +9894,7 @@
   - Neil Chue Hong
   title: Building a Sustainable Structure for Research Software Engineering Activities
   year: 2018
-  booktitle: 2018 IEEE 14\textbackslashtextsuperscriptth International Conference
-    on e-Science (e-Science)
+  booktitle: 2018 IEEE 14<sup>th</sup> International Conference on e-Science (e-Science)
   doi: 10/gfvpq4
   publisher: IEEE
 - id: cope_library_2018
@@ -9954,9 +9947,9 @@
     and needs. This survey is different insofar as it addresses institutional and
     collective data practice. The respondents did not report on their own data behaviours
     and attitudes but were asked to provide information about their laboratory. The
-    response rate was high (\textgreater30 per cent), and the results provide good
-    insight into the real support and uptake of RDM by senior research managers who
-    provide both models (examples for good practice) and opinion leadership.
+    response rate was high ( per cent), and the results provide good insight into
+    the real support and uptake of RDM by senior research managers who provide both
+    models (examples for good practice) and opinion leadership.
 - id: facey-shaw_digital_2018
   type: inproceedings
   authors:
@@ -10092,16 +10085,10 @@
     Recommandations pour FAIRiser vos données" (https://doi.org/10.5281/zenodo.3463521)
     German: "PARTHENOS Leitfaden zur "FAIRifizierung" des Datenmanagements und der
     Ermöglichung der Nachnutzung von Daten" (https://doi.org/10.5281/zenodo.3363078)
-    Greek: "PARTHENOS Ο\ensuremathδ\ensuremathη\ensuremathγ\acuteıota\ensuremathε\ensuremathǎrsigma
-    \ensuremathγ\ensuremathıota\ensuremathα \ensuremathτ\ensuremathη\ensuremathν \ensuremathε\ensuremath\řphi\ensuremathα\ensuremathh̊o\ensuremathμο\ensuremathγή
-    \ensuremathτ\ensuremathømega\ensuremathν \ensuremathα\ensuremath\o̊\ensuremathχ\acuteømega\ensuremathν
-    FAIR \ensuremathσ\ensuremathτ\ensuremathη \ensuremathδ\ensuremathıota\ensuremathα\ensuremathχ\ensuremathε\acuteıota\ensuremath\r̊\ensuremathıota\ensuremathσ\ensuremathη
-    \ensuremathąppa\ensuremathα\ensuremathıota \ensuremathε\ensuremathπ\ensuremathα\ensuremathνά\ensuremathχ\ensuremath\rh\̊ensuremathη\ensuremathσ\ensuremathη
-    \ensuremathδ\ensuremathε\ensuremathδο\ensuremathμέ\ensuremathν\ensuremathømega\ensuremathν"
-    (https://doi.org/10.5281/zenodo.3363386) Hungarian: "PARTHENOS A tudományos adatok
-    újrafelhasználhatóságának és FAIR kezelésének irányelveii" (https://doi.org/10.5281/zenodo.3363355)
-    Italian: "PARTHENOS Linee guida per l''applicazione dei principi FAIR alla gestione
-    e al riuso dei dati" (https://doi.org/10.5281/zenodo.3363243)'
+    Greek: "PARTHENOS Ο FAIR (https://doi.org/10.5281/zenodo.3363386) Hungarian: "PARTHENOS
+    A tudományos adatok újrafelhasználhatóságának és FAIR kezelésének irányelveii"
+    (https://doi.org/10.5281/zenodo.3363355) Italian: "PARTHENOS Linee guida per l''applicazione
+    dei principi FAIR alla gestione e al riuso dei dati" (https://doi.org/10.5281/zenodo.3363243)'
 - id: russell_large-scale_2018
   type: article
   authors:
@@ -10188,8 +10175,7 @@
   - Stefano Zacchiroli
   title: 'Identifiers for Digital Objects: the Case of Software Source Code Preservation'
   year: 2018
-  booktitle: iPRES 2018 - 15\textbackslashtextsuperscriptth International Conference
-    on Digital Preservation
+  booktitle: iPRES 2018 - 15<sup>th</sup> International Conference on Digital Preservation
   url: https://hal.archives-ouvertes.fr/hal-01865790 https://hal.archives-ouvertes.fr/hal-01865790/file/main.pdf
 - id: donnelly_irelands_2018
   type: incollection
@@ -10614,8 +10600,8 @@
   - Pekka Abrahamsson
   title: On the Unhappiness of Software Developers
   year: 2017
-  booktitle: Proceedings of the 21\textbackslashtextsuperscriptst International Conference
-    on Evaluation and Assessment in Software Engineering - EASE\textbackslashtextquotesingle17
+  booktitle: Proceedings of the 21<sup>st</sup> International Conference on Evaluation
+    and Assessment in Software Engineering - EASE
   doi: 10/gfvpqv
   publisher: ACM Press
 - id: katz_software_2017
@@ -10972,7 +10958,7 @@
   - Daniel Gunter
   title: Ten Principles for Creating Usable Software for Science
   year: 2017
-  booktitle: Proceedings of the 13\textsuperscriptth International Conference on e-Science
+  booktitle: Proceedings of the 13<sup>th</sup> International Conference on e-Science
     (e-Science)
   doi: 10.1109/escience.2017.34
   publisher: IEEE
@@ -11167,8 +11153,7 @@
   - Stefano Zacchiroli
   title: 'Software Heritage: Why and How to Preserve Software Source Code'
   year: 2017
-  booktitle: 'iPRES 2017: 14\textbackslashtextsuperscriptth International Conference
-    on Digital Preservation'
+  booktitle: 'iPRES 2017: 14<sup>th</sup> International Conference on Digital Preservation'
   url: https://hal.archives-ouvertes.fr/hal-01590958 https://hal.archives-ouvertes.fr/hal-01590958/file/ipres-2017-software-heritage.pdf
   address: Kyoto, Japan
 - id: morgan_elixir-excelerate_2017
@@ -11326,7 +11311,7 @@
 - id: the_emphplos_computational_biology_staff_correction_2017
   type: article
   authors:
-  - The \emphPLOS Computational Biology Staff
+  - The <em>PLOS</em> Computational Biology Staff
   title: 'Correction: Unmet needs for analyzing biological big data: A survey of 704
     NSF principal investigators'
   year: 2017
@@ -11405,7 +11390,7 @@
   type: article
   authors:
   - Adam Crymble
-  title: 'Identifying and Removing Gender Barriers in Open Learning Communities: \emphThe
+  title: 'Identifying and Removing Gender Barriers in Open Learning Communities: <em>The</em>
     Programming Historian'
   year: 2016
   journal: Blended Learning in Practice
@@ -11787,7 +11772,7 @@
   - James Clause
   title: An empirical study of practitioners' perspectives on green software engineering
   year: 2016
-  booktitle: Proceedings of the 2016 IEEE/ACM 38\textsuperscriptth International Conference
+  booktitle: Proceedings of the 2016 IEEE/ACM 38<sup>th</sup> International Conference
     on Software Engineering (ICSE 2016)
   doi: 10.1145/2884781.2884810
   publisher: ACM
@@ -12734,7 +12719,7 @@
   - Neil Chue Hong
   title: Minimal information for reusable scientific software
   year: 2014
-  booktitle: '2\textsuperscriptnd Workshop on Sustainable Software for Science: Practice
+  booktitle: '2<sup>nd</sup> Workshop on Sustainable Software for Science: Practice
     and Experiences (WSSSPE2)'
   doi: 10.6084/m9.figshare.1112528
   publisher: figshare
@@ -12867,7 +12852,7 @@
   - Marco Aurelio Gerosa
   title: Why do newcomers abandon open source software projects?
   year: 2013
-  booktitle: Proceedings of the 6\textsuperscriptth International Workshop on Cooperative
+  booktitle: Proceedings of the 6<sup>th</sup> International Workshop on Cooperative
     and Human Aspects of Software Engineering (CHASE)
   doi: 10.1109/chase.2013.6614728
   publisher: IEEE
@@ -13032,7 +13017,7 @@
   title: 'Software Papers: improving the reusability and sustainability of scientific
     software'
   year: 2013
-  booktitle: '1\textsuperscriptst Workshop on Sustainable Software for Science: Practice
+  booktitle: '1<sup>st</sup> Workshop on Sustainable Software for Science: Practice
     and Experiences (WSSSPE1)'
   doi: 10.6084/m9.figshare.795303
   publisher: figshare
@@ -13316,7 +13301,7 @@
   - Juan I. Asensio-Pérez
   - Eduardo Gómez-Sánchez
   - Yannis A. Dimitriadis
-  - Iván M. Jorrı\ŉ-Abellán
+  - Jorrı Iván M.
   title: Semantic search of tools for collaborative learning with the Ontoolsearch
     system
   year: 2010
@@ -13809,7 +13794,7 @@
   - Eduardo Gómez-Sánchez
   - Juan I. Asensio-Pérez
   - Yannis A. Dimitriadis
-  - Iván M. Jorrı\ŉ-Abellán
+  - Jorrı Iván M.
   title: 'Ontoolcole: An Ontology for the Semantic Search of CSCL Services'
   year: 2006
   booktitle: 'Groupware: Design, Implementation, and Use'
@@ -14065,7 +14050,7 @@
   - B. Randell
   title: Software engineering in 1968
   year: 1979
-  booktitle: Proceedings of the 4\textsuperscriptth International Conference on Software
+  booktitle: Proceedings of the 4<sup>th</sup> International Conference on Software
     Engineering (ICSE '79)
   pages: 1--10
   publisher: IEEE Press
@@ -14075,7 +14060,7 @@
   - Barry W. Boehm
   title: Software engineering – as it is
   year: 1979
-  booktitle: Proceedings of the 4\textsuperscriptth International Conference on Software
+  booktitle: Proceedings of the 4<sup>th</sup> International Conference on Software
     Engineering (ICSE '79)
   pages: 11--21
   publisher: IEEE Press

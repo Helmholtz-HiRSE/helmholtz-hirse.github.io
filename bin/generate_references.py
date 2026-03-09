@@ -27,12 +27,49 @@ ASSETS_BIB_COPY = os.path.join(os.path.dirname(__file__), '..', 'assets', 'data'
 
 
 def clean_latex(text):
-    """Remove common LaTeX markup from a string."""
+    """Convert LaTeX markup to HTML for web rendering."""
     if not text:
         return text
-    # Remove braces used for case protection (e.g., {Germany} -> Germany)
+
+    # Step 1: Handle LaTeX commands WITH braced arguments (before brace stripping).
+    # \textsuperscript{x} -> <sup>x</sup>
+    text = re.sub(r'\\textsuperscript\{([^}]*)\}', r'<sup>\1</sup>', text)
+    # \emph{x}, \textit{x}, \textsl{x} -> <em>x</em>
+    text = re.sub(r'\\(?:emph|textit|textsl)\{([^}]*)\}', r'<em>\1</em>', text)
+    # \textbf{x} -> <strong>x</strong>
+    text = re.sub(r'\\textbf\{([^}]*)\}', r'<strong>\1</strong>', text)
+
+    # Step 2: Strip remaining braces used for case protection (e.g. {Germany} -> Germany).
     text = re.sub(r'\{([^}]*)\}', r'\1', text)
-    # Normalize whitespace
+
+    # Step 3: Handle malformed ordinal patterns that lost their braces.
+    # e.g. N{\textbackslash}textbackslashtextsuperscriptth -> N\textbackslashtextsuperscriptth
+    text = re.sub(
+        r'\\textbackslashtextsuperscript(st|nd|rd|th)\b',
+        r'<sup>\1</sup>', text, flags=re.IGNORECASE,
+    )
+    # e.g. N{\textbackslash}textsuperscriptth -> N\textsuperscriptth
+    text = re.sub(
+        r'\\textsuperscript(st|nd|rd|th)\b',
+        r'<sup>\1</sup>', text, flags=re.IGNORECASE,
+    )
+
+    # Step 4: Handle display commands without a braced argument (malformed BibTeX).
+    # \emphWORD -> <em>WORD</em>  (e.g. \emphnpm, \emphThe)
+    text = re.sub(r'\\(?:emph|textit|textsl)(\w+)', r'<em>\1</em>', text)
+    # \textbfWORD -> <strong>WORD</strong>
+    text = re.sub(r'\\textbf(\w+)', r'<strong>\1</strong>', text)
+
+    # Step 5: Remove remaining LaTeX commands.
+    text = re.sub(r'\\textbackslash\b', '', text)
+    # \command{text} -> text (any remaining braced command)
+    text = re.sub(r'\\[a-zA-Z]+\{([^}]*)\}', r'\1', text)
+    # \command -> remove (standalone commands without argument)
+    text = re.sub(r'\\[a-zA-Z@]+\b', '', text)
+    # Stray backslash sequences (e.g. \\ or \160)
+    text = re.sub(r'\\+\S*', '', text)
+
+    # Step 6: Normalize whitespace.
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
