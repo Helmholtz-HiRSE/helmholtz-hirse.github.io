@@ -99,7 +99,7 @@ To present a lightning talks at RSEHPC@ISC26 use this [submission form](https://
 
 RSEHPC@ISC26 will emphasise an open and inclusive atmosphere and we encourage proposals from a diverse range of areas and backgrounds.
 
-The deadline for submissions is March 13, 2026.
+The deadline for submissions is March 23, 2026 (Deadline extended).
 
 ### Organising committee:
 {: #orga}
