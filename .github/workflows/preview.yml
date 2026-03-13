@@ -1,0 +1,69 @@
+name: Site Preview
+
+on:
+  push:
+    branches: [ 'feature/**', 'copilot/**' ]
+  pull_request:
+    branches: [ main ]
+
+concurrency:
+  group: site-preview-${{ github.event.pull_request.number || github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r bin/requirements.txt
+
+      - name: Tidy BibTeX file
+        run: npx --yes bibtex-tidy@1.14.0 _bibliography/rse_publications.bib
+
+      - name: Generate references YAML
+        run: python bin/generate_references.py
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --future
+
+      - name: Add preview instructions
+        run: |
+          cat > _site/PREVIEW_README.txt << 'EOF'
+          HOW TO VIEW THIS PREVIEW
+          ========================
+          This site uses root-relative URLs (/assets/css/...) and cannot be
+          opened directly by double-clicking index.html. You must serve it
+          with a local HTTP server.
+
+          Quick start (Python 3):
+            cd _site
+            python -m http.server 4000
+          Then open http://localhost:4000 in your browser.
+
+          Quick start (Node.js):
+            npx serve _site
+          Then open the URL shown in the terminal.
+          EOF
+
+      - name: Upload site preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
