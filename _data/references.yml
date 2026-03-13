@@ -165,16 +165,6 @@
   journal: Electronic Communications of the EASST
   volume: '83'
   doi: 10.14279/eceasst.v83.2615
-- id: washizaki_guide_2025
-  type: book
-  authors:
-  - Hironori Washizaki
-  - IEEE Computer Society
-  title: 'Guide to the Software Engineering Body of Knowledge (SWEBOK(R)): Version
-    4.0a'
-  year: 2025
-  url: https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf
-  publisher: IEEE Computer Society Press
 - id: streicher_open_2025
   type: article
   authors:
@@ -2262,14 +2252,6 @@
   volume: '10'
   number: '1'
   doi: 10.1038/s41597-023-02501-8
-- id: microbol_project_micro-credentials_2023
-  type: book
-  authors:
-  - MICROBOL Project
-  title: 'Micro-credentials linked to the Bologna Key Commitments: Common Framework
-    for Micro-credentials in the EHEA'
-  year: 2023
-  url: https://microcredentials.eu/wp-content/uploads/sites/20/2022/03/Micro-credentials%5FFramework%5Ffinal-1.pdf
 - id: pownall_teaching_2023
   type: article
   authors:
@@ -4084,13 +4066,6 @@
   pages: 545--559
   publisher: Springer International Publishing
   address: Cham
-- id: stack_overflow_stack_2022
-  type: misc
-  authors:
-  - Stack Overflow
-  title: Stack Overflow Developer Survey 2022
-  year: 2022
-  url: https://survey.stackoverflow.co/2022#developer-profile-demographics
 - id: druskat_software_2022
   type: article
   authors:
@@ -4357,13 +4332,6 @@
     what to expect when you get started)
   year: 2022
   doi: 10.5281/ZENODO.6545452
-- id: schneegans_unesco_2021
-  type: book
-  authors: []
-  title: 'UNESCO Science Report: the race against time for smarter development'
-  year: 2021
-  url: https://unesdoc.unesco.org/ark:/48223/pf0000377433
-  address: Paris
 - id: alsudais_-code_2021
   type: article
   authors:
@@ -6201,36 +6169,6 @@
   volume: '13'
   number: 1&2
   pages: 34--49--34--49
-- id: eitzen_research_2020
-  type: phdthesis
-  authors:
-  - Claudia Eitzen
-  title: Research Software - Publication and Sustainability
-  year: 2020
-  url: http://oceanrep.geomar.de/51354/
-  abstract: Good scientific practice is essential to any research process, and the
-    creation of research software (RS) has to meet this requirement. Its core standard
-    includes intrinsic quality, transparency, reproducibility, re-usability, comparability,
-    and transferability. Central element to promote the implementation of this standard
-    in the research routine, is the publication of RS according to the Open Science
-    and to FAIR Guiding Principles. RS is accessibly maintained in server operated
-    repositories that contribute to data sustainability. The present thesis is supported
-    by the conviction that computer related science has become a research discipline
-    for its own. Therefore, a large-scale study of 200 thousand GitHub repositories,
-    and of 30 thousand ACM (Association for Computing Machinery) publications and
-    arXiv publications is realized. The intention was to find the current sustainability
-    state of research software in both computational science and computer science.
-    For that purpose, the frequency of links is determined in publications to RS and
-    of links within RS regarding computational science as well as computer science.
-    The analyses reveal that publications referencing GitHub repositories are mainly
-    (68%) assigned to computer science. In contrast, GitHub repositories mostly (78%)
-    refer to publications of computational science. GitHub repositories referenced
-    by ACM publications are the most durable ones. The remaining repositories have
-    noticeably shorter lifespans, if they do not even consist of the single first
-    commit. The present investigation complies with the strict demand for reproducibility
-    as a key element of good scientific practice. This study reproduces successfully
-    the general tendencies obtained from a pilot project in the Department of Computer
-    Science at Kiel University in cooperation with the University of Southampton.
 - id: legay_usage_2020
   type: inproceedings
   authors:
@@ -7218,13 +7156,6 @@
   pages: 457--463--457--463
   doi: 10.1007/978-3-030-50436-6_33
   publisher: Springer International Publishing
-- id: eisty_quality_2020
-  type: phdthesis
-  authors:
-  - Nasir Uddin Eisty
-  title: Quality assurance in research software
-  year: 2020
-  url: http://ir.ua.edu/handle/123456789/7041
 - id: manola_implementing_2020
   type: article
   authors:
@@ -7518,13 +7449,6 @@
     the CESSDA Data Catalogue is explained, showing the building blocks that need
     to be in place before one can produce a catalogue. The article ends with a forward
     look on CESSDA's deployment on the FAIR principles.
-- id: gey_seeking_2020
-  type: phdthesis
-  authors:
-  - Ronny Gey
-  title: Seeking Research Software. A Qualitative Study of Humanities Scholars' Information
-    Practices
-  year: 2020
 - id: higashi_perceived_2020
   type: article
   authors:
@@ -7552,13 +7476,6 @@
   - Mridul Seth
   title: 'Software Engineering as Research Method: Aligning Roles in Econ-ARK'
   year: 2020
-- id: somos_digital_digital_2020
-  type: techreport
-  authors:
-  - Somos Digital
-  title: The Digital Competence Centres of the Future
-  year: 2020
-  url: https://somos-digital.org/the-digital-competence-centres-of-the-future/
 - id: bain_design_2020
   type: article
   authors:
@@ -7685,13 +7602,6 @@
   number: W1
   pages: W395--W402
   doi: 10.1093/nar/gkaa434
-- id: sochat_phenotypes_2020
-  type: misc
-  authors:
-  - Vanessa Sochat
-  title: 'Phenotypes: A collection of shared phenotypes!'
-  year: 2020
-  url: https://us-rse.org/rse-stories/phenotypes/
 - id: hasselbring_kieker_2020
   type: article
   authors:
@@ -9152,12 +9062,6 @@
   number: '6'
   pages: e3000333
   doi: 10.1371/journal.pbio.3000333
-- id: oyedeji_software_2019
-  type: phdthesis
-  authors:
-  - Shola Oyedeji
-  title: Software Sustainability by Design
-  year: 2019
 - id: druskat_software_2019
   type: article
   authors:
@@ -9334,22 +9238,6 @@
     capabilities can be extended to make workflows more findable, in particular by
     leveraging the Digital Object Architecture, common object operations and machine
     learning techniques.
-- id: unescos_general_conference_recommendation_2019
-  type: techreport
-  authors:
-  - UNESCO's General Conference
-  title: Recommendation on Open Educational Resources (OER)
-  year: 2019
-  number: CL/4319
-  url: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
-  address: Paris, France
-- id: sochat_research_2019
-  type: misc
-  authors:
-  - Vanessa Sochat
-  title: Research Software Engineer Phenotype Generator
-  year: 2019
-  url: https://github.com/rseng/rse-phenotype
 - id: tsiamis_thousand_2019
   type: article
   authors:
@@ -9528,13 +9416,6 @@
   doi: 10.1145/3180155.3180209
   publisher: ACM
   address: New York, New York, USA
-- id: of_research_libraries_code_2018
-  type: book
-  authors:
-  - Association of Research Libraries
-  title: CODE OF BEST PRACTICES IN FAIR USE FOR SOFTWARE PRESERVATION
-  year: 2018
-  publisher: Association of Research Libraries
 - id: marwick_packaging_2018
   type: article
   authors:
@@ -10455,14 +10336,6 @@
   title: 'Research Software Engineers: State Of The Nation Report 2017'
   year: 2017
   doi: 10/gfvpqz
-- id: arbeitskreis_open_science_zugang_2017
-  type: book
-  authors:
-  - Arbeitskreis Open Science
-  title: Zugang zu und Nachnutzung von wissenschaftlicher Software.
-  year: 2017
-  url: https://os.helmholtz.de/index.php?id=2766
-  publisher: Arbeitskreis Open Science der Helmholtz-Gemeinschaft
 - id: science_zugang_2017
   type: article
   authors:
@@ -10858,13 +10731,6 @@
   number: '3'
   pages: 2572--2574
   doi: 10.1002/2016WR020190
-- id: m_stack_2017
-  type: misc
-  authors:
-  - Juan M
-  title: Stack Overflow en Español has Graduated!
-  year: 2017
-  url: https://stackoverflow.blog/2017/05/20/stack-overflow-en-espanol-graduated/
 - id: hamari_badges_2017
   type: article
   authors:
@@ -11378,11 +11244,6 @@
   number: '3'
   pages: 427--438
   doi: 10.1111/bjet.12557
-- id: hettrick_research_2016
-  type: book
-  authors: []
-  title: Research Software Sustainability. Report on a Knowledge Exchange Workshop
-  year: 2016
 - id: ifenthaler_foundation_2016
   type: book
   authors: []
@@ -12043,20 +11904,6 @@
   year: 2016
   doi: 10.5281/zenodo.168385
   publisher: Zenodo
-- id: druskat_proposal_2016
-  type: book
-  authors:
-  - Stephan Druskat
-  title: A Proposal for the Measurement and Documentation of Research Software Sustainability
-    in Interactive Metadata Repositories
-  year: 2016
-  abstract: This paper proposes an interactive repository type for research software
-    metadata which measures and documents software sustainability by accumulating
-    metadata, and computing sustainability metrics over them. Such a repository would
-    help to overcome technical barriers to software sustainability by furthering the
-    discovery and identification of sustainable software, thereby also facilitating
-    documentation of research software within the framework of software management
-    plans.
 - id: druskat_entwurf_2016
   type: book
   authors:
@@ -12249,20 +12096,6 @@
   number: '6242'
   pages: 1422--1425
   doi: 10/gcpzwn
-- id: popper_welcome_2015
-  type: misc
-  authors:
-  - Ben Popper
-  title: Welcome, Nicolas Chabanovsky and Stack Overflow in Russian!
-  year: 2015
-  url: https://stackoverflow.blog/2015/06/11/welcome-nicolas-chabanovsky-and-stack-overflow-in-russian/
-- id: popper_stack_2015
-  type: misc
-  authors:
-  - Ben Popper
-  title: 'Stack Overflow in Portugese: now with less beta!'
-  year: 2015
-  url: https://stackoverflow.blog/2015/06/04/stack-overflow-in-portuguese-now-with-less-beta/
 - id: jay_developing_2015
   type: inproceedings
   authors:
@@ -12271,12 +12104,6 @@
   title: Developing reproducible and reusable methods through research software engineering
   year: 2015
   url: https://www.research.manchester.ac.uk/portal/en/publications/developing-reproducible-and-reusable-methods-through-research-software-engineering(ea424bf9-1256-4738-bc62-cd3e985e001a).html
-- id: heaton_software_2015
-  type: phdthesis
-  authors:
-  - Dustin Heaton
-  title: Software engineering for enabling scientific software development
-  year: 2015
 - id: heaton_claims_2015
   type: article
   authors:
@@ -12670,14 +12497,6 @@
   number: '1'
   pages: e1001745
   doi: 10/qtt
-- id: groger_nachhaltige_2014
-  type: book
-  authors:
-  - Jens Gröger
-  - Marina Köhn
-  title: Nachhaltige Software. Dokumentation des Fachgesprächs „Nachhaltige Software``
-    am 28.11.2014
-  year: 2014
 - id: ahn_open_2014
   type: article
   authors:
@@ -12729,18 +12548,6 @@
     and Experiences (WSSSPE2)'
   doi: 10.6084/m9.figshare.1112528
   publisher: figshare
-- id: bourque_guide_2014
-  type: book
-  authors:
-  - Pierre Bourque
-  - Richard E. Fairley
-  - IEEE Computer Society
-  title: 'Guide to the Software Engineering Body of Knowledge (SWEBOK(R)): Version
-    3.0'
-  year: 2014
-  url: https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf
-  publisher: IEEE Computer Society Press
-  address: Washington, DC, USA
 - id: palma_rohub_2014
   type: incollection
   authors:
@@ -13856,14 +13663,6 @@
   number: '4'
   pages: 517--536
   doi: 10.1007/s10664-005-3865-y
-- id: fogel_producing_2005
-  type: book
-  authors:
-  - Karl Fogel
-  title: 'Producing Open Source Software: How to Run a Successful Free Software Project'
-  year: 2005
-  url: https://www.oreilly.com/library/view/producing-open-source/0596007590/
-  publisher: O'Reilly Media
 - id: twidale_over_2005
   type: article
   authors:
@@ -13890,13 +13689,6 @@
     human–human interaction, using the computer screen as a shared resource to support
     this. In this way CSCW research may contribute to HCI research, since during such
     help giving, all computer systems are at least temporarily collab- orative applications.
-- id: sutter_free_2004
-  type: misc
-  authors:
-  - Herb Sutter
-  title: 'The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software'
-  year: 2004
-  url: http://www.gotw.ca/publications/concurrency-ddj.htm
 - id: humphreys_extending_2004
   type: book
   authors:
@@ -13946,15 +13738,6 @@
   number: '05'
   pages: 557--570
   doi: 10.1142/S0218488502001648
-- id: anderson_taxonomy_2001
-  type: book
-  authors:
-  - Lorin W. Anderson
-  - David R. Krathwohl
-  title: 'A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom''s
-    Taxonomy of Educational Objectives'
-  year: 2001
-  publisher: Addison Wesley Longman
 - id: gotterbarn_software_1999
   type: article
   authors:
