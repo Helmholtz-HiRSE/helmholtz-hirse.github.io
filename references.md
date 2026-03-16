@@ -42,7 +42,7 @@ You can download the full bibliography as a BibTeX file:
   {% if ref.volume %}{% assign venue = venue | append: ", " | append: ref.volume %}{% endif %}
   {% if ref.number %}{% assign venue = venue | append: "(" | append: ref.number | append: ")" %}{% endif %}
   {% if ref.pages %}{% assign venue = venue | append: ", pp. " | append: ref.pages %}{% endif %}
-  <em>{% if venue %}{{ venue }}, {% endif %}{{ ref.year }}</em>
+  <em>{% if venue != "" %}{{ venue }}, {% endif %}{{ ref.year }}</em>
   {% if ref.doi %}<br><a href="https://doi.org/{{ ref.doi }}" target="_blank" rel="noopener">DOI: {{ ref.doi }}</a>{% elsif ref.url %}<br><a href="{{ ref.url }}" target="_blank" rel="noopener">{{ ref.url }}</a>{% endif %}
 </li>
 {% endfor %}
