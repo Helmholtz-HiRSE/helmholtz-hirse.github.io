@@ -42,6 +42,6 @@ body:
       label: Additional notes (optional)
       description: >-
         Anything the maintainers should know, e.g. why this reference is
-        relevant to HiRSE.
+        relevant to RSE.
     validations:
       required: false
