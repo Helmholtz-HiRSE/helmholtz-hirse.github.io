@@ -37,7 +37,7 @@ BIB_FILE = os.path.join(
 # ---------------------------------------------------------------------------
 # A DOI always starts with "10." followed by a registrant code and a suffix.
 _DOI_BARE = re.compile(
-    r'(?<!\w)(10\.\d{4,}(?:\.\d+)*/[^\s,;>\])"\']+)',
+    r'(?<!\w)(10\.\d{4,}(?:\.\d+)*/[^\s,;?&#>\])"\']+)',
 )
 _DOI_URL = re.compile(
     r'https?://(?:dx\.)?doi\.org/(10\.\d{4,}(?:\.\d+)*/[^\s,;>\])"\']+)',
