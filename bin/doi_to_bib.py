@@ -285,12 +285,17 @@ def load_bib(bib_path: str) -> bibtexparser.bibdatabase.BibDatabase:
         return bibtexparser.load(f, parser=parser)
 
 
-def write_bib(db: bibtexparser.bibdatabase.BibDatabase, bib_path: str) -> None:
+def write_bib(new_entries: list, bib_path: str) -> None:
+    """Append *new_entries* to the BibTeX file without touching existing content."""
+    mini_db = BibDatabase()
+    mini_db.entries = new_entries
     writer = BibTexWriter()
     writer.indent = '  '
     writer.add_trailing_comma = True
-    with open(bib_path, 'w', encoding='utf-8') as f:
-        f.write(writer.write(db))
+    writer.order_entries_by = None
+    new_text = writer.write(mini_db)
+    with open(bib_path, 'a', encoding='utf-8') as f:
+        f.write(new_text)
 
 
 # ---------------------------------------------------------------------------
@@ -332,7 +337,7 @@ def main() -> None:
 
     db = load_bib(bib_path)
     messages = []
-    added = 0
+    new_entries = []
 
     for kind, identifier in identifiers:
         print(f"Processing {kind}: {identifier} …", file=sys.stderr)
@@ -345,16 +350,16 @@ def main() -> None:
 
         if entry is not None:
             db.entries.append(entry)
-            added += 1
+            new_entries.append(entry)
 
-    if added:
-        write_bib(db, bib_path)
-        print(f"Added {added} new entry/entries to {bib_path}", file=sys.stderr)
+    if new_entries:
+        write_bib(new_entries, bib_path)
+        print(f"Added {len(new_entries)} new entry/entries to {bib_path}", file=sys.stderr)
 
     # Print the summary (captured by the workflow as the issue comment)
     summary_lines = [
         f"### 🤖 bibbot summary\n",
-        f"Processed {len(identifiers)} identifier(s), added {added} new entry/entries.\n",
+        f"Processed {len(identifiers)} identifier(s), added {len(new_entries)} new entry/entries.\n",
     ]
     summary_lines.extend(f"- {msg}" for msg in messages)
     print('\n'.join(summary_lines))
