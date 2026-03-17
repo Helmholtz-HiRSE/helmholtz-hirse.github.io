@@ -40,7 +40,7 @@ _DOI_BARE = re.compile(
     r'(?<!\w)(10\.\d{4,}(?:\.\d+)*/[^\s,;?&#>\])"\']+)',
 )
 _DOI_URL = re.compile(
-    r'https?://(?:dx\.)?doi\.org/(10\.\d{4,}(?:\.\d+)*/[^\s,;>\])"\']+)',
+    r'https?://(?:dx\.)?doi\.org/(10\.\d{4,}(?:\.\d+)*/[^\s,;?&#>\])"\']+)',
 )
 
 # arXiv identifiers
