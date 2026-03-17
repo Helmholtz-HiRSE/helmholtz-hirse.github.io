@@ -1,0 +1,47 @@
+name: Add reference(s) to bibliography
+description: >-
+  Submit one or more DOIs or arXiv IDs to be added to rse_publications.bib.
+  A maintainer will apply the "add-to-bib" label to trigger the automation.
+title: "Add reference: <brief description>"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Add reference(s) to the bibliography
+
+        Paste DOIs and/or arXiv IDs below — one per line.
+        The bot understands all of the following formats:
+
+        | Format | Example |
+        |--------|---------|
+        | Bare DOI | `10.1145/3194747.3194749` |
+        | DOI URL | `https://doi.org/10.1145/3194747.3194749` |
+        | arXiv new-style | `2301.12345` or `2301.12345v2` |
+        | arXiv old-style | `cs.LG/0601001` |
+        | arXiv URL | `https://arxiv.org/abs/2301.12345` |
+
+        After submitting this issue, a maintainer will add the **add-to-bib**
+        label to trigger the automated PR.
+
+  - type: textarea
+    id: identifiers
+    attributes:
+      label: DOIs / arXiv IDs
+      description: One identifier (or URL) per line.
+      placeholder: |
+        10.1145/3194747.3194749
+        2301.12345
+        https://arxiv.org/abs/2405.00001
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes (optional)
+      description: >-
+        Anything the maintainers should know, e.g. why this reference is
+        relevant to HiRSE.
+    validations:
+      required: false
