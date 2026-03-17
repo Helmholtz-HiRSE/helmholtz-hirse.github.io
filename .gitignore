@@ -2,3 +2,5 @@ _site/
 .jekyll-cache/
 vendor/
 _bibliography/*.bib.original
+__pycache__/
+*.pyc
