@@ -45,7 +45,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Tidy BibTeX file
-        run: npx --yes bibtex-tidy@1.14.0 --modify --quiet --sort=special,-year,key _bibliography/rse_publications.bib
+        run: npx --yes bibtex-tidy@1.14.0 _bibliography/rse_publications.bib --modify --quiet --sort=special,-year,key
 
       - name: Create pull request
         id: create_pr
