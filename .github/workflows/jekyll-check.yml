@@ -31,6 +31,17 @@ jobs:
           gem install bundler
           bundle install --path vendor/bundle
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r bin/requirements.txt
+
+      - name: Generate references YAML
+        run: python bin/generate_references.py
+
       - name: Build the site
         run: bundle exec jekyll build --future
 
