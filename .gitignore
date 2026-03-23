@@ -4,3 +4,4 @@ vendor/
 _bibliography/*.bib.original
 __pycache__/
 *.pyc
+assets/data/rse_publications.bib
