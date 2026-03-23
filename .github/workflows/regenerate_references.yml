@@ -1,0 +1,46 @@
+name: Regenerate References YAML
+
+# Automatically keeps _data/references.yml in sync whenever
+# _bibliography/rse_publications.bib is changed directly on main
+# (e.g. via a direct commit or a merged PR that only updated the bib file).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_bibliography/rse_publications.bib'
+
+jobs:
+  regenerate:
+    name: Regenerate _data/references.yml
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r bin/requirements.txt
+
+      - name: Generate references YAML
+        run: python bin/generate_references.py
+
+      - name: Commit updated YAML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet _data/references.yml; then
+            git add _data/references.yml
+            git commit -m "auto: regenerate references.yml from rse_publications.bib"
+            git push
+          else
+            echo "No changes to _data/references.yml — nothing to commit."
+          fi
