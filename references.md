@@ -9,7 +9,7 @@ This page lists RSE-related publications curated by the HiRSE community.
 It covers research software engineering best practices, FAIR software principles, sustainable software development, and related topics.
 
 You can download the full bibliography as a BibTeX file:
-[Download .bib file](/assets/data/rse_publications.bib){: .btn .btn-outline-secondary .btn-sm}
+[Download .bib file](https://raw.githubusercontent.com/Helmholtz-HiRSE/helmholtz-hirse.github.io/main/_bibliography/rse_publications.bib){: .btn .btn-outline-secondary .btn-sm}
 
 ---
 

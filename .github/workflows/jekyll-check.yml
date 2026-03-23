@@ -31,11 +31,6 @@ jobs:
           gem install bundler
           bundle install --path vendor/bundle
 
-      - name: Copy bib file for download link
-        run: |
-          mkdir -p assets/data
-          cp _bibliography/rse_publications.bib assets/data/rse_publications.bib
-
       - name: Build the site
         run: bundle exec jekyll build --future
 
