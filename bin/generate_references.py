@@ -23,7 +23,6 @@ import yaml
 
 BIB_FILE = os.path.join(os.path.dirname(__file__), '..', '_bibliography', 'rse_publications.bib')
 YAML_FILE = os.path.join(os.path.dirname(__file__), '..', '_data', 'references.yml')
-ASSETS_BIB_COPY = os.path.join(os.path.dirname(__file__), '..', 'assets', 'data', 'rse_publications.bib')
 
 
 def clean_latex(text):
@@ -152,13 +151,6 @@ def main():
         yaml.dump(entries, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
     print(f"Written {len(entries)} entries to {yaml_path}")
-
-    # Keep the publicly served copy in sync so the download link works
-    import shutil
-    assets_bib_path = os.path.abspath(ASSETS_BIB_COPY)
-    os.makedirs(os.path.dirname(assets_bib_path), exist_ok=True)
-    shutil.copy2(bib_path, assets_bib_path)
-    print(f"Copied bib file to {assets_bib_path}")
 
 
 if __name__ == '__main__':

@@ -109,7 +109,7 @@ jobs:
             echo "--- Processing: $identifier"
 
             # Reset tracked files to the base branch state before each attempt
-            git checkout "$MAIN_BRANCH" -- _bibliography/rse_publications.bib _data/references.yml assets/data/rse_publications.bib
+            git checkout "$MAIN_BRANCH" -- _bibliography/rse_publications.bib
 
             # Run bibbot for this single identifier
             python bin/doi_to_bib.py --input "$identifier" \
@@ -150,7 +150,7 @@ jobs:
 
             # Create (or reset) the branch, commit, push
             git checkout -B "$BRANCH"
-            git add _bibliography/rse_publications.bib _data/references.yml assets/data/rse_publications.bib
+            git add _bibliography/rse_publications.bib
             git commit -m "bib: add ${DISPLAY_ID} from Scholar alert"
             git push --force-with-lease origin "$BRANCH"
 
