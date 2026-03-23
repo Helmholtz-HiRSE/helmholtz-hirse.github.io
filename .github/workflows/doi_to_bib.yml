@@ -47,9 +47,6 @@ jobs:
       - name: Tidy BibTeX file
         run: npx --yes bibtex-tidy@1.14.0 _bibliography/rse_publications.bib --modify --quiet --sort=special,-year,key
 
-      - name: Regenerate references YAML
-        run: python bin/generate_references.py
-
       - name: Create pull request
         id: create_pr
         uses: peter-evans/create-pull-request@v7

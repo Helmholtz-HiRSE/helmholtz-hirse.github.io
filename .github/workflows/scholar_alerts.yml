@@ -127,9 +127,6 @@ jobs:
             npx --yes bibtex-tidy@1.14.0 _bibliography/rse_publications.bib \
               --modify --quiet --sort=special,-year,key
 
-            # Regenerate the references YAML so the website reflects the new entry
-            python bin/generate_references.py
-
             # Build a branch name that is safe and human-readable
             SAFE_ID=$(echo "$identifier" \
               | sed 's|https://doi\.org/||; s|https://arxiv\.org/abs/|arxiv-|' \
