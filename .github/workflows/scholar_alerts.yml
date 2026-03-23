@@ -109,7 +109,7 @@ jobs:
             echo "--- Processing: $identifier"
 
             # Reset tracked files to the base branch state before each attempt
-            git checkout "$MAIN_BRANCH" -- _bibliography/rse_publications.bib _data/references.yml
+            git checkout "$MAIN_BRANCH" -- _bibliography/rse_publications.bib
 
             # Run bibbot for this single identifier
             python bin/doi_to_bib.py --input "$identifier" \
@@ -126,9 +126,6 @@ jobs:
             # Tidy the bib file
             npx --yes bibtex-tidy@1.14.0 _bibliography/rse_publications.bib \
               --modify --quiet --sort=special,-year,key
-
-            # Regenerate the references YAML so the website reflects the new entry
-            python bin/generate_references.py
 
             # Build a branch name that is safe and human-readable
             SAFE_ID=$(echo "$identifier" \
@@ -150,7 +147,7 @@ jobs:
 
             # Create (or reset) the branch, commit, push
             git checkout -B "$BRANCH"
-            git add _bibliography/rse_publications.bib _data/references.yml
+            git add _bibliography/rse_publications.bib
             git commit -m "bib: add ${DISPLAY_ID} from Scholar alert"
             git push --force-with-lease origin "$BRANCH"
 
