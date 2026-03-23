@@ -4,8 +4,6 @@ sass:
   load_paths:
     - .
   silence_deprecations:
-    - global-builtin
-    - color-functions
     - import
 
 title: HiRSE
