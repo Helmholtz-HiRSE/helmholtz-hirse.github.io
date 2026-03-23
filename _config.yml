@@ -3,6 +3,10 @@ sass:
   # Include the project root ('.') in load_paths so that Sass can resolve imports from the root directory.
   load_paths:
     - .
+  silence_deprecations:
+    - global-builtin
+    - color-functions
+    - import
 
 title: HiRSE
 
