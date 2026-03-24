@@ -1,4 +1,6 @@
 // stylelint-disable function-disallowed-list
+@use "sass:map" as map;
+
 
 // .modal-open      - body class for killing the scroll
 // .modal           - container to scroll within
@@ -209,7 +211,7 @@
 }
 
 // scss-docs-start modal-fullscreen-loop
-@each $breakpoint in map-keys($grid-breakpoints) {
+@each $breakpoint in map.keys($grid-breakpoints) {
   $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
   $postfix: if($infix != "", $infix + "-down", "");
 
