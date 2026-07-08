@@ -24,6 +24,9 @@ collections:
   summer_of_languages:
     output: true
     permalink: /series/summer_of_languages/:name/
+  summer_of_ai_for_rse:
+    output: true
+    permalink: /series/summer_of_ai_for_rse/:name/
   promo:
     output: true
 
