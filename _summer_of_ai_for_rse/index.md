@@ -20,3 +20,4 @@ All videos can be found on the [HiRSE YouTube Channel](https://www.youtube.com/@
 
 - ["Agentic AI for RSE: Faster Engineering, stricter validation, human scientific judgement" from Lars Hoffmann](https://www.youtube.com/watch?v=x8zf0sYVtGM&list=PLEwF-EQyxnO4&index=2)
 - ["AI-Generatred PRs in Open Source" by Florence Bockting](https://www.youtube.com/watch?v=Q2XyLKvJGLs) 
+- ["AI for RSE: a focus on Research Ethics and Risks" by Jeremy Thompson](https://www.youtube.com/watch?v=QjQS_sIEvz0)
