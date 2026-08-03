@@ -214,13 +214,15 @@ def fetch_doi(doi: str, db: bibtexparser.bibdatabase.BibDatabase) -> tuple:
     if not raw_bib or not raw_bib.startswith('@'):
         return None, f"❌ **{doi}** — doi.org did not return valid BibTeX."
 
-    parser = BibTexParser(common_strings=True)
     try:
-        parsed = bibtexparser.loads(raw_bib, parser=parser)
+        parsed = bibtexparser.loads(raw_bib, parser=BibTexParser(common_strings=True))
     except Exception:
         normalized_bib = _normalize_bare_month_fields(raw_bib)
         try:
-            parsed = bibtexparser.loads(normalized_bib, parser=parser)
+            parsed = bibtexparser.loads(
+                normalized_bib,
+                parser=BibTexParser(common_strings=True),
+            )
         except Exception as exc:
             return None, f"❌ **{doi}** — failed to parse the returned BibTeX: {exc}"
 
