@@ -50,6 +50,21 @@ _ARXIV_URL = re.compile(
 _ARXIV_NEW = re.compile(r'(?<![:/\w])(\d{4}\.\d{4,5}(?:v\d+)?)(?!\d)')
 _ARXIV_OLD = re.compile(r'(?<![:/\w])([a-zA-Z-]+(?:\.[A-Z]{2})?/\d{7})(?!\d)')
 
+_MONTH_NAMES = {
+    'jan', 'january',
+    'feb', 'february',
+    'mar', 'march',
+    'apr', 'april',
+    'may',
+    'jun', 'june',
+    'jul', 'july',
+    'aug', 'august',
+    'sep', 'sept', 'september',
+    'oct', 'october',
+    'nov', 'november',
+    'dec', 'december',
+}
+
 
 # ---------------------------------------------------------------------------
 # Identifier extraction
@@ -57,6 +72,24 @@ _ARXIV_OLD = re.compile(r'(?<![:/\w])([a-zA-Z-]+(?:\.[A-Z]{2})?/\d{7})(?!\d)')
 
 def _strip_arxiv_version(arxiv_id: str) -> str:
     return re.sub(r'v\d+$', '', arxiv_id.strip())
+
+
+def _normalize_bare_month_fields(raw_bib: str) -> str:
+    """
+    Quote bare month names (e.g. ``month = july``) to keep parser compatibility.
+    """
+
+    def _replace(match):
+        prefix, month_token, suffix = match.groups()
+        if month_token.lower() in _MONTH_NAMES:
+            return f"{prefix}{{{month_token}}}{suffix}"
+        return match.group(0)
+
+    return re.sub(
+        r'(?i)(\bmonth\s*=\s*)([a-z]+)(\s*[,}])',
+        _replace,
+        raw_bib,
+    )
 
 
 def extract_identifiers(text: str) -> list:
@@ -182,9 +215,16 @@ def fetch_doi(doi: str, db: bibtexparser.bibdatabase.BibDatabase) -> tuple:
         return None, f"❌ **{doi}** — doi.org did not return valid BibTeX."
 
     try:
-        parsed = bibtexparser.loads(raw_bib)
-    except Exception as exc:
-        return None, f"❌ **{doi}** — failed to parse the returned BibTeX: {exc}"
+        parsed = bibtexparser.loads(raw_bib, parser=BibTexParser(common_strings=True))
+    except Exception:
+        normalized_bib = _normalize_bare_month_fields(raw_bib)
+        try:
+            parsed = bibtexparser.loads(
+                normalized_bib,
+                parser=BibTexParser(common_strings=True),
+            )
+        except Exception as exc:
+            return None, f"❌ **{doi}** — failed to parse the returned BibTeX: {exc}"
 
     if not parsed.entries:
         return None, f"❌ **{doi}** — BibTeX parsed but contained no entries."
