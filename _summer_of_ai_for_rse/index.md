@@ -22,4 +22,5 @@ All videos can be found on the [HiRSE YouTube Channel](https://www.youtube.com/@
 - ["AI-Generatred PRs in Open Source" by Florence Bockting](https://www.youtube.com/watch?v=Q2XyLKvJGLs) 
 - ["AI for RSE: a focus on Research Ethics and Risks" by Jeremy Thompson](https://www.youtube.com/watch?v=QjQS_sIEvz0)
 - ["Using AI for Research Data Management Software" by Felix Neubauer](https://www.youtube.com/watch?v=7KylaPVl_y0&list=PLEwF-EQyxnO4&index=1)
-- ["Small agents for everyday research workflows" by Santiago Casas](https://www.youtube.com/watch?v=VoDMNLDHLlk&list=PLEwF-EQyxnO4&index=1) 
+- ["Small agents for everyday research workflows" by Santiago Casas](https://www.youtube.com/watch?v=VoDMNLDHLlk&list=PLEwF-EQyxnO4&index=1)
+- ["AI and the future of RSEs/ng" by Stephan Druskat](https://www.youtube.com/watch?v=OTG2ZvS9yyQ) 
