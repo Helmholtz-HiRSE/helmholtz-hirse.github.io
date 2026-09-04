@@ -9,6 +9,7 @@ Members: https://github.com/orgs/nest/people and https://nest-initiative.org
 Research Field: Helmholtz Information
 Scientific Community: Biology, Medicine, AI
 Funding: See https://github.com/nest/nest-simulator/blob/master/ACKNOWLEDGMENTS.md
+Repository: https://github.com/nest/nest-simulator
 Programming Languages: C++, Python
 License: GPL-2.0-or-later
 Cite:  <a href="https://doi.org/10.5281/zenodo.8344932" alt="NEST 3.6"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8344932.svg" alt="DOI"></a>
