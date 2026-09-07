@@ -25,3 +25,4 @@ All videos can be found on the [HiRSE YouTube Channel](https://www.youtube.com/@
 - ["Small agents for everyday research workflows" by Santiago Casas](https://www.youtube.com/watch?v=VoDMNLDHLlk&list=PLEwF-EQyxnO4&index=1)
 - ["AI and the future of RSEs/ng" by Stephan Druskat](https://www.youtube.com/watch?v=OTG2ZvS9yyQ) 
 - ["GenAI Training for RSEs" by Toby Hodges]( https://www.youtube.com/watch?v=TsCmD_LOYL8)
+- ["Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years" by Sandra Gesing](https://www.youtube.com/watch?v=FU1OMERjfOE)
