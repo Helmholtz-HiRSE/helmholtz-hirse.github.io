@@ -7,7 +7,7 @@ link: https://events.hifis.net/event/2688/
 excerpt_separator: <!--more-->
 ---
 
-On October 8-9, 2026, we will have our sixth HiRSE live meeting, at the [Helmholtz Center Hereon](https://www.hereon.de/), live, in person! Registration is open now: <[https://events.hifis.net/event/4396/](https://events.hifis.net/event/4396/)>
+On October 8-9, 2026, we will have our sixth HiRSE live meeting, at the [Helmholtz Center Hereon](https://www.hereon.de/), live, in person! [Registration is open now](https://events.hifis.net/event/4396/).
 <!--more-->
 
 Within the HiRSE project this is again the time to meet in person and talk in detail about what happened, what will happen, what is good and what is bad and how to proceed.
