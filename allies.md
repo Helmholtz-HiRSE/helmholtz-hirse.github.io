@@ -39,3 +39,18 @@ The mission of the Helmholtz Open Science Office is to promote the cultural chan
 The development of research software and the handling of research data has been essential for many areas within the fields of the [GAMM](https://www.gamm.org/en/) for decades and ranges from simulation scripts and data to accompany publications to extensive software libraries and petabytes of data for specific application areas.
 
 The GAMM Activity Group on Research Software Engineering and Research Data Management in Mathematics & Mechanics (GAMM FA RSE&RDM) aims at making a contribution here by providing impetus from the perspective of computer-driven sciences. They want to give the GAMM activities in the areas of research data and research software a visible home and promote synergies in the scientific exchange between the activities groups and identify GAMM-specific infrastructure requirements and fields of action.
+
+---
+<div> <a href="https://www.fz-juelich.de/en/rse"><img width="300" src="assets/JuRSE_keyvisual.svg"></a> </div>
+<br/>
+
+JuRSE — Jülich Research Software Engineering — is a Forschungszentrum Jülich-wide initiative and community of practice for scientists who code. It works to raise awareness and increase visibility for those developing software in and for research, and to improve good practice of research software across all disciplines and career levels.
+
+The JuRSE Initiative is tightly linked to the Joint Lab HiRSE: Helmholtz Information — Research Software Engineering, which aims at the establishment of central activities in RSE and the targeted sustainable funding of strategically important codes within Helmholtz Information. Following the well-known motto "Better Software, Better Research" coined by the Software Sustainability Institute, JuRSE connects people passionate about software, shares knowledge and resources, and supports the professionalisation of Research Software Engineering.
+
+---
+<div> <a href="https://www.rse-community.kit.edu"><img width="300" src="assets/RSEatKIT_Logo_wBachground_v2.png"></a> </div>
+<br/>
+
+RSE@KIT is the community of practice for Research Software Engineering at Karlsruhe Institute of Technology (KIT). It serves as the starting point for information, events, services and knowledge exchange in the context of research software engineering.
+The RSE@KIT community brings together stakeholders developing research software and applying RSE techniques and tools in their research process.
