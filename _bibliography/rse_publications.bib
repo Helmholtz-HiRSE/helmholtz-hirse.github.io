@@ -463,6 +463,16 @@
   url           = {https://arxiv.org/abs/2607.28290},
   year          = {2026}
 }
+@misc{Zhao_2026,
+  abstract      = {LLM agents execute tasks through repeated model calls over evolving histories of reasoning, actions, and tool feedback. Aggregate speculative-decoding metrics merge these distinct decisions, providing limited guidance on where draft supervision is needed. We present TraceSpec, a framework connecting trajectory evaluation with adaptive draft training. It combines dynamic execution with fixed-prefix replay and introduces TraceSpec-Traj, a corpus of 10,000 training states and 2,500 test states spanning browsing and software engineering. Analysis of five speculative baselines reveals that aggregate acceptance can rise with context length while declining within matched late browsing actions. Workload and phase further distinguish these trends, motivating supervision guided by trajectory conditions. TraceSpec trains on intermediate assistant turns and allocates a fixed prediction budget using state-conditioned estimates of prefix-aware acceptance gaps. Across three target sizes and two temperatures, it improves replay throughput by 12.5\% to 22.6\% over its DSpark base. Qwen3-4B ablations show that adaptive allocation increases accepted length by 3.3\% to 10.0\% over fixed full-turn supervision, with additional comparisons substantiating the roles of state conditioning and consecutive-token agreement. The resulting evaluation resources, trajectory findings, and training strategy connect the analysis of agent execution to practical draft improvement.},
+  archiveprefix = {arXiv},
+  author        = {Jihao Zhao and Shuaishuai Zu and Pengfei Li and Biao Qin and Guanghuan Fang and Ben Feng and Baochuan Yang},
+  eprint        = {2610.41177},
+  primaryclass  = {cs.CL},
+  title         = {TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents},
+  url           = {https://arxiv.org/abs/2610.41177},
+  year          = {2026}
+}
 @article{chourdakis_teaching_2025,
   author        = {Chourdakis, Gerasimos and Ashraf, Hasan and Narvaez Rivas, Santiago and Neckel, Tobias and Bungartz, Hans-Joachim},
   doi           = {10.14279/eceasst.v83.2615},
